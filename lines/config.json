@@ -1403,7 +1403,7 @@
         },
         {
             "name": "自用",
-            "url": "https://raw.gitcode.com/cyh92/live/raw/main/list.m3u",
+            "url": "http://cyh92.cn/list.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
         },
