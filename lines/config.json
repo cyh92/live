@@ -1405,7 +1405,7 @@
             "name": "自用",
             "url": "http://cyh92.cn/list.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/logo/{name}.png"
+            "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
             "name": "Live",
