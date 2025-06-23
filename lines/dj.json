@@ -192,15 +192,6 @@
             "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/一个短剧.json"
         },
         {
-            "key": "Wexduanju001",
-            "name": "🍉短剧┃极品🍉",
-            "type": 3,
-            "api": "csp_Wexduanju001",
-            "searchable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/wex.txt;md5;ad89290b2827c73514863bf47d58d336",
-            "changeable": 1
-        },
-        {
             "key": "夜猫短剧",
             "name": "🍡夜猫短剧",
             "type": 3,
