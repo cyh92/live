@@ -15,5 +15,4 @@ jobs:
       - name: Run Task
         run: |              # 在此处写自动化脚本
           echo "开始执行任务..."
-          python your_script.py  # 运行自定义脚本
           echo "任务完成！"
