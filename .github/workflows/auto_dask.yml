@@ -1,0 +1,19 @@
+name: Auto Task Runner
+on: 
+  push:
+    branches: [ main ]      # 触发分支
+  schedule:
+    - cron: '0 0 * * *'     # 每天UTC 0点执行（北京时间8点）
+
+jobs:
+  automation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Run Task
+        run: |              # 在此处写自动化脚本
+          echo "开始执行任务..."
+          python your_script.py  # 运行自定义脚本
+          echo "任务完成！"
