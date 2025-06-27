@@ -1,4 +1,5 @@
 『央✯视』,#genre#
+CCTV1-香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 CCTV1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
@@ -49,6 +50,11 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
 四川卫视,http://qwt.zhibotv.top:2016/全网通.php?id=四川卫视
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
@@ -124,18 +130,25 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 
 
 儿童频道,#genre#
+卡酷少儿,http://www.dsk.cc/php/hnlt.php?id=kkse&m.m3u8
+卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 浙江少儿,video://https://www.cztv.com/liveTV/108
-山东少儿,video://https://v.iqilu.com/live/sepd/
 新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 优漫卡通,video://https://live.jstv.com/?channelId=543
-广东少儿,video://https://www.gdtv.cn/tvChannelDetail/54
-嘉佳卡通,video://https://www.gdtv.cn/tvChannelDetail/66
+山东少儿,video://https://v.iqilu.com/live/sepd/
+山东少儿,http://182.32.159.22:85/tsfile/live/1002_1.m3u8?key=txiptv
+广东少儿,http://www.dsk.cc/gdtv/gdtv.php?id=gdse
+嘉佳卡通,http://www.dsk.cc/gdtv/gdtv.php?id=jjkt
+嘉佳卡通,http://www.dsk.cc/php/hnlt.php?id=jjkt&m.m3u8
+黑龙江少儿,video://https://www.hljtv.com/live/folder422/
+黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+江西少儿,http://www.dsk.cc/jxtv/jxtv.php?id=jxse
+江西少儿,http://www.dsk.cc/jxtv/gy.php?id=jxtv6
+
 河北少儿科教,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
 海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
-黑龙江少儿,video://https://www.hljtv.com/live/folder422/
-江西少儿,video://https://www.jxntv.cn/live/#/jxtv6
 宁夏少儿,video://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 
 卫视频道,#genre#
@@ -191,7 +204,7 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 东南卫视,video://http://www.dsk.cc/fjtv/fjzb.html?id=dnws
 海峡卫视,video://http://www.dsk.cc/fjtv/fjxl.html?id=hxws
 海峡卫视,video://http://www.dsk.cc/fjtv/fjzb.html?id=hxws
-广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
+广东卫视v,video://https://www.gdtv.cn/tvChannelDetail/43
 广东卫视,video://http://www.dsk.cc/p/tc.html?id=http://my.tmos.cn:15181/chs006.m3u8
 深圳卫视,video://http://www.dsk.cc/gdtv/sztv.html?id=szws
 深圳卫视,video://http://www.dsk.cc/gdtv/szzb.html?id=szws
@@ -277,6 +290,9 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 凤凰中文,video://http://www.126zbw.com/gat/fhzw.html
 凤凰资讯,video://http://www.126zbw.com/gat/fhzx.html
 凤凰香港,video://http://www.126zbw.com/gat/fhxg.html
+
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 
 凤凰中文,video://https://m.345iptv.com/iptv.php?act=play&token=79a1803e9bdb227ac810ad52ecd92494&tid=gt&id=1
 凤凰资讯,video://https://m.345iptv.com/iptv.php?act=play&token=408abe045b49d468e9717c87808b723e&tid=gt&id=2
@@ -427,6 +443,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 公共频道,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=4
 农业科教,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=5
 安徽国际,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
+安徽移动,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
 
 河北,#genre#
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -437,3 +454,16 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 河北少儿,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
 河北文旅公共,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 河北三佳购物频道,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=7
+
+新疆,#genre#
+新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
+新疆维吾尔语,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
+新疆哈萨克语,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
+新疆汉语娱乐,video://https://www.xjtvs.com.cn/column/tv/434?channelId=16
+新疆汉语新闻,video://https://www.xjtvs.com.cn/column/tv/434?channelId=17
+新疆-7,video://https://www.xjtvs.com.cn/column/tv/434?channelId=18
+新疆-8,video://https://www.xjtvs.com.cn/column/tv/434?channelId=19
+新疆-9,video://https://www.xjtvs.com.cn/column/tv/434?channelId=20
+新疆-10,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
+新疆-11,video://https://www.xjtvs.com.cn/column/tv/434?channelId=22
+新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
