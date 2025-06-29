@@ -282,7 +282,7 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 陕西卫视,video://https://www.xuexi.cn/xxqg.html?id=63fbcee70e0140c991541b5412c9552d
 甘肃卫视,video://https://www.xuexi.cn/xxqg.html?id=dc13ed51077a4200a8a41e5e02457fdb
 青海卫视,video://https://www.xuexi.cn/xxqg.html?id=49718a9c8d364f6b8c6e666739e90780
-宁夏卫视,webview://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
+宁夏卫视,video://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
 
@@ -467,3 +467,5 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 新疆-10,video://https://www.xjtvs.com.cn/column/tv/434?channelId=21
 新疆-11,video://https://www.xjtvs.com.cn/column/tv/434?channelId=22
 新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
+
+新疆卫视w,webview://https://www.xjtvs.com.cn/column/tv/434
