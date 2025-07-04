@@ -54,13 +54,14 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
-星空卫视p2p,P2p://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
-星空卫视p,P2p://ns2.hellotvvod.com:9906/559c82439baa4959b27ac0e046e5959c
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
 无线新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
+
 翡翠台,http://qwt.zhibotv.top:2016/全网通.php?id=翡翠台
 中天新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=中天新闻
 寰宇新闻台,http://qwt.zhibotv.top:2016/全网通.php?id=寰宇新闻
@@ -279,12 +280,16 @@ CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumb
 凤凰资讯,video://http://www.126zbw.com/gat/fhzx.html
 凤凰香港,video://http://www.126zbw.com/gat/fhxg.html
 
-莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
-
 凤凰中文,video://https://m.345iptv.com/iptv.php?act=play&token=79a1803e9bdb227ac810ad52ecd92494&tid=gt&id=1
 凤凰资讯,video://https://m.345iptv.com/iptv.php?act=play&token=408abe045b49d468e9717c87808b723e&tid=gt&id=2
 凤凰香港,video://https://m.345iptv.com/iptv.php?act=play&token=c1be28fc81c8394e1645798aa6be1230&tid=gt&id=3
+
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+民视,rtmp://f13h.mine.nu/sat/tv051
+中视,rtmp://f13h.mine.nu/sat/tv091
+华视,rtmp://f13h.mine.nu/sat/tv111
+台视,rtmp://f13h.mine.nu/sat/tv071
+
 TVB翡翠台,video://https://m.345iptv.com/iptv.php?act=play&token=29b158f13f9f650e4986109e7261f375&tid=gt&id=5
 TVB无线新闻台,video://https://m.345iptv.com/iptv.php?act=play&token=302f4b3ac4d551e7d05beddf9fc08d06&tid=gt&id=6
 TVB Plus,video://https://m.345iptv.com/iptv.php?act=play&token=5579a4a5f8bef9aeae804de3588555e1&tid=gt&id=8
@@ -345,11 +350,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 爱尔达体育4台,video://https://m.345iptv.com/iptv.php?act=play&token=8f755e496538f08a34bf338e2cbf8b97&tid=gt&id=82
 大爱一台,video://https://m.345iptv.com/iptv.php?act=play&token=c9feb5ab6102186880884f1861c9c372&tid=gt&id=83
 大爱二台,video://https://m.345iptv.com/iptv.php?act=play&token=c06f38f89ebadaeb3b19bb3b3cd8ca03&tid=gt&id=84
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-民视,rtmp://f13h.mine.nu/sat/tv051
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视,rtmp://f13h.mine.nu/sat/tv071
+
 
 河南,#genre#
 河南卫视,video://https://static.hntv.tv/total/television/?id=145
