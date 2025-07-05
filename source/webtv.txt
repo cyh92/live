@@ -40,7 +40,7 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
 广西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=广西卫视
 贵州卫视,http://qwt.zhibotv.top:2016/全网通.php?id=贵州卫视
 新疆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=新疆卫视
-西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西南卫视
+西藏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=西藏卫视
 海南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=海南卫视
 山西卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山西卫视
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
@@ -126,10 +126,6 @@ CCTV13,video://http://www.dsk.cc/cctv/tjdx.php?id=cctv13
 CCTV13,video://http://www.126zbw.com/cctv/cctv13.html
 
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
-
-CETV1,video://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
-CETV2,video://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-CETV4,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
 CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
@@ -487,6 +483,12 @@ CCTV14,webview://https://tv.cctv.cn/live/cctv14/
 CCTV15,webview://https://tv.cctv.cn/live/cctv15/
 CCTV16,webview://https://tv.cctv.cn/live/cctv16/
 CCTV17,webview://https://tv.cctv.cn/live/cctv17/
+
+
+CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+
 
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
