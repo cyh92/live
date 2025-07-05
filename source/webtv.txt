@@ -140,6 +140,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 卡酷少儿,http://www.dsk.cc/php/hnlt.php?id=kkse&m.m3u8
 卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
+金鹰卡通,video://https://www.mgtv.com/live-new
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 浙江少儿,video://https://www.cztv.com/liveTV/108
 新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
@@ -492,11 +493,14 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
+天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
 东南卫视,webview://http://www.setv.fjtv.net/live/
-东方卫视,webview://https://live.kankanews.com/huikan/
+东方卫视,webview://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
+深圳卫视,webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
+深圳卫视4K,webview://https://www.sztv.com.cn/dianshi.shtml?id=24725
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 海南卫视,webview://http://tc.hnntv.cn/zb/28666112.shtml
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -509,11 +513,15 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 宁夏卫视,webview://http://www.nxtv.com.cn/tv/ws/
 青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
+安多卫视,webview://http://www.qhtb.cn/onlin/
 山东卫视,webview://https://v.iqilu.com/live/sdtv/index.html
 山西卫视,webview://https://www.sxrtv.com/tv/
-陕西卫视,webview://http://www.sxtvs.com/sxtvs_sxws/index.html
+陕西卫视,webview://http://live.snrtv.com/
+农林卫视,webview://http://live.snrtv.com/nl
 四川卫视,webview://https://www.sctv.com/watchTV
+康巴卫视,webview://https://www.kangbatv.com/zb_22587/
 西藏卫视,webview://https://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434
+兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 云南卫视,webview://https://www.yntv.cn/live.html
 浙江卫视,webview://https://www.cztv.com/liveTV
