@@ -127,7 +127,15 @@ CCTV13,video://http://www.126zbw.com/cctv/cctv13.html
 
 CCTV13,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 
+CETV1,video://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+CETV2,video://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+CETV4,video://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
+CEC汉语文化,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
+
+中经电视,http://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd.m3u8?auth_key=1688087053-0-0-23cbf908cc7d7529b5f3a0d862bbf503
+中经电视,rtmp://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd?auth_key=1688087053-0-0-a4620d3e3023a8b3827ad05fcd9e6364
 第一剧场,video://http://www.dsk.cc/p/gdy.html?id=dyjc
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 
