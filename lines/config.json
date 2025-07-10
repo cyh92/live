@@ -9,13 +9,13 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "配置中心",
             "name": "👨‍🍳‍配置┃中心",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
@@ -33,7 +33,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_SP360",
@@ -44,7 +44,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_Anime1",
@@ -54,7 +54,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_Dm84",
@@ -64,7 +64,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "csp_xpath_zaixiandianying8",
@@ -75,7 +75,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://szyyds.cn/tv/jsxp/zaixiandianying8.json",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/spider.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider.jar"
         },
         {
             "key": "csp_xpath_tjyy",
@@ -86,7 +86,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://szyyds.cn/tv/jsxp/huigutongying.json",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/spider.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider.jar"
         },
         {
             "key": "csp_SuBaiBai",
@@ -94,7 +94,7 @@
             "type": 3,
             "api": "csp_SuBaiBai",
             "ext": "http://subaibai.com",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "csp_Fantuan",
@@ -103,14 +103,14 @@
             "api": "csp_Fantuan",
             "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://www.fantuan.vip",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "比特",
             "name": "✌️️┃比特┃影视",
             "type": 3,
             "api": "csp_Bttwo",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "荐片",
@@ -119,7 +119,7 @@
             "type": 3,
             "playerType": "2",
             "ext": "http://api2.rinhome.com",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
             "key": "瓜子",
@@ -130,7 +130,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "order_num": 0,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "荐片",
@@ -139,7 +139,7 @@
             "type": 3,
             "playerType": "1",
             "ext": "http://api2.rinhome.com",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "csp_Wwys",
@@ -148,7 +148,7 @@
             "playerType": 1,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn/",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "csp_JPYY",
@@ -160,7 +160,7 @@
             "playerType": 0,
             "filterable": 1,
             "ext": "",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/1026.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
             "key": "天天",
@@ -169,7 +169,7 @@
             "api": "csp_TTian",
             "playerType": 2,
             "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"
         },
         {
             "key": "mmys",
@@ -236,7 +236,7 @@
             "playerType": 2,
             "filterable": 1,
             "ext": "",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "天天",
@@ -245,7 +245,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg==",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "热播",
@@ -254,7 +254,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "caHR0cDovL3YucmJvdHYuY24=",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "追剧",
@@ -263,7 +263,7 @@
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "daHR0cDovL2FwaS5remp0di5jb20=",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "雨夜",
@@ -272,7 +272,7 @@
             "api": "csp_Muou",
             "playerType": 1,
             "ext": "caHR0cDovL2FwcC55aXlpNTIxLnRvcC8=",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "雨滴",
@@ -281,7 +281,7 @@
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "优质",
@@ -290,7 +290,7 @@
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "木叶",
@@ -299,7 +299,7 @@
             "api": "csp_Frong",
             "playerType": 2,
             "ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "繁荣",
@@ -308,7 +308,7 @@
             "api": "csp_Frong",
             "playerType": 1,
             "ext": "FMy4wLjJ8aHR0cHM6Ly92aXAuMTIzcGFuLmNuLzE4MjY0MTAxNjkvZG9uZ3RhaS8xLnR4dHw0MmY3YTIwOXwyNXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnwwOWVlMzUxNmMxY2E4ZWQx",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "雷电",
@@ -317,7 +317,7 @@
             "api": "csp_Slys",
             "playerType": 1,
             "ext": "caHR0cDovLzEyMC4yMjQuNy45MDo4MDg=",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "柠檬",
@@ -326,7 +326,7 @@
             "api": "csp_Nmvod",
             "playerType": 2,
             "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "AI4",
@@ -338,14 +338,14 @@
             "filterable": 0,
             "playerType": 2,
             "ext": "iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q=",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "Dygang",
             "name": "电影港[边下边播]",
             "type": 3,
             "api": "csp_Dygang",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "蚂蚁",
@@ -357,7 +357,7 @@
             "filterable": 0,
             "playerType": 1,
             "ext": "jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "Lib",
@@ -368,7 +368,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM=",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "快看",
@@ -379,7 +379,7 @@
             "playerType": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "360_spider",
@@ -391,7 +391,7 @@
             "searchable": 1,
             "playerType": 2,
             "ext": "",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "NoSearch_csp_BBB",
@@ -402,7 +402,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
             "key": "量子资源",
@@ -679,7 +679,7 @@
                     "https://woj.nxog.eu.org"
                 ]
             },
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "csp_xiaomi",
@@ -687,7 +687,7 @@
             "type": 3,
             "api": "csp_Duopan",
             "ext": "https://wok.nxog.eu.org",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "🌟客星",
@@ -718,7 +718,7 @@
             "filterable": 1,
             "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://fantuan.vip/",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "xiongmao2",
@@ -759,7 +759,7 @@
             "name": "💥火火┃1080P",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "玩偶",
@@ -1183,7 +1183,7 @@
             "key": "csp_AliShare",
             "name": "🦋AList",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_AliShare",
             "searchable": 1,
             "changeable": 0,
@@ -1202,7 +1202,7 @@
             "key": "盘Se",
             "name": "🙀盘Se┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_PanSearch",
             "searchable": 1,
             "filterable": 0,
@@ -1217,7 +1217,7 @@
             "key": "易搜",
             "name": "😹易搜┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_YiSo",
             "searchable": 1,
             "filterable": 0,
@@ -1232,7 +1232,7 @@
             "key": "csp_QuPanSou",
             "name": "🤓趣盘搜┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_QuPanSou",
             "searchable": 1,
             "filterable": 1,
@@ -1247,7 +1247,7 @@
             "key": "csp_Qkpanso",
             "name": "🐚夸克盘搜┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
@@ -1262,7 +1262,7 @@
             "key": "米搜",
             "name": "🌖米搜┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Qkpanso",
             "searchable": 1,
             "filterable": 1,
@@ -1278,7 +1278,7 @@
             "key": "夸搜",
             "name": "🚢夸搜┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Qkso",
             "searchable": 1,
             "filterable": 1,
@@ -1293,7 +1293,7 @@
             "key": "云盘4K",
             "name": "🤖云盘4K┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Yunpan4k",
             "searchable": 1,
             "filterable": 0,
@@ -1309,7 +1309,7 @@
             "key": "影搜",
             "name": "🌸影搜┃搜索",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Yingso",
             "searchable": 1,
             "filterable": 0,
@@ -1325,7 +1325,7 @@
             "key": "push_agent",
             "name": "🛴手机┃推送",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
@@ -1342,7 +1342,7 @@
             "key": "我的阿里",
             "name": "🐱我的┃阿里",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_MyAli",
             "searchable": 0,
             "quickSearch": 0,
@@ -1360,7 +1360,7 @@
             "key": "我的夸克",
             "name": "🗽我的┃夸克",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_MyQuark",
             "searchable": 0,
             "quickSearch": 0,
@@ -1378,7 +1378,7 @@
             "key": "我的UC",
             "name": "😼我的┃UC",
             "type": 3,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ttkx.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
             "api": "csp_MyUc",
             "searchable": 0,
             "quickSearch": 0,
@@ -1397,9 +1397,9 @@
         {
             "name": "网页源",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
-            "url": "https://raw.gitcode.com/cyh92/live/raw/main/source/webtv.txt",
+            "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
             "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
@@ -1408,7 +1408,7 @@
             "name": "自用",
             "url": "http://cyh92.cn/list.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png"
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
             "name": "Live",
