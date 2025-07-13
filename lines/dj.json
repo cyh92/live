@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.gitcode.com/cyh92/live/raw/main/jar/duanju.jar",
+    "spider": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
     "sites": [
          {
             "key": "dbtj",
@@ -9,7 +9,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
         },
         {
             "key": "✨安迪短剧✨",
@@ -19,7 +19,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/安迪短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/安迪短剧.json"
         },
         {
             "key": "✨妖狐短剧✨",
@@ -29,7 +29,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/妖狐短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/妖狐短剧.json"
         },
         {
             "key": "✨555短剧✨",
@@ -39,7 +39,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/555短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/555短剧.json"
         },
         {
             "key": "✨PTT短剧✨",
@@ -49,7 +49,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/PTT短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/PTT短剧.json"
         },
         {
             "key": "✨理理短剧✨",
@@ -59,7 +59,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/理理短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/理理短剧.json"
         },
         {
             "key": "✨蚂蚁影库✨",
@@ -69,7 +69,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/蚂蚁短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/蚂蚁短剧.json"
         },
         {
             "key": "✨一起看✨",
@@ -79,7 +79,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/一起看短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/一起看短剧.json"
         },
         {
             "key": "✨天龙影院✨",
@@ -89,7 +89,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/天龙短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/天龙短剧.json"
         },
         {
             "key": "✨爱上电影✨",
@@ -99,7 +99,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/爱上短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/爱上短剧.json"
         },
         {
             "key": "✨白嫖者联盟✨",
@@ -109,7 +109,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/白嫖者.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/白嫖者.json"
         },
         {
             "key": "✨短剧屋✨",
@@ -119,7 +119,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/短剧屋.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/短剧屋.json"
         },
         {
             "key": "✨胖虎影院✨",
@@ -129,7 +129,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/胖虎短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/胖虎短剧.json"
         },
         {
             "key": "✨奇优影院✨",
@@ -139,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/奇优短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/奇优短剧.json"
         },
         {
             "key": "✨影梦短剧✨",
@@ -149,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/影梦短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/影梦短剧.json"
         },
         {
             "key": "✨毒舌短剧✨",
@@ -159,7 +159,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/毒舌短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/毒舌短剧.json"
         },
         {
             "key": "✨妖狐短剧✨",
@@ -169,7 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/妖狐短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/妖狐短剧.json"
         },
         {
             "key": "✨微云影视✨",
@@ -179,7 +179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/微云短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/微云短剧.json"
         },
         {
             "key": "✨一个短剧✨",
@@ -189,14 +189,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitcode.com/cyh92/live/raw/main/jar/json/一个短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/一个短剧.json"
         },
         {
             "key": "夜猫短剧",
             "name": "🍡夜猫短剧",
             "type": 3,
             "api": "csp_YMduanju",
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/ymz_0509.jar",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ymz_0509.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -209,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/spider0529.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider0529.jar"
         },
         {
             "key": "星芽短剧1",
@@ -219,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://raw.gitcode.com/cyh92/live/raw/main/jar/xc_0805.jar"
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/xc_0805.jar"
         },        
         {
             "key": "星芽短剧2",
@@ -236,9 +236,9 @@
         {
             "name": "网页源",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
-            "url": "https://raw.gitcode.com/cyh92/live/raw/main/source/webtv.txt",
+            "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png"
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         }
     ],
     "rules": [
