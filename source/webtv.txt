@@ -1,4 +1,4 @@
-『央✯视』WebView,#genre#
+『央✯视』W,#genre#
 CCTV1-香港,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 CCTV1,webview://https://tv.cctv.cn/live/cctv1/
 CCTV2,webview://https://tv.cctv.cn/live/cctv2/
@@ -22,7 +22,7 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
-『央✯视』Video,#genre#
+『央✯视』V,#genre#
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://https://m.345iptv.com/iptv.php?act=play&token=b24c817c388835408e21ad28465d6bc1&tid=ys&id=1
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
@@ -38,7 +38,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 
 
-卫视WebView,#genre#
+『卫✯视』W,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
@@ -76,7 +76,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 浙江卫视,webview://https://www.cztv.com/liveTV
 
 
-卫视Video,#genre#
+『卫✯视』V,#genre#
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,video://https://www.brtn.cn/btv/btvsy_index
 东南卫视,video://http://www.setv.fjtv.net/live/
@@ -141,7 +141,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
 
 
-儿童频道,#genre#
+少儿✯频道,#genre#
 卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
 金鹰卡通,video://https://www.mgtv.com/live-new
@@ -160,7 +160,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 宁夏少儿,video://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 
-卫视频道,#genre#
+卫视✯频道,#genre#
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
@@ -173,7 +173,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
 
 
-其他,#genre#
+其他✯频道,#genre#
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
@@ -182,7 +182,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 
 
-港澳台Video,#genre#
+『港✯澳』V,#genre#
 凤凰中文,video://http://www.126zbw.com/gat/fhzw.html
 凤凰资讯,video://http://www.126zbw.com/gat/fhzx.html
 凤凰香港,video://http://www.126zbw.com/gat/fhxg.html
@@ -259,7 +259,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 大爱二台,video://https://m.345iptv.com/iptv.php?act=play&token=c06f38f89ebadaeb3b19bb3b3cd8ca03&tid=gt&id=84
 
 
-河南Video,#genre#
+『河✯南』V,#genre#
 河南卫视,video://https://static.hntv.tv/total/television/?id=145
 河南都市,video://https://static.hntv.tv/total/television/?id=141
 河南民生,video://https://static.hntv.tv/total/television/?id=146
@@ -317,7 +317,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 驻马店综合,video://https://static.hntv.tv/total/television/?id=227
 济源综合,video://https://static.hntv.tv/total/television/?id=228
 
-安徽Video,#genre#
+『安✯徽』V,#genre#
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 经济生活,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=1
 综艺体育,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=2
@@ -327,7 +327,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 安徽国际,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
 安徽移动,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=7
 
-河北Video,#genre#
+『河✯北』V,#genre#
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 河北经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 河北农民,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
@@ -337,7 +337,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 河北文旅公共,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 河北三佳购物频道,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=7
 
-新疆Video,#genre#
+『新✯疆』V,#genre#
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
 新疆维吾尔语,video://https://www.xjtvs.com.cn/column/tv/434?channelId=3
 新疆哈萨克语,video://https://www.xjtvs.com.cn/column/tv/434?channelId=4
