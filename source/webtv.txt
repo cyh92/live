@@ -39,6 +39,8 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 
 『卫✯视』W,#genre#
+北京,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/btv8k.js
+文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
