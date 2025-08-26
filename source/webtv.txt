@@ -43,6 +43,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
 东南卫视,webview://http://www.setv.fjtv.net/live/
+东方卫视,webview://https://live.kankanews.com/huikan?id=1
 东方卫视,webview://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
@@ -82,7 +83,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,video://https://www.brtn.cn/btv/btvsy_index
 东南卫视,video://http://www.setv.fjtv.net/live/
-东方卫视,video://https://live.kankanews.com/huikan/
+东方卫视,video://https://live.kankanews.com/huikan?id=1
 甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
