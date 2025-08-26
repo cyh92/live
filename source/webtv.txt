@@ -156,21 +156,27 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 少儿✯频道,#genre#
 卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
+金鹰卡通,webview://https://live.mgtv.com/?channelId=287
+金鹰卡通,webview://https://www.mgtv.com/live-new
 金鹰卡通,video://https://live.mgtv.com/?channelId=287
 金鹰卡通,video://https://www.mgtv.com/live-new
+哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
 哈哈炫动,video://https://live.kankanews.com/huikan?id=9
+浙江少儿,webview://https://www.cztv.com/liveTV/108
 浙江少儿,video://https://www.cztv.com/liveTV/108
+新疆少儿,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 优漫卡通,video://https://live.jstv.com/?channelId=543
 南京少儿,https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
+海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+山东少儿,webview://https://v.iqilu.com/live/sepd/
 山东少儿,video://https://v.iqilu.com/live/sepd/
 山东少儿,http://182.32.159.22:85/tsfile/live/1002_1.m3u8?key=txiptv
 黑龙江少儿,video://https://www.hljtv.com/live/folder422/
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
-河北少儿科教,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
-海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
+宁夏少儿,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 宁夏少儿,video://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 
 其他✯频道,#genre#
@@ -336,6 +342,7 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 河北少儿,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
 河北文旅公共,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 河北三佳购物频道,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=7
+河北少儿科教,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
 
 『新✯疆』V,#genre#
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
