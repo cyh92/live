@@ -22,7 +22,30 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
+CCTV-1 综合,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV-3 综艺,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV-5 体育,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV-6 电影,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV-7 国防军事,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV-9 纪录,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV-10 科教,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV-11 戏曲,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV-12 社会与法,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV-13 新闻,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+
 『央✯视』V,#genre#
+CCTV-1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
+CCTV-3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
+CCTV-5,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=3
+CCTV-6,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=4
+CCTV-7,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=5
+CCTV-9,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=6
+CCTV-10,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=7
+CCTV-11,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=8
+CCTV-12,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=9
+CCTV-13,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=10
+
+
 CCTV1,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=11200132825562653886&toc_style_id=feeds_only_back&share_to=copy_url&track_id=c3e89ea6-77d8-4230-89a3-a492aa16ee4c
 CCTV1,video://https://m.345iptv.com/iptv.php?act=play&token=b24c817c388835408e21ad28465d6bc1&tid=ys&id=1
 CCTV2,video://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
@@ -38,25 +61,28 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 
 
+
 『卫✯视』W,#genre#
 北京,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/btv8k.js
 文艺,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/bjtime.js?id=bjwy
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
+东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
 东南卫视,webview://http://www.setv.fjtv.net/live/
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 东方卫视,webview://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
-
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
-大湾区卫视(海外版),webview://https://www.gdtv.cn/tvChannelDetail/46
+湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
+广东卫视,webview://https://m.miguvideo.com/m/liveDetail/608831231
 广东卫视,webview://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6
-大湾区卫视,webview://https://www.xuexi.cn/xxqg.html?id=b3b303acc4294b95bce47806bfee21bb
+大湾区卫视,webview://https://m.miguvideo.com/m/liveDetail/608917627
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
 海南卫视,webview://http://tc.hnntv.cn/zb/28666112.shtml
+海峡卫视,webview://https://m.miguvideo.com/m/liveDetail/849119120
+三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 黑龙江卫视,webview://https://www.hljtv.com/live/
 河南卫视,webview://https://static.hntv.tv/kds/#/
@@ -284,7 +310,16 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=ca987
 文物宝库,video://https://static.hntv.tv/total/television/?id=155
 武术世界,video://https://static.hntv.tv/total/television/?id=156
 
+河南戏曲,webview://https://www.hndyjyfw.gov.cn/livePlay.html?u=16
+
 郑州新闻综合,video://https://static.hntv.tv/total/television/?id=197
+郑州新闻综合,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595660085175275520#/
+郑州商都频道,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659997191360512#/
+郑州文体旅游,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659904266555392#/
+郑州豫剧频道,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920#/
+郑州妇女儿童,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659666227220480#/
+郑州都市生活,webview://https://4k.zztv.tv/tv/4k-urbanLife
+郑州都市生活,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659527848742913#/
 郑州教育频道,video://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
 
 
