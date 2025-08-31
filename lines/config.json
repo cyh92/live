@@ -27,6 +27,7 @@
         },
              {"key":"本地播放",
             "name":"🐼本地┃播放",
+            "jar":"https://gitee.com/cyh92/live/raw/main/jar/VveciD1r.png;md5;e1eb1eac49cc02687e5fbf724ab7e867",
             "type":3,"api":"csp_LocalGuard",
             "searchable":0,
             "changeable":0,
