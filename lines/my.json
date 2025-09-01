@@ -26,10 +26,10 @@
             "api": "csp_Hbitcr"
         }, 
         {
-            "key": "csp_YHDM",
+            "key": "csp_YHDMS",
             "name": "PPTV",
             "type": 3,
-            "api": "csp_YHDM2"
+            "api": "csp_YHDMS"
         }, 
         {
             "key": "csp_Jable",
