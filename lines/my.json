@@ -20,6 +20,12 @@
             "api": "csp_Eighteen"
         }, 
         {
+            "key": "csp_Hbitcr",
+            "name": "三歪影视",
+            "type": 3,
+            "api": "csp_Hbitcr"
+        }, 
+        {
             "key": "csp_Jable",
             "name": "JableTV",
             "type": 3,
