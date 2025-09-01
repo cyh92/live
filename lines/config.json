@@ -25,15 +25,19 @@
                 "ratio": 1.43
             }
         },
-         {"key":"本地文件",
-            "name":"🐼本地┃文件",
-            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar;md5;f78d5ce0fd970535d419215009c01c69",
-            "type":3,"api":"csp_Local",
-            "searchable":0,
-            "changeable":0,
-            "indexs":0
-            ,"style":{"type":"list"},
-            "timeout":5
+        {
+            "key": "本地文件",
+            "name": "🐼本地┃文件",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar;md5;f78d5ce0fd970535d419215009c01c69",
+            "type": 3,
+            "api": "csp_Local",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            },
+            "timeout": 5
         },
         {
             "key": "csp_Qiyou",
@@ -1188,7 +1192,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },       
+        },
         {
             "key": "盘Se",
             "name": "🙀盘Se┃搜索",
@@ -1383,22 +1387,22 @@
             },
             "timeout": 30
         },
-         {
+        {
             "key": "csp_AList",
             "name": "🦋AList",
             "type": 3,
-            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar;md5;f78d5ce0fd970535d419215009c01c69",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar;md5;f78d5ce0fd970535d419215009c01c69",
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "filterable": 0,            
+            "filterable": 0,
             "style": {
                 "type": "list"
             },
             "timeout": 30
         }
     ],
-    "lives": [  
+    "lives": [
         {
             "name": "网页源",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
@@ -1408,7 +1412,7 @@
             "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
-        },     
+        },
         {
             "name": "自用",
             "url": "http://cyh92.cn/list.m3u",
