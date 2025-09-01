@@ -2,14 +2,10 @@
     "spider": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar;md5;f78d5ce0fd970535d419215009c01c69",
     "sites": [
          {
-            "key": "dbtj",
-            "name": "豆瓣排行",
+            "key": "csp_Douban",
+            "name": "豆瓣热播",
             "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "api": "csp_Douban"
         },
         {
             "key": "csp_Bili",
