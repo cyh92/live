@@ -18,6 +18,18 @@
             "api": "csp_Bili"
         },
         {
+            "key": "csp_Eighteen",
+            "name": "18电影",
+            "type": 3,
+            "api": "csp_Eighteen"
+        }, 
+        {
+            "key": "csp_Jable",
+            "name": "JableTV",
+            "type": 3,
+            "api": "csp_Jable"
+        },
+        {
             "key": "csp_Jianpian",
             "name": "荐片",
             "type": 3,
