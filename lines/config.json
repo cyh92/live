@@ -1188,26 +1188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_AliShare",
-            "name": "🦋AList",
-            "type": 3,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ttkx.jar",
-            "api": "csp_AliShare",
-            "searchable": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/tvbox/tok.txt",
-                "share": "http://127.0.0.1:9978/file/tvbox/阿里集合.json"
-            },
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
+        },       
         {
             "key": "盘Se",
             "name": "🙀盘Se┃搜索",
@@ -1401,7 +1382,21 @@
                 "type": "list"
             },
             "timeout": 30
-        }
+        },
+         {
+            "key": "csp_AList",
+            "name": "🦋AList",
+            "type": 3,
+            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar;md5;f78d5ce0fd970535d419215009c01c69",
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,            
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
     ],
     "lives": [  
         {
