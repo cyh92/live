@@ -1,5 +1,5 @@
 {
-    "spider": "http://192.168.10.16/cyh92.jar",
+    "spider": "http://192.168.10.16/cyh92.jar;md5;3c00a84839d6a6433f2bedbb970a6542",
     "sites": [
          {
             "key": "csp_Douban",
