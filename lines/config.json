@@ -1396,7 +1396,7 @@
                 "type": "list"
             },
             "timeout": 30
-        },
+        }
     ],
     "lives": [  
         {
