@@ -38,6 +38,24 @@
             "api": "csp_Jianpian"
         },
         {
+            "key": "csp_Ysj",
+            "name": "异世界",
+            "type": 3,
+            "api": "csp_Ysj"
+        },
+         {
+            "key": "csp_Xb6v",
+            "name": "6v电影网",
+            "type": 3,
+            "api": "csp_Xb6v"
+        },
+        {
+            "key": "csp_Living",
+            "name": "聚合直播",
+            "type": 3,
+            "api": "csp_Living"
+        },
+        {
             "key": "csp_Kanqiu",
             "name": "88看球",
             "type": 3,
