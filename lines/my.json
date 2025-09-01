@@ -26,6 +26,12 @@
             "api": "csp_Hbitcr"
         }, 
         {
+            "key": "csp_PPTV",
+            "name": "PPTV",
+            "type": 3,
+            "api": "csp_PPTV"
+        }, 
+        {
             "key": "csp_Jable",
             "name": "JableTV",
             "type": 3,
