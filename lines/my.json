@@ -80,10 +80,10 @@
             "api": "csp_PTT"
         },
         {
-            "key": "csp_YHDM",
+            "key": "csp_YHDMH",
             "name": "樱花动漫",
             "type": 3,
-            "api": "csp_YHDM"
+            "api": "csp_YHDMH"
         },
         {
             "key": "csp_AList",
