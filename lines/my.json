@@ -18,6 +18,12 @@
             "name": "荐片",
             "type": 3,
             "api": "csp_Jianpian"
+        }, 
+        {
+            "key": "csp_Wqacr",
+            "name": "三浪影视",
+            "type": 3,
+            "api": "csp_Wqacr"
         },
         {
             "key": "csp_Ysj",
