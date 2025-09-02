@@ -20,16 +20,10 @@
             "api": "csp_Eighteen"
         }, 
         {
-            "key": "csp_Hbit",
+            "key": "csp_Hbitcr",
             "name": "三歪影视x",
             "type": 3,
-            "api": "csp_Hbit"
-        }, 
-        {
-            "key": "csp_YHDMS",
-            "name": "PPTV",
-            "type": 3,
-            "api": "csp_YHDMS"
+            "api": "csp_Hbitcr"
         }, 
         {
             "key": "csp_Jable",
