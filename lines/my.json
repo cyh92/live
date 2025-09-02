@@ -1,5 +1,5 @@
 {
-    "spider": "http://192.168.10.16/cyh92.jar",
+    "spider": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
     "sites": [
          {
             "key": "csp_Douban",
@@ -12,24 +12,6 @@
             "name": "哔哩哔哩",
             "type": 3,
             "api": "csp_Bili"
-        },
-        {
-            "key": "csp_Eighteen",
-            "name": "18电影",
-            "type": 3,
-            "api": "csp_Eighteen"
-        }, 
-        {
-            "key": "csp_Hbitcr",
-            "name": "三歪影视",
-            "type": 3,
-            "api": "csp_Hbitcr"
-        }, 
-        {
-            "key": "csp_Jable",
-            "name": "JableTV",
-            "type": 3,
-            "api": "csp_Jable"
         },
         {
             "key": "csp_Jianpian",
