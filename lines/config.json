@@ -542,7 +542,7 @@
             "playerType": 2,
             "filterable": 1,
             "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://fantuan.vip/",
+            "ext": "https://www.kankanqu.cc/",
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
