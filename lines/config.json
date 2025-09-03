@@ -384,32 +384,6 @@
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
-            "key": "量子资源",
-            "name": "量子资源",
-            "api": "http://cj.lziapi.com/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 1,
-            "search": 1
-        },
-        {
-            "key": "影图影视",
-            "name": "影图影视",
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 8,
-            "search": 1
-        },
-        {
             "key": "红牛资源",
             "name": "红牛资源",
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
@@ -466,16 +440,6 @@
             "key": "guangsuapi",
             "name": "光速资源",
             "api": "https://api.guangsuapi.com/api.php/provide/vod/json/from/gsm3u8",
-            "type": 1,
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "jyzyapi",
-            "name": "金鹰资源",
-            "api": "https://jinyingzy.com/provide/vod/",
             "type": 1,
             "playUrl": "",
             "searchable": 1,
@@ -551,28 +515,6 @@
             "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
         },
         {
-            "key": "csp_zhizhen",
-            "name": "🌹米QK┃4K4K",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://mucpan.cc",
-                    "https://woj.nxog.eu.org"
-                ]
-            },
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
-        },
-        {
-            "key": "csp_xiaomi",
-            "name": "🌹米UC┃4K4K",
-            "type": 3,
-            "api": "csp_Duopan",
-            "ext": "https://wok.nxog.eu.org",
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
-        },
-        {
             "key": "🌟客星",
             "name": "🌟客星┃1080P",
             "type": 3,
@@ -602,29 +544,6 @@
             "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
             "ext": "https://fantuan.vip/",
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
-        },
-        {
-            "key": "hipy_js_腾云驾雾[官]",
-            "name": "🌞腾腾┃解析",
-            "type": 3,
-            "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "order_num": 0,
-            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-        },
-        {
-            "key": "guoguo",
-            "name": "🌞果果┃解析",
-            "type": 3,
-            "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
         },
         {
             "key": "huohuo",
