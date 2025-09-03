@@ -103,14 +103,6 @@
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider.jar"
         },
         {
-            "key": "csp_SuBaiBai",
-            "name": "🏳️┃素白┃影视",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-            "ext": "http://subaibai.com",
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
             "key": "csp_Fantuan",
             "name": "🍙┃饭团┃影视",
             "type": 3,
@@ -127,15 +119,6 @@
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
         },
         {
-            "key": "荐片",
-            "name": "🎬┃荐片┃影视",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "2",
-            "ext": "http://api2.rinhome.com",
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/PandaQ241118.txt;md5;02570316c928917c1f6f263f4a35cc00"
-        },
-        {
             "key": "瓜子",
             "name": "🍉瓜子┃APP",
             "type": 3,
@@ -144,24 +127,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "order_num": 0,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
-        },
-        {
-            "key": "荐片",
-            "name": "🎬荐片┃磁力",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "1",
-            "ext": "http://api2.rinhome.com",
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
-        },
-        {
-            "key": "csp_Wwys",
-            "name": "🐶汪汪┃1080P",
-            "type": 3,
-            "playerType": 1,
-            "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn/",
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/1026.jar"
         },
         {
@@ -217,7 +182,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 15,
-            "ext": "https://auete.pro/",
+            "ext": "https://auete.cc/",
             "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
         },
         {
