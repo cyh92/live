@@ -39,7 +39,7 @@
             },
             "timeout": 5
         },
-         {
+        {
             "key": "wujinapi",
             "name": "无尽资源",
             "api": "https://api.wujinapi.me/api.php/provide/vod",
@@ -49,7 +49,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "ffzy",
             "name": "非凡┃资源",
             "type": 1,
@@ -59,7 +59,7 @@
             "filterable": 1,
             "playurl": "json:https://svip.ffzyplay.com/?url="
         },
-             {
+        {
             "key": "hongniuzy",
             "name": "红牛资源",
             "api": "https://www.hongniuzy3.com/api.php/provide/vod",
@@ -68,7 +68,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },  
+        },
         {
             "key": "1080zyk6",
             "name": "优质资源",
@@ -188,7 +188,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },      
+        },
         {
             "key": "apibdzy",
             "name": "百度资源",
@@ -299,7 +299,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-         {
+        {
             "key": "ckzy",
             "name": "CK资源",
             "api": "https://ckzy.me/api.php/provide/vod/",
@@ -454,7 +454,7 @@
             "timeout": 15,
             "ext": "https://auete.cc/",
             "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
-        },       
+        },
         {
             "key": "南瓜",
             "name": "南瓜┃App",
@@ -632,8 +632,7 @@
             "filterable": 1,
             "ext": "naHR0cHM6Ly93d3cucWlhb2ppOC5jb20vdHZib3gvYmlsaS5qc29u",
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
-        },     
-       
+        },
         {
             "key": "txsp",
             "name": "腾讯┃视频",
