@@ -148,16 +148,6 @@
             "filterable": 1
         },
         {
-            "key": "slapibf",
-            "name": "森林资源",
-            "api": "http://slapibf.com/api.php/provide/vod",
-            "type": 1,
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "sdzyapi",
             "name": "闪电资源",
             "api": "https://sdzyapi.com/api.php/provide/vod",
