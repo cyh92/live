@@ -74,6 +74,16 @@ mytv.writeFile(filename, contentStr);
 
 ```
 
+        {
+            "key": "slapibf",
+            "name": "森林资源",
+            "api": "http://slapibf.com/api.php/provide/vod",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
  {
             "key": "jyzyapi",
             "name": "金鹰资源",
