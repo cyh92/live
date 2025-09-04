@@ -28,9 +28,9 @@
             "playurl": "json:https://svip.ffzyplay.com/?url="
         },
              {
-            "key": "hongniuzy2",
+            "key": "hongniuzy",
             "name": "红牛资源",
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+            "api": "https://www.hongniuzy3.com/api.php/provide/vod",
             "type": 1,
             "playUrl": "",
             "searchable": 1,
@@ -80,7 +80,7 @@
         {
             "key": "haohuazy",
             "name": "豪华资源",
-            "api": "https://hhzyapi.com/api.php/provide/vod",
+            "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
             "type": 1,
             "playUrl": "",
             "searchable": 1,
