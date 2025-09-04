@@ -267,6 +267,16 @@
             "quickSearch": 1,
             "filterable": 1
         },
+         {
+            "key": "ckzy",
+            "name": "CK资源",
+            "api": "https://ckzy.me/api.php/provide/vod/",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "csp_Bili",
             "name": "哔哩哔哩",
