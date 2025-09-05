@@ -74,3 +74,64 @@ mytv.writeFile(filename, contentStr);
 
 ```
 
+        {
+            "key": "slapibf",
+            "name": "森林资源",
+            "api": "http://slapibf.com/api.php/provide/vod",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+ {
+            "key": "jyzyapi",
+            "name": "金鹰资源",
+            "api": "https://jyzyapi.com/provide/vod/",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "guangsuapi",
+            "name": "光速资源",
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/josn",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "apiyhzy",
+            "name": "樱花资源",
+            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "jszyapi",
+            "name": "极速|点播",
+            "api": "https://jszyapi.com/api.php/provide/vod/",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+         {
+            "key": "hhzyapi",
+            "name": "火狐|点播",
+            "api": "https://hhzyapi.com/api.php/provide/vod/",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
