@@ -132,9 +132,9 @@
         {
             "key": "moduzy5",
             "name": "魔都资源",
-            "api": "https://www.mdzyapi.com/api.php/provide/vod",
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/from/modum3u8",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://jiexi.modujx01.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -142,7 +142,7 @@
         {
             "key": "bfzy5",
             "name": "暴风资源",
-            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "api": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8",
             "type": 1,
             "playUrl": "https://jiexi.moduzyjx.com/?url=",
             "searchable": 1,
@@ -152,7 +152,7 @@
         {
             "key": "lzizy",
             "name": "量子资源",
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
+            "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
             "type": 1,
             "playUrl": "https://lziplayer.com/?url=",
             "searchable": 1,
