@@ -1,116 +1,6 @@
 {
     "spider": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
     "sites": [
-         {
-            "key": "dbtj",
-            "name": "豆瓣排行",
-            "type": 3,
-            "api": "csp_DouDou",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
-        },
-        {
-            "key": "✨安迪短剧✨",
-            "name": "✨安迪短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/安迪短剧.json"
-        },
-        {
-            "key": "✨妖狐短剧✨",
-            "name": "✨妖狐短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/妖狐短剧.json"
-        },
-        {
-            "key": "✨555短剧✨",
-            "name": "✨555短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/555短剧.json"
-        },
-        {
-            "key": "✨PTT短剧✨",
-            "name": "✨PTT短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/PTT短剧.json"
-        },
-        {
-            "key": "✨理理短剧✨",
-            "name": "✨理理短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/理理短剧.json"
-        },
-        {
-            "key": "✨蚂蚁影库✨",
-            "name": "✨蚂蚁短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/蚂蚁短剧.json"
-        },
-        {
-            "key": "✨一起看✨",
-            "name": "✨一起看短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/一起看短剧.json"
-        },
-        {
-            "key": "✨天龙影院✨",
-            "name": "✨天龙短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/天龙短剧.json"
-        },
-        {
-            "key": "✨爱上电影✨",
-            "name": "✨爱上短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/爱上短剧.json"
-        },
-        {
-            "key": "✨白嫖者联盟✨",
-            "name": "✨白嫖短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/白嫖者.json"
-        },
         {
             "key": "✨短剧屋✨",
             "name": "✨短剧屋✨",
@@ -122,38 +12,18 @@
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/短剧屋.json"
         },
         {
-            "key": "✨胖虎影院✨",
-            "name": "✨胖虎短剧✨",
+            "key": "✨安迪短剧✨",
+            "name": "⭐️七星短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/胖虎短剧.json"
-        },
-        {
-            "key": "✨奇优影院✨",
-            "name": "✨奇优短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/奇优短剧.json"
-        },
-        {
-            "key": "✨影梦短剧✨",
-            "name": "✨影梦短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/影梦短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/安迪短剧.json"
         },
         {
             "key": "✨毒舌短剧✨",
-            "name": "✨毒舌短剧✨",
+            "name": "⭐️毒舌短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -162,74 +32,190 @@
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/毒舌短剧.json"
         },
         {
-            "key": "✨妖狐短剧✨",
-            "name": "✨妖狐短剧✨",
+            "key": "✨老王影院✨",
+            "name": "⭐️天微短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/妖狐短剧.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/老王短剧.json"
+        },
+        {
+            "key": "✨明星短剧✨",
+            "name": "⭐️明星短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/明星短剧.json"
+        },
+        {
+            "key": "✨全能短剧✨",
+            "name": "⭐️全能短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/全能短剧.json"
+        },
+        {
+            "key": "✨影院王✨",
+            "name": "⭐️短剧之王",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/短剧王.json"
+        },
+        {
+            "key": "✨热播影院✨",
+            "name": "⭐️热播短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/热播短剧.json"
+        },
+        {
+            "key": "✨电影100影院✨",
+            "name": "⭐️一百短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/电影100短剧.json"
+        },
+        {
+            "key": "✨唐人街影院✨",
+            "name": "⭐️唐人短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/唐人街短剧.json"
+        },
+        {
+            "key": "✨天龙影院✨",
+            "name": "⭐️天龙短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/天龙短剧.json"
+        },
+        {
+            "key": "✨七味短剧✨",
+            "name": "⭐️七味短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/七味短剧.json"
+        },
+        {
+            "key": "✨量子影视✨",
+            "name": "⭐️量子短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/量子短剧.json"
+        },
+        {
+            "key": "✨CCTV短剧✨",
+            "name": "⭐️梯微短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/cctv短剧.json"
+        },
+        {
+            "key": "护航短剧",
+            "name": "⭐️护航短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.qdhuhang.com/qdhyl/48.html",
+                "数组": "part-2by3\"&&/a><span",
+                "标题": "html\">&&<",
+                "副标题": "✨+center\">&&<",
+                "图片": "data-original=\"&&\"",
+                "链接": "href=\"&&\"",
+                "线路数组": "ico_play.png&&/span>",
+                "线路标题": "✨七星推荐✨+>&&<",
+                "播放数组": "clearfix list&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "✨+>&&</",
+                "跳转播放链接": "var now=\"&&\"",
+                "简介": "✨七星短剧✨+讲述了:&&\">[替换:style type=\"text/css>>空]",
+                "分类url": "https://www.qdhuhang.com/qdhyl/{cateId}-{catePg}.html",
+                "分类": "女频剧$49#反转剧$50#穿越剧$51#古装剧$52#都市剧$53#脑洞剧$54#爽文剧$55"
+            }
+        },
+        {
+            "key": "✨稀饭短剧✨",
+            "name": "⭐️稀饭短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/稀饭短剧.json"
+        },
+        {
+            "key": "✨PTT短剧✨",
+            "name": "⭐️皮皮短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/PTT短剧.json"
+        },
+        {
+            "key": "✨理理短剧✨",
+            "name": "⭐️理理短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/理理短剧.json"
+        },
+        {
+            "key": "✨奇优影院✨",
+            "name": "⭐️奇优短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/奇优短剧.json"
         },
         {
             "key": "✨微云影视✨",
-            "name": "✨微云短剧✨",
+            "name": "⭐️微云短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/微云短剧.json"
-        },
-        {
-            "key": "✨一个短剧✨",
-            "name": "✨一个短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/一个短剧.json"
-        },
-        {
-            "key": "夜猫短剧",
-            "name": "🍡夜猫短剧",
-            "type": 3,
-            "api": "csp_YMduanju",
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/ymz_0509.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "星芽短剧",
-            "name": "🍡星芽短剧",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/spider0529.jar"
-        },
-        {
-            "key": "星芽短剧1",
-            "name": "🏅星芽",
-            "type": 3,
-            "api": "csp_AppXY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/xc_0805.jar"
-        },        
-        {
-            "key": "星芽短剧2",
-            "name": "🌟星芽┃短剧┃热推",
-            "type": 3,
-            "api": "csp_AppXY",
-            "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
         }
     ],
     "lives": [
@@ -567,24 +553,24 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
-            "type": 3,
-            "url": "Demo"
+            "name": "虾米的解析",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
         },
         {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
+            "name": "8090的解析",
+            "type": 0,
+            "url": "https://www.8090g.cn/?url="
         },
         {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
+            "name": "YT的解析",
+            "type": 0,
+            "url": "https://jx.yangtu.top/?url="
         },
         {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
+            "name": "CK的解析",
+            "type": 0,
+            "url": "https://www.ckplayer.vip/jiexi/?url="
         }
     ],
     "ijk": [
