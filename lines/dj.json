@@ -235,10 +235,10 @@
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
-                  "name": "短剧频道",
-                        "type": 0,
-                              "url": "https://7337.kstore.space/dj/js/duanju.txt",
-                                    "playerType": 1
+            "name": "短剧频道",
+            "type": 0,
+            "url": "https://7337.kstore.space/dj/js/duanju.txt",
+            "playerType": 1
         
         }
     ],
