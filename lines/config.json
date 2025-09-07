@@ -44,7 +44,7 @@
             "name": "无尽资源",
             "api": "https://api.wujinapi.me/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://www.xinlangjiexi.com/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -64,7 +64,7 @@
             "name": "红牛资源",
             "api": "https://www.hongniuzy3.com/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://www.hongniujiexi.com/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -74,7 +74,7 @@
             "name": "优质资源",
             "api": "https://api.yzzy-api.com/inc/apijson.php",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://vip.yzzy-player.vip/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -84,7 +84,7 @@
             "name": "丫丫资源",
             "api": "https://cj.yayazy.net/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://jx.yayazy.cc/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -94,7 +94,7 @@
             "name": "牛牛资源",
             "api": "https://api.niuniuzy.me/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -104,7 +104,7 @@
             "name": "360资源",
             "api": "https://360zyzz.com/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://www.360jiexi.com/player/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -114,7 +114,7 @@
             "name": "豪华资源",
             "api": "https://haohuazy.com/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://hhjiexi.com/play/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -144,7 +144,7 @@
             "name": "暴风资源",
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://jiexi.moduzyjx.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -154,7 +154,7 @@
             "name": "量子资源",
             "api": "https://cj.lziapi.com/api.php/provide/vod",
             "type": 1,
-            "playUrl": "",
+            "playUrl": "https://lziplayer.com/?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1021,6 +1021,26 @@
             "name": "-云析-",
             "type": 0,
             "url": "https://yparse.ik9.cc/index.php?url="
+        },
+        {
+            "name": "新浪解析",
+            "type": 0,
+            "url": "https://www.xinlangjiexi.com/m3u8/?url="
+        },
+        {
+            "name": "无尽解析",
+            "type": 0,
+            "url": "https://jx.wujinkk.com/dplayer/?url="
+        },
+        {
+            "name": "非凡解析",
+            "type": 0,
+            "url": "https://svip.ffzyplay.com/?url="
+        },
+        {
+            "name": "非凡解析",
+            "type": 0,
+            "url": "https://svip.ffzyplay.com/?url="
         }
     ],
     "flags": [

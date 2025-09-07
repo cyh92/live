@@ -278,6 +278,34 @@
             "filterable": 1
         },
         {
+            "key": "腾讯视频",
+            "name": "☀腾翼🔹天翔",
+            "type": 3,
+            "api": "https://gitee.com/cyh92/live/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/js/腾讯视频.js"
+        },
+        {
+            "key": "优酷视频",
+            "name": "☀悠悠🔹岁月",
+            "type": 3,
+            "api": "https://gitee.com/cyh92/live/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/js/优酷视频.js"
+        },
+        {
+            "key": "芒果视频",
+            "name": "☀茫茫🔹人海",
+            "type": 3,
+            "api": "https://gitee.com/cyh92/live/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/js/芒果视频.js"
+        },
+        {
+            "key": "爱奇艺",
+            "name": "☀爱在🔹心意",
+            "type": 3,
+            "api": "https://gitee.com/cyh92/live/raw/main/jar/js/drpy2.min.js",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/js/爱奇艺.js"
+        },
+        {
             "key": "csp_Bili",
             "name": "哔哩哔哩",
             "type": 3,
