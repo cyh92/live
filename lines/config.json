@@ -57,7 +57,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playurl": "json:https://svip.ffzyplay.com/?url="
+            "playurl": "https://svip.ffzyplay.com/?url="
         },
         {
             "key": "hongniuzy",
