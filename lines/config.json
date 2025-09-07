@@ -977,6 +977,26 @@
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
+                  "name": "AI线路",
+                        "type": 0,
+                              "url": "https://ghproxy.net/raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt",
+                                    "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+                                          "logo": "https://live.fanmingming.cn/tv/{name}.png",
+                                                "playerType": 2,
+                                                      "timeout": 10
+        },
+            {
+                      "name": "线路①",
+                            "type": 0,
+                                  "url": "http://rihou.cc:567/gggg.nzk",
+                                        "playerType": 2,
+                                              "ua": "okhttp/3",
+                                                    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+                                                          "logo": "https://epg.112114.eu.org/logo/{name}.png"
+            },
+            
+        
+        {
             "name": "Live",
             "url": "https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt"
         },
