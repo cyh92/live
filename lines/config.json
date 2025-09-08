@@ -308,6 +308,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },        
+        {
+            "key": "cechi",
+            "name": "策驰影院",
+            "type": 3,
+            "api": "csp_CeChi",
+            "jar":"https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar"
+
         },
         {
             "key": "csp_Qiyou",
@@ -749,12 +757,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/drpy.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/cyh92/TVBoxSource/refs/heads/main/JS/去看吧.js"
-        },
-        {
-            "key": "cechi",
-            "name": "策驰",
-            "type": 3,
-            "api": "csp_CeChi"
         },
         {
             "key": "盘Se",

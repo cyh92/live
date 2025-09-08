@@ -276,6 +276,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },                
+        {
+            "key": "cechi",
+            "name": "策驰影院",
+            "type": 3,
+            "api": "csp_CeChi"
+
         },
         {
             "key": "腾讯视频",
