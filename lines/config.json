@@ -308,7 +308,57 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },        
+        }, 
+         {
+            "key": "jacloudapi",
+            "name": "建安资源",
+            "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
+            "type": 1,
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },                    
+         {
+            "key": "iqiyizy",
+            "name": "爱奇资源",
+            "api": "https://www.iqiyizy.com/api.php/provide/vod/from/iqym3u8",
+            "type": 1,
+            "playUrl": "https://www.iqiyizyjx.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },                     
+         {
+            "key": "maoyanapi",
+            "name": "猫眼资源",
+            "api": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8",
+            "type": 1,
+            "playUrl": "https://jx.maoyanjx.top/player/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },                        
+         {
+            "key": "dyttzyapi",
+            "name": "电影天堂",
+            "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8",
+            "type": 1,
+            "playUrl": "https://vip.dyttzyplay.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },                           
+         {
+            "key": "tyyszy5",
+            "name": "天涯影视",
+            "api": "https://ty.tyyszy5.com/api.php/provide/vod/from/tym3u8",
+            "type": 1,
+            "playUrl": "https://tyyszywjx.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },  
         {
             "key": "cechi",
             "name": "策驰影院",
