@@ -6,11 +6,10 @@
             "key": "dbtj",
             "name": "豆瓣排行",
             "type": 3,
-            "api": "csp_DouDou",
+            "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+            "filterable": 0
         },
         {
             "key": "本地文件",
