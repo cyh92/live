@@ -376,12 +376,6 @@
             "api": "csp_DyGang"
         },
         {
-            "key": "Hbitcr",
-            "name": "Hbitcr",
-            "type": 3,
-            "api": "csp_Hbitcr"
-        },
-        {
             "key": "Jianpian",
             "name": "Jianpian",
             "type": 3,
@@ -406,12 +400,6 @@
             "api": "csp_Local"
         },
         {
-            "key": "Mebcf",
-            "name": "Mebcf",
-            "type": 3,
-            "api": "csp_Mebcf"
-        },
-        {
             "key": "PanSearch",
             "name": "PanSearch",
             "type": 3,
@@ -428,12 +416,6 @@
             "name": "SP360",
             "type": 3,
             "api": "csp_SP360"
-        },
-        {
-            "key": "Wqacr",
-            "name": "Wqacr",
-            "type": 3,
-            "api": "csp_Wqacr"
         },
         {
             "key": "Xb6v",
