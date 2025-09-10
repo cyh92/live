@@ -592,8 +592,8 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "Live",
-            "url": "https://gitee.com/cyh92/StaticPage/raw/master/tv/latest.txt"
+            "name": "FM",
+            "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
         },
         {
             "name": "owen2000wy",
