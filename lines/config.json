@@ -366,7 +366,7 @@
             },
             "ext": {
                 "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩合集.json",
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
         {
@@ -378,7 +378,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
                 "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩哔哩相声.json"
             },
             "style": {
@@ -395,7 +395,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
                 "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩哔哩小品.json"
             },
             "style": {
@@ -412,7 +412,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
                 "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩哔哩戏曲.json"
             },
             "style": {
