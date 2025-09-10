@@ -365,13 +365,13 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://gitee.com/cyh92/live/raw/main/jar/json/BiliBili/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
+                "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩合集.json",
                 "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt"
             }
         },
         {
             "key": "哔哩哔哩相声",
-            "name": "七星🌟┃相声哔哩",
+            "name": "相声哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -379,7 +379,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
-                "json": "https://gitee.com/cyh92/live/raw/main/jar/json/BiliBili/哔哩哔哩相声.json"
+                "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩哔哩相声.json"
             },
             "style": {
                 "type": "rect",
@@ -388,7 +388,7 @@
         },
         {
             "key": "哔哩哔哩小品",
-            "name": "七星🌟┃小品哔哩",
+            "name": "小品哔哩",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -396,7 +396,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
-                "json": "https://gitee.com/cyh92/live/raw/main/jar/json/BiliBili/哔哩哔哩小品.json"
+                "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩哔哩小品.json"
             },
             "style": {
                 "type": "rect",
@@ -413,7 +413,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TV/bili_cookie.txt",
-                "json": "hhttps://gitee.com/cyh92/live/raw/main/jar/json/BiliBili/哔哩哔哩戏曲.json"
+                "json": "https://raw.gitcode.com/cyh92/live/raw/main/json/BiliBili/哔哩哔哩戏曲.json"
             },
             "style": {
                 "type": "rect",
