@@ -410,6 +410,12 @@
             "name": "PiaoHua",
             "type": 3,
             "api": "csp_PiaoHua"
+        },        
+        {
+        "key": "PTT",
+        "name": "PTT",
+        "type": 3,
+        "api": "csp_PTT"
         },
         {
             "key": "SP360",
