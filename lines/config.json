@@ -530,7 +530,7 @@
             "filterable": 0,
             "ext": {
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-                "json": "http://192.168.10.16/json/Bili歌曲.json"
+                "json": "https://gitee.com/cyh92/live/releases/download/bili/Bili歌曲.json"
             },
             "style": {
                 "type": "rect",
