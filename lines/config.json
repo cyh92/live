@@ -511,12 +511,6 @@
             "api": "csp_CeChi"
         },
         {
-            "key": "Douban",
-            "name": "Douban",
-            "type": 3,
-            "api": "csp_Douban"
-        },
-        {
             "key": "DyGang",
             "name": "DyGang",
             "type": 3,
