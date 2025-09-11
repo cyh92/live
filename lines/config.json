@@ -468,7 +468,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "http://192.168.10.16/json/Bili.json",
+        "json": "https://gitee.com/cyh92/live/releases/download/bili/Bili.json",
         "cookie": ""
       }
     },
