@@ -216,9 +216,9 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 
 『港✯澳』W,#genre#
-凤凰中文,webview://http://www.126zbw.com/gat/fhzw.html
-凤凰资讯,webview://http://www.126zbw.com/gat/fhzx.html
-凤凰香港,webview://http://www.126zbw.com/gat/fhxg.html
+凤凰中文,video://http://www.126zbw.com/gat/fhzw.html
+凤凰资讯,video://http://www.126zbw.com/gat/fhzx.html
+凤凰香港,video://http://www.126zbw.com/gat/fhxg.html
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 民视,rtmp://f13h.mine.nu/sat/tv051
 中视,rtmp://f13h.mine.nu/sat/tv091
