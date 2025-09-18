@@ -709,6 +709,7 @@
     "lives": [
         {
             "name": "网页源",
+            "type":0,
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
             "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -719,6 +720,7 @@
         },
         {
             "name": "自用",
+            "type":0,
             "url": "http://cyh92.cn/list.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 2,
@@ -744,6 +746,7 @@
         },
         {
             "name": "FM",
+            "type":0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
         },
         {
