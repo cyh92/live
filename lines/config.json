@@ -393,6 +393,26 @@
             "playUrl": "https://tyyszywjx.com/?url="
         },
         {
+            "key": "bbg-yparse",
+            "name": "步步高资源",
+            "type": 1,
+            "api": "https://api.yparse.com/api/json",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "playUrl": ""
+        },
+        {
+            "key": "guangsuapi",
+            "name": "光速资源",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "playUrl": ""
+        },
+        {
             "key": "cechi",
             "name": "策驰影院",
             "type": 3,
@@ -775,11 +795,6 @@
             "name": "8090g",
             "type": 0,
             "url": "https://www.8090g.cn/jiexi/?url="
-        },
-        {
-            "name": "-ik9-",
-            "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url="
         },
         {
             "name": "-冰豆-",
