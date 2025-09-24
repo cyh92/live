@@ -84,8 +84,8 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
 广东卫视,webview://https://m.miguvideo.com/m/liveDetail/608831231
-广东卫视1,webview:广东卫视,webview://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6
-https://www.gdtv.cn/tvChannelDetail/43
+广东卫视1,webview:https://www.gdtv.cn/tvChannelDetail/43
+
 大湾区卫视,webview://https://m.miguvideo.com/m/liveDetail/608917627
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
