@@ -31,6 +31,16 @@ CETV1,webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3
 CETV2,webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
 CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 
+第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
+风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
+电视指南,webview://https://yangshipin.cn/tv/home?pid=600099656
+世界地理,webview://https://yangshipin.cn/tv/home?pid=600099637
+风云音乐,webview://https://yangshipin.cn/tv/home?pid=600099660
+兵器科技,webview://https://yangshipin.cn/tv/home?pid=600099649
+女性时尚,webview://https://yangshipin.cn/tv/home?pid=600099650
+文化精品,webview://https://yangshipin.cn/tv/home?pid=600099653
+
 『央✯视』V,#genre#
 CCTV-1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -74,7 +84,8 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 湖南卫视,webview://https://yangshipin.cn/tv/home?pid=600002475
 广东卫视,webview://https://m.miguvideo.com/m/liveDetail/608831231
-广东卫视,webview://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6
+广东卫视1,webview://https://www.gdtv.cn/tvChannelDetail/43
+
 大湾区卫视,webview://https://m.miguvideo.com/m/liveDetail/608917627
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?id=7867
 贵州卫视,webview://https://www.gzstv.com/tv/ch01

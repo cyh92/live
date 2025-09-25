@@ -393,6 +393,26 @@
             "playUrl": "https://tyyszywjx.com/?url="
         },
         {
+            "key": "bbg-yparse",
+            "name": "步步高资源",
+            "type": 1,
+            "api": "https://api.yparse.com/api/json",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "playUrl": ""
+        },
+        {
+            "key": "guangsuapi",
+            "name": "光速资源",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod",
+            "quickSearch": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "playUrl": ""
+        },
+        {
             "key": "cechi",
             "name": "策驰影院",
             "type": 3,
@@ -709,6 +729,7 @@
     "lives": [
         {
             "name": "网页源",
+            "type":0,
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
             "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -719,6 +740,7 @@
         },
         {
             "name": "自用",
+            "type":0,
             "url": "http://cyh92.cn/list.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 2,
@@ -744,6 +766,7 @@
         },
         {
             "name": "FM",
+            "type":0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
         },
         {
@@ -772,11 +795,6 @@
             "name": "8090g",
             "type": 0,
             "url": "https://www.8090g.cn/jiexi/?url="
-        },
-        {
-            "name": "-ik9-",
-            "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url="
         },
         {
             "name": "-冰豆-",
