@@ -6,7 +6,7 @@
             "key": "TopHub",
             "name": "今日热榜",
             "type": 3,
-            "api": "csp_TopHub",
+            "api": "csp_Douban",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0

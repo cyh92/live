@@ -7,7 +7,7 @@
             "name": "今日热榜",
             "type": 3,
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
-            "api": "csp_TopHub"
+            "api": "csp_Douban"
         },
         {
             "key": "✨短剧屋✨",
