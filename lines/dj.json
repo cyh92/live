@@ -3,7 +3,7 @@
     "logo": "https://7337.kstore.space/tubiao/qx.gif",
     "sites": [
         {
-            "key": "csp_Douban",
+            "key": "TopHub",
             "name": "今日热榜",
             "type": 3,
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
