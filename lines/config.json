@@ -6,7 +6,7 @@
             "key": "dbtj",
             "name": "今日热榜",
             "type": 3,
-            "api": "csp_HotList",
+            "api": "csp_TopHub",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
