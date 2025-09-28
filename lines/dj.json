@@ -4,10 +4,10 @@
     "sites": [
         {
             "key": "csp_Douban",
-            "name": "豆瓣热播",
+            "name": "今日热榜",
             "type": 3,
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar",
-            "api": "csp_Douban"
+            "api": "csp_Hotlist"
         },
         {
             "key": "✨短剧屋✨",

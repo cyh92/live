@@ -4,9 +4,9 @@
     "sites": [
         {
             "key": "dbtj",
-            "name": "豆瓣排行",
+            "name": "今日热榜",
             "type": 3,
-            "api": "csp_Douban",
+            "api": "csp_HotList",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
