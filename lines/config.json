@@ -25,6 +25,15 @@
             "timeout": 5
         },
         {
+            "key": "AList",
+            "name": "资源挂载",
+            "type": 3,
+            "api": "csp_AList",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "hhttps://gitee.com/cyh92/live/raw/main/jar/json/alist.json"
+        },
+        {
             "key": "wujinapi",
             "name": "无尽资源",
             "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8",
@@ -729,7 +738,7 @@
     "lives": [
         {
             "name": "网页源",
-            "type":0,
+            "type": 0,
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0",
             "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
@@ -740,7 +749,7 @@
         },
         {
             "name": "自用",
-            "type":0,
+            "type": 0,
             "url": "http://cyh92.cn/list.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 2,
@@ -766,7 +775,7 @@
         },
         {
             "name": "FM",
-            "type":0,
+            "type": 0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
         },
         {
@@ -775,12 +784,12 @@
             "type": 0,
             "header": {
                 "User-Agent": "Mozilla/5.0 (Linux; Android 15; V2405A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36",
-				"Connection": "keep-alive",
-				"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-				"Accept-Encoding": "deflate",
-				"origin": "https://iptv807.com/",
-				"referer": "https://iptv807.com/",
-				"accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+                "Connection": "keep-alive",
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+                "Accept-Encoding": "deflate",
+                "origin": "https://iptv807.com/",
+                "referer": "https://iptv807.com/",
+                "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
                 "X-FORWARDED-FOR": "127.0.0.1"
             },
             "timeout": 30,
