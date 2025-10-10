@@ -422,6 +422,24 @@
             "playUrl": ""
         },
         {
+            "key": "淘片资源",
+            "name": "淘片资源",
+            "type": 0,
+            "api": "https://taopianapi.com/cjapi/sda/vod/xml.html",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "如意资源",
+            "name": "如意资源",
+            "type": 0,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "cechi",
             "name": "策驰影院",
             "type": 3,
