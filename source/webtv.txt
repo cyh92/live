@@ -311,18 +311,18 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 『港✯澳』W,#genre#
 Plus综合实时,http://vallest.uk/livehttpplay?channel_id=30023
-凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
-凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016 、
-有线综合实时,http://vallest.uk/livehttpplay?channel_id=20152
-无线新闻实时,http://vallest.uk/livehttpplay?channel_id=30024
-无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
 RTHK-31实时,http://vallest.uk/livehttpplay?channel_id=30066
 RTHK-32实时,http://vallest.uk/livehttpplay?channel_id=30067
-凤凰中文风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰资讯风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
+凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016 、
+凤凰中文风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
+无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
+无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
+无线新闻实时,http://vallest.uk/livehttpplay?channel_id=30024
+有线综合实时,http://vallest.uk/livehttpplay?channel_id=20152
 中天新闻风云,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 
 有线新闻风云,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
@@ -340,45 +340,6 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 纬来戏剧风云,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
 星空卫视风云,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视 
 
-
-
-
-中天新闻频道,http://tlive24.uk/livehttpplay?channel_id=20163
-中天新闻频道,http://bxtv.3a.ink/api.php?id=ztxw
-有线新闻频道,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
-无线新闻频道,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-
-pₒₚc电影频流,http://tl.061833.xyz/tl/popc
-无线翡翠频流,http://tl.061833.xyz/tl/null
-无线明珠频流,http://tl.061833.xyz/tl/null-12
-无线戏曲频流,http://tl.061833.xyz/tl/null-15
-无线华剧频流,http://tl.061833.xyz/tl/null-4
-黄金翡翠频流,http://tl.061833.xyz/tl/null-2
-美亚电影频流,http://tl.061833.xyz/tl/null-5
-中国电影频流,http://tl.061833.xyz/tl/null-6
-无线翡翠频高,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8 无线翡翠频高,http://bxtv.3a.ink/api.php?id=fct
-
-M_8新加频标,http://tlive24.uk/livehttpplay?channel_id=10132
-Ftv1时代频标,http://tlive24.uk/livehttpplay?channel_id=50208
-Ftv2时代频标,http://tlive24.uk/livehttpplay?channel_id=50318
-Ftv_城市频标,http://tlive24.uk/livehttpplay?channel_id=40319
-Plus综合频美,https://cdn6.101.qzz.io/163189/tvbp
-凤凰中文频美,https://cdn6.101.qzz.io/163189/fhzw
-凤凰资讯频美,https://cdn6.101.qzz.io/163189/fhzx
-凤凰香港频美,https://cdn6.101.qzz.io/163189/fhhk
-无线新闻频美,https://cdn6.101.qzz.io/163189/wxxw
-无线翡翠频美,https://cdn6.101.qzz.io/163189/fct
-无线翡翠频美,https://mytv.cdn.loc.cc/o12.php?id=fct
-无线明珠频美,https://mytv.cdn.loc.cc/o12.php?id=mzt
-无线星河频美,https://cdn6.101.qzz.io/163189/tvbxh
-无线功夫频美,https://cdn6.101.qzz.io/163189/yzwx
-澳视澳门频美,https://cdn6.101.qzz.io/163189/asam
-
-凤凰电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-星空电影频道,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
-星空音乐频道,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-星空卫视频道,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
-亚洲卫视频道,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 民视,rtmp://f13h.mine.nu/sat/tv051
