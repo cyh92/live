@@ -138,6 +138,7 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 中经电视,rtmp://livepgc.chinamcache.com/pgc/ece75f76eaabce9f18d91588a90096cd?auth_key=1688087053-0-0-a4620d3e3023a8b3827ad05fcd9e6364
 重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
 
+CETV1,video://https://www.xuexi.cn/xxqg.html?id=416c4a41549741eab72b1dbc81ea85a7
 
 
 CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
@@ -247,9 +248,12 @@ CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
 河南卫视,video://https://www.xuexi.cn/xxqg.html?id=47ebcda850e74c83897dd90ca72db658
 湖北卫视,video://https://www.xuexi.cn/xxqg.html?id=894c6f103e094ab58f51cf0f96870a3d
 广东卫视,video://https://www.xuexi.cn/xxqg.html?id=6766ec7717d64744bdbfd1c2068ebae6
+深圳卫视,video://https://www.xuexi.cn/xxqg.html?id=f9a9f782beb94edc862b8d9cc8803f1a
+大湾区卫视,video://https://www.xuexi.cn/xxqg.html?id=b3b303acc4294b95bce47806bfee21bb
 广西卫视,video://https://www.xuexi.cn/xxqg.html?id=d45e1b2dbae6465a9b2e7a14f7749119
 海南卫视,video://https://www.xuexi.cn/xxqg.html?id=54e5f81a605e428188bf7ff21c0df64c
 四川卫视,video://https://www.xuexi.cn/xxqg.html?id=90edcdb6a18446d594228039a519b779
+重庆卫视,video://https://www.xuexi.cn/xxqg.html?id=8751b6235e174eb6b8d3e60d963e9140
 贵州卫视,video://https://www.xuexi.cn/xxqg.html?id=d6fc64f8f5e34444ba703bb79fda5da8
 云南卫视,video://https://www.xuexi.cn/xxqg.html?id=f79e9c261fda4c3ba35d075a51814bbd
 西藏卫视,video://https://www.xuexi.cn/xxqg.html?id=c52bd0a9ac294559841fa39d28d2c195
@@ -259,6 +263,7 @@ CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
 宁夏卫视,video://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
+康巴卫视,video://https://www.xuexi.cn/xxqg.html?id=2e1b591d66be474cbb11b23d425bff07
 
 北京卫视,http://www.cdnstv.com:6398/hls/1123/index.m3u8
 广东卫视,http://www.cdnstv.com:6398/hls/1124/index.m3u8
