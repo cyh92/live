@@ -151,7 +151,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
-大湾区卫视(海外版),video://https://www.gdtv.cn/tvChannelDetail/46
 贵州卫视,video://https://www.gzstv.com/tv/ch01
 海南卫视,video://http://tc.hnntv.cn/zb/28666112.shtml
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
@@ -160,31 +159,18 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
 吉林卫视,video://https://www.jlntv.cn/tv?id=104
 江苏卫视,video://https://live.jstv.com/
-江西卫视,video://https://www.jxntv.cn/live/#/jxtv1
 内蒙古卫视,video://https://www.nmtv.cn/liveTv
-宁夏卫视,video://http://www.nxtv.com.cn/tv/ws/
-青海卫视,video://https://www.qhbtv.com/new_index/live/folder2646/
 山东卫视,video://https://v.iqilu.com/live/sdtv/index.html
 山西卫视,video://https://www.sxrtv.com/tv/
 陕西卫视,video://http://www.sxtvs.com/sxtvs_sxws/index.html
-四川卫视,video://https://www.sctv.com/watchTV
-西藏卫视,video://https://www.vtibet.cn/html/CHAL1492477520535104/2021111212835975309/
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
 云南卫视,video://https://www.yntv.cn/live.html
 浙江卫视,video://https://www.cztv.com/liveTV
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20230221.m3u8
-贵州卫视,video://https://www.gzstv.com/tv/ch01
-海南卫视,video://http://tc.hnntv.cn/zb/28666112.shtml
-河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-黑龙江卫视,video://https://www.hljtv.com/live/
 
 
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-吉林卫视,https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
-内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.flv
-兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
@@ -288,8 +274,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 内蒙古卫视,webview://https://www.nmtv.cn/liveTv
 宁夏卫视,webview://https://www.nxtv.com.cn/19/19kds/dsp/
 宁夏卫视,webview://https://www.xuexi.cn/xxqg.html?id=782bc32aad614b6c9c078fd7bea95488
-青海卫视,webview://https://www.qhbtv.com/new_index/live/folder2646/
-安多卫视,webview://http://www.qhtb.cn/onlin/
 山东卫视,webview://https://v.iqilu.com/live/sdtv/index.html
 山西卫视,webview://https://www.sxrtv.com/tv/
 陕西卫视,webview://http://live.snrtv.com/
