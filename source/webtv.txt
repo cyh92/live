@@ -108,6 +108,9 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 世界地理,http://183.164.48.16:4022/udp/238.1.79.60:4616
 文化精品,http://183.164.48.16:4022/udp/238.1.79.54:4568
 
+
+中学生,http://www.cdnstv.com:6398/hls/1177/index.m3u8
+
 『央✯视』V,#genre#
 CCTV-1,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=1
 CCTV-3,video://https://www.hndyjyfw.gov.cn/livePlay.html?u=2
@@ -138,11 +141,8 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 
 CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
-中学生,http://www.cdnstv.com:6398/hls/1177/index.m3u8
 
 『卫✯视』W,#genre#
-北京,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/btv8k.js
-北京文艺,webview://https://www.btime.com/btv/btvsy_index?tag=1
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
@@ -483,7 +483,6 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=71fb9
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
 中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u8
-中华特产,http://www.cdnstv.com:6398/hls/1192/index.m3u8
 河南4K试验,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 
 郑州新闻综合,video://https://static.hntv.tv/total/television/?id=197
@@ -600,6 +599,14 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=71fb9
 永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 禹州综合,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?zhend
 
+『上✯海』V,#genre#
+新闻综合,video://https://live.kankanews.com/huikan?id=2
+魔都眼,video://https://live.kankanews.com/huikan?id=11
+第一财经,video://https://live.kankanews.com/huikan?id=5
+新纪实,video://https://live.kankanews.com/huikan?id=12
+都市频道,video://https://live.kankanews.com/huikan?id=4
+法制天地,http://www.cdnstv.com:6398/hls/1193/index.m3u8
+中华特产,http://www.cdnstv.com:6398/hls/1191/index.m3u8
 
 『安✯徽』V,#genre#
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
