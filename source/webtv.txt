@@ -142,30 +142,6 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
 
-
-『345IPTV』,#genre#
-parse=1
-CCTV1,https://iptv807.com/?act=play&tid=itv&id=7
-CCTV2,https://iptv807.com/?act=play&tid=itv&id=8
-CCTV3,https://iptv807.com/?act=play&tid=itv&id=9
-CCTV4,https://iptv807.com/?act=play&tid=itv&id=10
-CCTV5,https://iptv807.com/?act=play&tid=itv&id=11
-CCTV5+,https://iptv807.com/?act=play&tid=itv&id=12
-CCTV6,https://iptv807.com/?act=play&tid=itv&id=13
-CCTV7,https://iptv807.com/?act=play&tid=itv&id=14
-CCTV8,https://iptv807.com/?act=play&tid=itv&id=15
-CCTV9,https://iptv807.com/?act=play&tid=itv&id=16
-CCTV10,https://iptv807.com/?act=play&tid=itv&id=17
-CCTV11,https://iptv807.com/?act=play&tid=itv&id=18
-CCTV12,https://iptv807.com/?act=play&tid=itv&id=19
-CCTV13,https://iptv807.com/?act=play&tid=itv&id=20
-CCTV14,https://iptv807.com/?act=play&tid=itv&id=21
-CCTV15,https://iptv807.com/?act=play&tid=itv&id=22
-CCTV16,https://iptv807.com/?act=play&tid=itv&id=23
-CCTV17,https://iptv807.com/?act=play&tid=itv&id=24
-
-
-
 『卫✯视』W,#genre#
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
