@@ -137,6 +137,9 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 
 
 
+CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
+中学生,http://www.cdnstv.com:6398/hls/1177/index.m3u8
+
 『卫✯视』W,#genre#
 北京,javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/btv8k.js
 北京文艺,webview://https://www.btime.com/btv/btvsy_index?tag=1
@@ -257,8 +260,38 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 新疆卫视,video://https://www.xuexi.cn/xxqg.html?id=95b30ad2b3c14b32ac7f915769d080bb
 兵团卫视,video://https://www.xuexi.cn/xxqg.html?id=16bcdb12d690488286ffec580c9ca249
 
+北京卫视,http://www.cdnstv.com:6398/hls/1123/index.m3u8
+广东卫视,http://www.cdnstv.com:6398/hls/1124/index.m3u8
+黑龙江卫视,http://www.cdnstv.com:6398/hls/1125/index.m3u8
+山东卫视,http://www.cdnstv.com:6398/hls/1126/index.m3u8
+安徽卫视,http://www.cdnstv.com:6398/hls/1127/index.m3u8
+辽宁卫视,http://www.cdnstv.com:6398/hls/1128/index.m3u8
+陕西卫视,http://www.cdnstv.com:6398/hls/1129/index.m3u8
+贵州卫视,http://www.cdnstv.com:6398/hls/1130/index.m3u8
+河北卫视,http://www.cdnstv.com:6398/hls/1131/index.m3u8
+江西卫视,http://www.cdnstv.com:6398/hls/1132/index.m3u8
+湖南卫视,http://www.cdnstv.com:6398/hls/1133/index.m3u8
+深圳卫视,http://www.cdnstv.com:6398/hls/1134/index.m3u8
+四川卫视,http://www.cdnstv.com:6398/hls/1135/index.m3u8
+湖北卫视,http://www.cdnstv.com:6398/hls/1136/index.m3u8
+天津卫视,http://www.cdnstv.com:6398/hls/1137/index.m3u8
+云南卫视,http://www.cdnstv.com:6398/hls/1138/index.m3u8
+重庆卫视,http://www.cdnstv.com:6398/hls/1139/index.m3u8
+吉林卫视,http://www.cdnstv.com:6398/hls/1140/index.m3u8
+宁夏卫视,http://www.cdnstv.com:6398/hls/1141/index.m3u8
+东南卫视,http://www.cdnstv.com:6398/hls/1142/index.m3u8
+内蒙古卫视,http://www.cdnstv.com:6398/hls/1143/index.m3u8
+广西卫视,http://www.cdnstv.com:6398/hls/1144/index.m3u8
+山西卫视,http://www.cdnstv.com:6398/hls/1145/index.m3u8
+海南卫视,http://www.cdnstv.com:6398/hls/1146/index.m3u8
+甘肃卫视,http://www.cdnstv.com:6398/hls/1147/index.m3u8
+青海卫视,http://www.cdnstv.com:6398/hls/1148/index.m3u8
+新疆卫视,http://www.cdnstv.com:6398/hls/1153/index.m3u8
+西藏卫视,http://www.cdnstv.com:6398/hls/1154/index.m3u8
+金鹰纪实,http://www.cdnstv.com:6398/hls/1178/index.m3u8
+
 4K🌟卫视,#genre#
-北京卫视4K,http://124.116.170.138:8081/udp/239.111.205.51:5140
+北京卫视4K,http://www.cdnstv.com:6398/hls/1193/index.m3u8
 广东卫视4K,http://124.116.170.138:8081/udp/239.111.205.103:5140
 深圳卫视4K,http://124.116.170.138:8081/udp/239.111.205.104:5140
 
@@ -275,6 +308,8 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广东4K,http://pa.kuangdeng.top:8081/hls/49/index.m3u8
+
+
 
 少儿✯频道,#genre#
 卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
@@ -296,6 +331,13 @@ CEC汉语文化,rtmp://play.cec-tv.com.cn/channel/cec-tv2
 山东少儿,webview://https://v.iqilu.com/live/sepd/
 黑龙江少儿,video://https://www.hljtv.com/live/folder422/
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+
+
+金鹰卡通,http://www.cdnstv.com:6398/hls/1149/index.m3u8
+嘉佳卡通,http://www.cdnstv.com:6398/hls/1150/index.m3u8
+卡酷少儿,http://www.cdnstv.com:6398/hls/1151/index.m3u8
+优漫卡通,http://www.cdnstv.com:6398/hls/1155/index.m3u8
+动漫秀场,http://www.cdnstv.com:6398/hls/1180/index.m3u8
 
 宁夏少儿,video://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 宁夏少儿,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
@@ -431,21 +473,42 @@ ELEVEN 2（DAZN 2）,video://https://m.345iptv.com/iptv.php?act=play&token=71fb9
 
 河南都市,http://1.94.31.214/php/hntv.php?id=hnds
 河南都市,http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
+
+河南都市,http://www.cdnstv.com:6398/hls/1110/index.m3u8
+河南民生,http://www.cdnstv.com:6398/hls/1111/index.m3u8
 河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
 河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
+河南公共,http://www.cdnstv.com:6398/hls/1115/index.m3u8
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
+中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u8
+中华特产,http://www.cdnstv.com:6398/hls/1192/index.m3u8
+河南4K试验,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 
 郑州新闻综合,video://https://static.hntv.tv/total/television/?id=197
-郑州新闻综合,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595660085175275520#/
-郑州商都频道,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659997191360512#/
-郑州文体旅游,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659904266555392#/
-郑州豫剧频道,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920#/
-郑州妇女儿童,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659666227220480#/
-郑州都市生活,webview://https://4k.zztv.tv/tv/4k-urbanLife
-郑州都市生活,webview://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659527848742913#/
+郑州新闻综合,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595660085175275520#/
+郑州商都频道,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659997191360512#/
+郑州文体旅游,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659904266555392#/
+郑州豫剧频道,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920#/
+郑州妇女儿童,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659666227220480#/
+郑州都市生活,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659527848742913#/
+郑州都市生活,video://https://4k.zztv.tv/tv/4k-urbanLife
 郑州教育频道,video://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
+
+
+
+郑州新闻综合,http://www.cdnstv.com:6398/hls/1162/index.m3u8
+郑州商都频道,http://www.cdnstv.com:6398/hls/1163/index.m3u8
+郑州文体旅游,http://www.cdnstv.com:6398/hls/1164/index.m3u8
+郑州豫剧频道,http://www.cdnstv.com:6398/hls/1165/index.m3u8
+郑州妇女儿童,http://www.cdnstv.com:6398/hls/1166/index.m3u8
+郑州都市生活,http://www.cdnstv.com:6398/hls/1167/index.m3u8
+
+
+郏县综合频道,http://www.cdnstv.com:6398/hls/1170/index.m3u8
+
+
 
 
 开封新闻综合,video://https://static.hntv.tv/total/television/?id=198
