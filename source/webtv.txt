@@ -144,6 +144,7 @@ CCTV-1,http://www.cdnstv.com:6398/hls/1152/index.m3u8
 
 
 『345IPTV』,#genre#
+parse=1
 CCTV1,https://iptv807.com/?act=play&tid=itv&id=7
 CCTV2,https://iptv807.com/?act=play&tid=itv&id=8
 CCTV3,https://iptv807.com/?act=play&tid=itv&id=9
