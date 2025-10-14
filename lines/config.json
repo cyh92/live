@@ -797,19 +797,9 @@
             "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
         },
         {
-            "name": "345IPTV",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/345IPTV.txt",
-            "type": 0,
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Linux; Android 15; V2405A; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.118 Mobile Safari/537.36",
-                "Connection": "keep-alive",
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
-                "Accept-Encoding": "deflate",
-                "origin": "https://iptv807.com/",
-                "referer": "https://iptv807.com/",
-                "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
-                "X-FORWARDED-FOR": "127.0.0.1"
-            },
+            "name": "咪咕",
+            "url": "https://gitee.com/cyh92/live/raw/main/source/MiG.txt",
+            "type": 0,            
             "timeout": 30,
             "playerType": 2
         },
