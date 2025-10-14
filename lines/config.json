@@ -801,7 +801,10 @@
             "url": "https://gitee.com/cyh92/live/raw/main/source/MiG.txt",
             "type": 0,            
             "timeout": 30,
-            "playerType": 2
+            "playerType": 2,
+            "ua": "okhttp/3",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
             "name": "owen2000wy",
