@@ -769,6 +769,7 @@
             "name": "自用",
             "type": 0,
             "url": "http://cyh92.cn/list.m3u",
+            "ua": "okhttp/3",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "playerType": 2,
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
