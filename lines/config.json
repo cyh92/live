@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "TopHub",
-            "name": "今日热榜",
+            "name": "豆瓣热播",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
