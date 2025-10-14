@@ -777,7 +777,7 @@
         {
             "name": "AI线路",
             "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/xmbjm/IPTV/master/output/user_result.txt",
+            "url": "https://gh-proxy.com/github.com/xmbjm/IPTV/raw/refs/heads/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
@@ -793,11 +793,6 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "FM",
-            "type": 0,
-            "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
-        },
-        {
             "name": "咪咕",
             "url": "https://gitee.com/cyh92/live/raw/main/source/MiG.txt",
             "type": 0,            
@@ -808,19 +803,9 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
         {
-            "name": "owen2000wy",
+            "name": "FM",
             "type": 0,
-            "url": "https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt"
-        },
-        {
-            "name": "V6TV",
-            "type": 0,
-            "url": "https://gitlab.com/tvtg/v6tv/-/raw/main/V6TV.txt"
-        },
-        {
-            "name": "ATV",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
+            "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
         }
     ],
     "parses": [
