@@ -462,7 +462,7 @@ CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 深圳卫视4K,video://https://www.sztv.com.cn/pindao/index.html?id=24725
 深圳卫视4K,http://124.116.170.138:8081/udp/239.111.205.104:5140
 
-东方卫视4K,https://live.kankanews.com/huikan?id=1
+东方卫视4K,video://https://live.kankanews.com/huikan?id=1
 
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
