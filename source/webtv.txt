@@ -124,6 +124,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 北京卫视,video://https://www.brtn.cn/btv/btvsy_index
 东南卫视,video://http://www.setv.fjtv.net/live/
+东南卫视,video://https://live.fjtv.net/setv/
 东方卫视,video://https://live.kankanews.com/huikan?id=1
 甘肃卫视,video://https://www.gstv.com.cn/zxc.jhtml
 广西卫视,video://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
@@ -143,6 +144,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
 云南卫视,video://https://www.yntv.cn/live.html
 浙江卫视,video://https://www.cztv.com/liveTV
+海峡卫视,video://https://live.fjtv.net/hxtv/
 
 
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
@@ -219,6 +221,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 天津卫视,webview://https://www.xuexi.cn/xxqg.html?id=f34309e518fb41579c46cbef4d56c51d
 东南卫视,webview://https://yangshipin.cn/tv/home?pid=600002484
 东南卫视,webview://http://www.setv.fjtv.net/live/
+东南卫视,webview://https://live.fjtv.net/setv/
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 东方卫视,webview://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
 甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
@@ -758,9 +761,26 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 宁波影视剧,video://https://www.ncmc.nbtv.cn/gbds/folder8458/NBTV4/index.shtml
 余姚新闻综合,video://https://www.qukanvideo.com/cloud/h5/1718767387926372
 余姚文化,video://https://www.qukanvideo.com/cloud/h5/1728440422705076
-绍兴新闻综合,webview://https://www.shaoxing.com.cn/app/tv/78
-绍兴文化影视,webview://https://www.shaoxing.com.cn/app/tv/74
-绍兴公共,webview://https://www.shaoxing.com.cn/app/tv/75
+
+『福✯建』V,#genre#
+福建综合,video://https://live.fjtv.net/zhpd/
+福建公共,video://https://live.fjtv.net/ggpd/
+福建新闻,video://https://live.fjtv.net/xwpd/
+福建电视剧,video://https://live.fjtv.net/dsjpd/
+福建旅游,video://https://live.fjtv.net/dspd/
+福建经济生活,video://https://live.fjtv.net/jspd/
+福建少儿,video://https://live.fjtv.net/sepd/
+福建文体,video://https://live.fjtv.net/typd/
+福州新闻综合,video://https://www.zohi.tv/app/tv/804
+福州都市生活,video://https://www.zohi.tv/app/tv/801
+福州少儿,video://https://www.zohi.tv/app/tv/795
+泉州新闻综合,video://https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoHCoQ/stream_name/news.html
+宁德新闻综合,video://http://share.nddst.com/? hgOutLink=live/livedetail&channel_id=41
+宁德文化旅游,video://http://share.nddst.com/? hgOutLink=live/livedetail&channel_id=42
+晋江电视台,video://http://www.jinjiang.tv/live/
+莆田1套,video://https://www.ptbtv.com/live/pt1t/
+莆田2套,video://https://www.ptbtv.com/live/pt2t/
+仙游电视,video://https://www.ptbtv.com/live/xyds/
 
 『新✯疆』V,#genre#
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
