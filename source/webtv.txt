@@ -145,6 +145,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 云南卫视,video://https://www.yntv.cn/live.html
 浙江卫视,video://https://www.cztv.com/liveTV
 海峡卫视,video://https://live.fjtv.net/hxtv/
+山东教育卫视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
 
 
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
@@ -781,6 +782,32 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 莆田1套,video://https://www.ptbtv.com/live/pt1t/
 莆田2套,video://https://www.ptbtv.com/live/pt2t/
 仙游电视,video://https://www.ptbtv.com/live/xyds/
+
+『山✯东』V,#genre#
+山东齐鲁,video://https://v.iqilu.com/live/qlpd/
+山东体育,video://https://v.iqilu.com/live/typd/
+山东生活,video://https://v.iqilu.com/live/shpd/
+山东综艺,video://https://v.iqilu.com/live/zypd/
+山东新闻,video://https://v.iqilu.com/live/ggpd/
+山东农科,video://https://v.iqilu.com/live/nkpd/
+山东文旅,video://https://v.iqilu.com/live/yspd/
+山东少儿,video://https://v.iqilu.com/live/sepd/
+山东新闻,video://https://v.iqilu.com/live/ggpd/
+山东新闻,video://https://v.iqilu.com/live/ggpd/
+山东教育卫视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
+青岛1套,video://https://www.qtv.com.cn/live/tv/index.shtml
+青岛2套,video://https://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+青岛3套,video://https://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+青岛4套,video://https://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+青岛5套,video://https://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+青岛李沧,video://https://iapp.licangmedia.cn/share/dHZsLTE3My0x.html
+青岛崂山,video://https://iapp.laoshanrongmei.cn/share/dHZsLTI5NS0x.html
+临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
+临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
+临沂综合,video://https://www.ilinyi.net/cms/tv/1020403
+济宁综合,video://https://www.jnnews.tv/gbds/index.html
+临沂经济,video://https://www.ilinyi.net/cms/tv/36417907
+临沂公共,video://https://www.ilinyi.net/cms/tv/1020769
 
 『新✯疆』V,#genre#
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
