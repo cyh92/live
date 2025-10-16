@@ -758,7 +758,7 @@
             "name": "网页源",
             "type": 0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}",
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
             "ua": "okhttp/3",
             "header": {
@@ -770,7 +770,7 @@
             "type": 0,
             "url": "http://cyh92.cn/list.m3u",
             "ua": "okhttp/3",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "http://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}",
             "playerType": 2,
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
@@ -789,8 +789,8 @@
             "url": "http://rihou.cc:567/gggg.nzk",
             "playerType": 2,
             "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+            "epg": "http://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
         {
             "name": "咪咕",
@@ -799,8 +799,8 @@
             "timeout": 30,
             "playerType": 2,
             "ua": "okhttp/3",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+            "epg": "http://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
         {
             "name": "FM",
