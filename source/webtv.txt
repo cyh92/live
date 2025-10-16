@@ -930,14 +930,14 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 郴州2,video://http://share.ngcz.tv/?_hgOutLink=live/livedetail&channel_id=30
 
 『湖✯北』,#genre#
-湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
-湖北经视,video://https://news.hbtv.com.cn/app/tv/432
-湖北综合,video://https://news.hbtv.com.cn/app/tv/433
-湖北公共,video://https://news.hbtv.com.cn/app/tv/434
-湖北影视,video://https://news.hbtv.com.cn/app/tv/435
-湖北生活,video://https://news.hbtv.com.cn/app/tv/436
-湖北教育,video://https://news.hbtv.com.cn/app/tv/437
-湖北垄上,video://https://news.hbtv.com.cn/app/tv/438
+湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
+湖北经视,webview://https://news.hbtv.com.cn/app/tv/432
+湖北综合,webview://https://news.hbtv.com.cn/app/tv/433
+湖北公共,webview://https://news.hbtv.com.cn/app/tv/434
+湖北影视,webview://https://news.hbtv.com.cn/app/tv/435
+湖北生活,webview://https://news.hbtv.com.cn/app/tv/436
+湖北教育,webview://https://news.hbtv.com.cn/app/tv/437
+湖北垄上,webview://https://news.hbtv.com.cn/app/tv/438
 襄阳经济生活,video://https://xiangyang.cjyun.org/app/streamradio/138
 襄阳综合,video://https://xiangyang.cjyun.org/app/streamradio/142
 襄阳公共,video://https://xiangyang.cjyun.org/app/streamradio/130
@@ -962,13 +962,6 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 黄石都市,webview://https://web.guangdianyun.tv/tv/3032?uin=3065
 
 『江✯西』,#genre#
-江西卫视,video://https://www.jxntv.cn/live/#/
-江西都市,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv2.m3u8
-江西经济生活,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv3.m3u8
-江西影视旅游,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv4.m3u8
-江西公共农业,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv5.m3u8
-江西少儿,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv6.m3u8
-江西新闻,https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv7.m3u8
 南昌新闻综合,video://https://www.nctv.net.cn/live?channel=1
 南昌文旅,video://https://www.nctv.net.cn/live?channel=2
 南昌资讯,video://https://www.nctv.net.cn/live?channel=3
