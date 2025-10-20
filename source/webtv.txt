@@ -462,16 +462,13 @@ CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 
 4K🌟频道,#genre#
 北京卫视4k,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
-广东卫视4K,http://124.116.170.138:8081/udp/239.111.205.103:5140
 深圳卫视4K,video://https://www.sztv.com.cn/pindao/index.html?id=24725
-深圳卫视4K,http://124.116.170.138:8081/udp/239.111.205.104:5140
-
 东方卫视4K,video://https://live.kankanews.com/huikan?id=1
 
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 广东4K,http://pa.kuangdeng.top:8081/hls/49/index.m3u8
-
+河南4K试验,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 
 
 少儿✯频道,#genre#
@@ -582,7 +579,6 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
 河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
 中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u8
-河南4K试验,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 
 
 河南卫视,http://123.207.224.130:123/henan/henan.php?id=hnws
