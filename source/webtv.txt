@@ -55,7 +55,7 @@ CCTV16,webview://https://tv.cctv.cn/live/cctv16/
 CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 
 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655
-风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
+剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
 中学生,http://www.cdnstv.com:6398/hls/1177/index.m3u8
@@ -431,8 +431,8 @@ CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 金色学堂高码,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8 
 生活时尚高码,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8 
 法治天地高码,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8 
-游戏风云高码,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8 
-游戏风云高码,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8 
+游戏高码,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8 
+游戏高码,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8 
 乐游频道高码,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8 
 乐游频道高码,https://zby.130519.xyz/PLTV/11/224/3221226115/index.m3u8 
 哈哈炫动高码,https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8 
@@ -486,33 +486,32 @@ CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 宁夏少儿,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 
 『港✯澳』V,#genre#
-RTHK-31实时,http://vallest.uk/livehttpplay?channel_id=30066
-RTHK-32实时,http://vallest.uk/livehttpplay?channel_id=30067
-凤凰中文风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
+无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
+无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
+有线综合,http://vallest.uk/livehttpplay?channel_id=20152
 
-凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰资讯风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
-无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
-无线新闻实时,http://vallest.uk/livehttpplay?channel_id=30024
-有线综合实时,http://vallest.uk/livehttpplay?channel_id=20152
-中天新闻风云,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-
-有线新闻风云,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
-无线新闻风云,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-Now新闻风云,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-有线综合风云,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-无线翡翠风云,http://erp.giihgtidg.com:8080/live/jade01.m3u8 
-无线翡翠风云,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-无线明珠风云,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-无线千禧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
-无线一台风云,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
-无线综台风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
-tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-纬来戏剧风云,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-星空卫视风云,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视 
+中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
+凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
+有线新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
+无线新闻,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
+有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+无线翡翠,http://erp.giihgtidg.com:8080/live/jade01.m3u8 
+无线翡翠,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
+无线明珠,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
+无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
+无线一台,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
+无线综台,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
+tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
+纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
+星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视 
 
 
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
