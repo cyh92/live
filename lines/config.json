@@ -770,7 +770,7 @@
             "type": 0,
             "url": "http://cyh92.cn/list.m3u",
             "ua": "okhttp/3",
-            "epg": "https://gitee.com/mytv-android/myepg/raw/master/output/epg.xml https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz",
+            "epg": "https://epg.27481716.xyz/epg.xml?ch={name}&date={date}",
             "playerType": 2,
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
