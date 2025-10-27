@@ -805,7 +805,7 @@
         {
             "name": "MiGu",
             "type": 0,
-            "url": "https://raw.gitcode.com/cyh92/live/raw/main/source/interface.txt",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/cyh92/live/refs/heads/main/source/interface.txt",
             "playerType": 1,
             "ua": "okhttp/3.8.1",
             "timeout": 20,
