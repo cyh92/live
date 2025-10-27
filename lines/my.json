@@ -647,9 +647,9 @@
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
         },
         {
-            "name": "migu",
+            "name": "咪咕",
             "type": 0,
-            "url": "https://develop202.github.io/migu_video/interface.txt",
+            "url": "https://gitee.com/cyh92/migu_video/raw/main/interface.txt",
             "playerType": 1,
             "ua": "okhttp/3.8.1",
             "timeout": 20,
