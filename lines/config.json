@@ -803,6 +803,16 @@
             "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
         {
+            "name": "MiGu",
+            "type": 0,
+            "url": "https://raw.gitcode.com/cyh92/live/raw/main/source/interface.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "FM",
             "type": 0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/fm.txt"
