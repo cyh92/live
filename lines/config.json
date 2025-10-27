@@ -810,7 +810,7 @@
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.cn/tv/{name}.png"
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
             "name": "FM",
