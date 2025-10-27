@@ -645,7 +645,28 @@
             "name": "ATV",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u"
+        },
+        {
+            "name": "migu",
+            "type": 0,
+            "url": "https://develop202.github.io/migu_video/interface.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://epg.pw/test_channels.m3u",
+            "playerType": 1,
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
+    
     ],
     "parses": [
         {
