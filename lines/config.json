@@ -805,7 +805,7 @@
         {
             "name": "MiGu",
             "type": 0,
-            "url": "https://gitee.com/cyh92/live/raw/main/source/migu.txt",
+            "url": "https://cyh92.github.io/live/source/migu.txt",
             "playerType": 1,
             "ua": "okhttp/3.8.1",
             "timeout": 20,
