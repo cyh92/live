@@ -31,7 +31,7 @@
             "api": "csp_AList",
             "searchable": 1,
             "changeable": 0,
-            "ext": "hhttps://gitee.com/cyh92/live/raw/main/jar/json/alist.json"
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/alist.json"
         },
         {
             "key": "wujinapi",
