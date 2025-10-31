@@ -778,7 +778,7 @@
             "name": "AI线路",
             "type": 0,
             "url": "https://gh-proxy.com/github.com/xmbjm/IPTV/raw/refs/heads/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "epg": "https://e.erw.cc/e.xml",
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
             "timeout": 10
