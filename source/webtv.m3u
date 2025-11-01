@@ -103,7 +103,7 @@ webview://https://tv.cctv.cn/live/cctv16/
 webview://https://tv.cctv.cn/live/cctv17/
 #EXTINF:-1 group-title="『央✯视』W" tvg-name="第一剧场" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/第一剧场.png" epg-url="http://e.erw.cc/all.xml.gz",第一剧场
 webview://https://yangshipin.cn/tv/home?pid=600099655
-#EXTINF:-1 group-title="『央✯视』W" tvg-name="剧场" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/剧场.png" epg-url="http://e.erw.cc/all.xml.gz",剧场
+#EXTINF:-1 group-title="『央✯视』W" tvg-name="风云剧场" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/风云剧场.png" epg-url="http://e.erw.cc/all.xml.gz",风云剧场
 webview://https://yangshipin.cn/tv/home?pid=600099658
 #EXTINF:-1 group-title="『央✯视』W" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/cyh92/live/raw/main/icons/怀旧剧场.png" epg-url="http://e.erw.cc/all.xml.gz",怀旧剧场
 webview://https://yangshipin.cn/tv/home?pid=600099620
