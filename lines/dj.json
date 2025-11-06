@@ -10,26 +10,6 @@
             "api": "csp_Douban"
         },
         {
-            "key": "✨短剧屋✨",
-            "name": "✨短剧屋✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/短剧屋.json"
-        },
-        {
-            "key": "✨安迪短剧✨",
-            "name": "⭐️七星短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/安迪短剧.json"
-        },
-        {
             "key": "✨毒舌短剧✨",
             "name": "⭐️毒舌短剧",
             "type": 3,
@@ -38,26 +18,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/毒舌短剧.json"
-        },
-        {
-            "key": "✨老王影院✨",
-            "name": "⭐️天微短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/老王短剧.json"
-        },
-        {
-            "key": "✨明星短剧✨",
-            "name": "⭐️明星短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/明星短剧.json"
         },
         {
             "key": "✨全能短剧✨",
@@ -78,6 +38,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/短剧王.json"
+        },
+        {
+            "key": "奶茶短剧",
+            "name": "奶茶短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/奶茶短剧.json"
         },
         {
             "key": "✨热播影院✨",
@@ -128,16 +98,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/七味短剧.json"
-        },
-        {
-            "key": "✨量子影视✨",
-            "name": "⭐️量子短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/量子短剧.json"
         },
         {
             "key": "✨CCTV短剧✨",
@@ -194,36 +154,64 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/PTT短剧.json"
-        },
+        },        
         {
-            "key": "✨理理短剧✨",
-            "name": "⭐️理理短剧",
+            "key": "Xplus1",
+            "name": "⭐️稀饭短剧Plus",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/理理短剧.json"
-        },
-        {
-            "key": "✨奇优影院✨",
-            "name": "⭐️奇优短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/奇优短剧.json"
-        },
-        {
-            "key": "✨微云影视✨",
-            "name": "⭐️微云短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/微云短剧.json"
+            "ext": {
+                    "作者": "小可乐/2409/第一版",
+                    "站名": "稀饭短剧",
+                    "请求头": "User-Agent$MOBILE_UA",
+                    "编码": "UTF-8",
+                    "图片代理": "0",
+                    "主页url": "https://app.4kwo.com/api.php/provide/home_data?id=97",
+                    "首页": "120",
+                    "起始页": "1",
+                    "分类url": "/api.php/provide/vod_list?id=96&type={cateId}&area=&year={year}&order={by}&page={catePg};;mrcd0",
+                    "分类": "女频恋爱&反转爽剧&古装仙侠&年代穿越&脑洞悬疑&现代都市",
+                    "分类值": "*",
+                    "二次截取": "默认--空||首页--hotvideo&&msg\":\\[",
+                    "数组": "{&&}",
+                    "标题": "name\":\"&&\"",
+                    "图片": "img\":\"&&\"",
+                    "副标题": "qingxidu\":\"&&\"",
+                    "链接": "/api.php/provide/vod_detail?ac=vod_detail&id=+id\":&&,",
+                    "影片年代": "msg\":\"&&\"",
+                    "影片地区": "vod_area\":\"&&\"",
+                    "影片类型": "type\":\"&&\"",
+                    "状态": "remarks\":\"&&\"",
+                    "导演": "director\":\"&&\"",
+                    "主演": "actor\":\"&&\"",
+                    "简介": "\"info\":\"&&\"",
+                    "线路数组": "show\":&&,",
+                    "线路标题": "👶+\"&&\"",
+                    "播放二次截取": "playlist\":&&,[替换:$$$>>接表组组表题#\">>接表组表题#$>>题接#\\#>>接表表题]",
+                    "播放数组": "组&&组",
+                    "播放列表": "表&&表",
+                    "播放标题": "题&&题",
+                    "播放链接": "接&&接",
+                    "直接播放": "0",
+                    "嗅探词": ".mp4#.m3u8",
+                    "搜索请求头": "User-Agent$MOBILE_UA",
+                    "搜索url": "/api.php/provide/search_result?video_name={wd}",
+                    "搜索模式": "1",
+                    "搜索二次截取": "search_result\":\\[&&\\]",
+                    "搜索数组": "{&&}",
+                    "搜索标题": "video_name\":\"&&\"",
+                    "搜索图片": "img\":\"&&\"",
+                    "搜索副标题": "\"\":\"&&\"",
+                    "搜索链接": "/api.php/provide/vod_detail?ac=vod_detail&id=+id\":&&,",
+                    "筛选": "1",
+                    "年份": "2021-2024",
+                    "年份值": "*",
+                    "排序": "为你推荐&最新&评分&最热",
+                    "排序值": "空&new&score&hits"
+                    }
         }
     ],
     "lives": [
