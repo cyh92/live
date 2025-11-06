@@ -753,6 +753,235 @@
             "jar": "https://gitee.com/cyh92/live/raw/main/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
         },
         {
+            "key": "毒舌影视",
+            "name": "毒舌｜APP",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/毒舌影视.json"
+        },
+        {
+            "key": "可可影视",
+            "name": "可可｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/可可影视.json"
+        },
+        {
+            "key": "乾坤短剧",
+            "name": "乾坤｜短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/乾坤短剧.json"
+        },
+        {
+            "key": "明星影视",
+            "name": "明星｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/明星影视.json"
+        },
+        {
+            "key": "面包影视",
+            "name": "面包｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/面包影视.json"
+        },
+        {
+            "key": "永乐影视",
+            "name": "永乐｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/永乐影视.json"
+        },
+        {
+            "key": "雪糕影视",
+            "name": "雪糕｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/雪糕影视.json"
+        },
+        {
+            "key": "三九影视",
+            "name": "三九｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/三九影视.json"
+        },
+        {
+            "key": "狐狸磁力",
+            "name": "狐狸｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/狐狸磁力.json"
+        },
+        {
+            "key": "秀儿影视",
+            "name": "秀儿｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/秀儿影视.json"
+        },
+        {
+            "key": "韩剧看看",
+            "name": "韩剧｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/韩剧看看.json"
+        },
+        {
+            "key": "韩剧TV",
+            "name": "韩剧｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/韩剧TV.json"
+        },
+        {
+            "key": "流光",
+            "name": "流星｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/流光4k.json"
+        },
+        {
+            "key": "流光影视",
+            "name": "流光｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/流光影视.json"
+        },
+        {
+            "key": "星空影视",
+            "name": "星空｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/星空影视.json"
+        },
+        {
+            "key": "巴蜀影视",
+            "name": "巴蜀｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/巴蜀影视.json"
+        },
+        {
+            "key": "泥巴影视",
+            "name": "泥巴｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/泥巴影视.json"
+        },
+        {
+            "key": "歪片影视",
+            "name": "歪片｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/歪片影视.json"
+        },
+        {
+            "key": "蚂蚁影院",
+            "name": "蚂蚁｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/蚂蚁影视.json"
+        },
+        {
+            "key": "4K影视",
+            "name": "四K｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/4k影视.json"
+        },
+        {
+            "key": "SVIP影视",
+            "name": "SVIP｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/SVIP影视.json"
+        },
+        {
+            "key": "点播影视",
+            "name": "点播｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/点播影视.json"
+        },
+        {
+            "key": "悟空",
+            "name": "悟空｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/悟空影视.json"
+        },
+        {
+            "key": "狐狸君",
+            "name": "狐狸君｜磁力",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/XBPQ/狐狸君.json"
+        },
+        {
+            "key": "拾光趣乐屋",
+            "name": "拾光｜幸福",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路二次截取": "nav1 nav-tabs active&&</ul",
+                "线路数组": "<li&&</li",
+                "线路标题": "拾光👉+</i>&&</a",
+                "分类url": "https://www.kmysqy.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area=&year={year}&letter=&yuyan=&state=&money=&ver=&jq=;;ak",
+                "分类": "韩剧tv$1#韩国电影$2#韩国综艺$3#韩国动漫$4"
+            }
+        },
+        {
             "key": "✨毒舌短剧✨",
             "name": "⭐️毒舌短剧",
             "type": 3,
