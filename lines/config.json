@@ -910,6 +910,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/PTT短剧.json"
+        },
+        {
+            "key": "乾坤短剧",
+            "name": "乾坤｜短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/cyh92/live/raw/main/jar/duanju.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/cyh92/live/raw/main/jar/json/乾坤短剧.json"
         }
     ],
     "lives": [
