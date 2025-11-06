@@ -172,7 +172,7 @@
                     "主页url": "https://app.4kwo.com/api.php/provide/home_data?id=97",
                     "首页": "120",
                     "起始页": "1",
-                    "分类url": "/api.php/provide/vod_list?id=96&type={cateId}&area=&year={year}&order={by}&page={catePg};;mrcd0",
+                    "分类url": "/api.php/provide/vod_list?id=97&type={cateId}&area=&year={year}&order={by}&page={catePg};;mrcd0",
                     "分类": "女频恋爱&反转爽剧&古装仙侠&年代穿越&脑洞悬疑&现代都市",
                     "分类值": "*",
                     "二次截取": "默认--空||首页--hotvideo&&msg\":\\[",
