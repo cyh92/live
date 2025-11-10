@@ -1,4 +1,4 @@
-央视卫视#genre#
+央视卫视,#genre#
 CCTV-1 综合,video://https://saileitv.com/play.html?channelId=47cdbb52
 CCTV-2 财经,video://https://saileitv.com/play.html?channelId=47d01112
 CCTV-3 综艺,video://https://saileitv.com/play.html?channelId=47ced282
@@ -31,7 +31,7 @@ CCTV-5+ 体育赛事,video://https://saileitv.com/play.html?channelId=n374503fe
 湖北卫视,video://https://saileitv.com/play.html?channelId=6a3f3f10
 四川卫视,video://https://saileitv.com/play.html?channelId=5fbb3db1
 CGTN,video://https://saileitv.com/play.html?channelId=36f451f2
-香港#genre#
+香港,#genre#
 凤凰中文,video://https://saileitv.com/play.html?channelId=bffeb0b
 凤凰资讯,video://https://saileitv.com/play.html?channelId=n4966a4fb
 凤凰香港,video://https://saileitv.com/play.html?channelId=n49654430
@@ -45,6 +45,7 @@ ViuTV 6,video://https://saileitv.com/play.html?channelId=necd2834
 RTHK 31,video://https://saileitv.com/play.html?channelId=n8badbb5
 RTHK 32,video://https://saileitv.com/play.html?channelId=n8badbb4
 HOY TV,video://https://saileitv.com/play.html?channelId=7289243e
+台湾,#genre#
 中天新闻,video://https://saileitv.com/play.html?channelId=41d8a09d
 寰宇新闻台,video://https://saileitv.com/play.html?channelId=n43c34be8
 台视 HD,video://https://saileitv.com/play.html?channelId=5ef6ab90
