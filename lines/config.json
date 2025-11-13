@@ -674,41 +674,41 @@
             "filterable": 1
         },
         {
-    "key": "lil7",
-    "name": "山海官方资源站采集接口",
-    "api": "https://zy.sh0o.cn/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "it74",
-    "name": "天涯影视资源网采集接口",
-    "api": "https://tyyszyapi.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "ihel",
-    "name": "豆瓣资源采集站采集接口大全",
-    "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "cszq",
-    "name": "非凡资源网采集接口",
-    "api": "http://api.ffzyapi.com/api.php/provide/vod",
-    "type": 1,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
+            "key": "lil7",
+            "name": "山海官方资源站采集接口",
+            "api": "https://zy.sh0o.cn/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "it74",
+            "name": "天涯影视资源网采集接口",
+            "api": "https://tyyszyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "ihel",
+            "name": "豆瓣资源采集站采集接口大全",
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "cszq",
+            "name": "非凡资源网采集接口",
+            "api": "http://api.ffzyapi.com/api.php/provide/vod",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
         {
             "key": "cechi",
             "name": "策驰影院",
@@ -1486,55 +1486,45 @@
             "type": 0,
             "url": "https://cyh92.github.io/live//source/fm.txt"
         },
-                {
-                                "name": "JRS04(M3U8)",
-                                            "url": "http://iptv.cqshushu.com/jrs.php?p=m3u8&type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488"
-                },
-                        {
-                                        "name": "88KQ(M3U)",
-                                                    "url": "http://iptv.cqshushu.com/88kq.php?p=video&type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488"
-                        },
-                                {
-                                                "name": "74体育(M3U)",
-                                                            "url": "http://iptv.cqshushu.com/74001.php?type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488"
-                                },
-                                        {
-                                                        "name": "JZB(M3U)",
-                                                                    "url": "http://iptv.cqshushu.com/jzb25.php?type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488",
-                                                                                "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-                                        },
-                                                {
-                                                                "name": "807(M3U)",
-                                                                            "url": "http://iptv.cqshushu.com/iptv807.php?jk=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488",
-                                                                                        "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                                                                                    "header": {
-                                                                                                                        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
-                                                                                                                                        "Referer": "http://m.iptv807.com/"
-                                                                                                    }
-                                                },
-                                                        {
-                                                                        "name": "beesport(M3U)",
-                                                                                    "url": "http://iptv.cqshushu.com/beesport.php?token=fb895ab44d81f75ac56a8bdb1d8b3488",
-                                                                                                "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-                                                                                                            "header": {
-                                                                                                                                "Referer": "https://new-player.lioncdn.net/"
-                                                                                                            }
-                                                        },
-                                                                {
-                                                                                "name": "电视直播 (M3U格式)",
-                                                                                            "url": "http://iptv.cqshushu.com/jiekou.php?jk=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488",
-                                                                                                        "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
-                                                                }
-                                                                    
-                                                                }
-                                                                                                            }
-                                                        }
-                                                                                                    }
-                                                }
-                                        }
-                                }
-                        }
-                }
+        {
+            "name": "JRS04(M3U8)",
+            "url": "http://iptv.cqshushu.com/jrs.php?p=m3u8&type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488"
+        },
+        {
+            "name": "88KQ(M3U)",
+            "url": "http://iptv.cqshushu.com/88kq.php?p=video&type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488"
+        },
+        {
+            "name": "74体育(M3U)",
+            "url": "http://iptv.cqshushu.com/74001.php?type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488"
+        },
+        {
+            "name": "JZB(M3U)",
+            "url": "http://iptv.cqshushu.com/jzb25.php?type=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        },
+        {
+            "name": "807(M3U)",
+            "url": "http://iptv.cqshushu.com/iptv807.php?jk=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+                "Referer": "http://m.iptv807.com/"
+            }
+        },
+        {
+            "name": "beesport(M3U)",
+            "url": "http://iptv.cqshushu.com/beesport.php?token=fb895ab44d81f75ac56a8bdb1d8b3488",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "header": {
+                "Referer": "https://new-player.lioncdn.net/"
+            }
+        },
+        {
+            "name": "电视直播 (M3U格式)",
+            "url": "http://iptv.cqshushu.com/jiekou.php?jk=m3u&token=fb895ab44d81f75ac56a8bdb1d8b3488",
+            "epg": "https://epg.112114.xyz/?ch={name}&date={date}"
+        }
     ],
     "parses": [
         {
