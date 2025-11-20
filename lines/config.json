@@ -719,13 +719,6 @@
             "playurl": "https://jsjiexi.com/play/?url="
         },
         {
-            "key": "cechi",
-            "name": "策驰影院",
-            "type": 3,
-            "api": "csp_CeChi",
-            "jar": "https://gitee.com/cyh92/live/raw/main/jar/cyh92.jar"
-        },
-        {
             "key": "Bili",
             "name": "哔哩-合集",
             "type": 3,
