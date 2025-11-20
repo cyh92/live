@@ -710,6 +710,15 @@
             "filterable": 1
         },
         {
+            "key": "90",
+            "name": "🌼蓝天┃90",
+            "type": 1,
+            "api": "https://90sr.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playurl": "https://jsjiexi.com/play/?url="
+        },
+        {
             "key": "cechi",
             "name": "策驰影院",
             "type": 3,
