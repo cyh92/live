@@ -1429,7 +1429,7 @@
             "name": "网页源",
             "type": 0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
             "ua": "okhttp/3",
             "header": {
@@ -1441,7 +1441,7 @@
             "type": 0,
             "url": "http://cyh92.cn/list.m3u",
             "ua": "okhttp/3",
-            "epg": "https://epg.27481716.xyz/epg.xml?ch={name}&date={date}",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "playerType": 2,
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
@@ -1460,7 +1460,7 @@
             "url": "http://rihou.cc:567/gggg.nzk",
             "playerType": 2,
             "ua": "okhttp/3",
-            "epg": "http://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
         {
@@ -1470,7 +1470,7 @@
             "timeout": 30,
             "playerType": 2,
             "ua": "okhttp/3",
-            "epg": "http://epg.51zmt.top:8001/api/diyp/?ch={name}&date={date}",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
         {
@@ -1480,7 +1480,7 @@
             "playerType": 1,
             "ua": "okhttp/3.8.1",
             "timeout": 20,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png"
         },
         {
@@ -1490,7 +1490,8 @@
         },
         {
             "name": "赛雷TV",
-            "type": 0,
+            "type": 0,            
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "url": "https://gitee.com/cyh92/live/raw/main/source/ss.txt"
         }
     ],
