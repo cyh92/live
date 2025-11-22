@@ -1487,6 +1487,11 @@
             "name": "FM",
             "type": 0,
             "url": "https://cyh92.github.io/live//source/fm.txt"
+        },
+        {
+            "name": "赛雷TV",
+            "type": 0,
+            "url": "https://gitee.com/cyh92/live/raw/main/source/ss.txt"
         }
     ],
     "parses": [
