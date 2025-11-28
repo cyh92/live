@@ -1493,6 +1493,12 @@
             "type": 0,            
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "url": "https://gitee.com/cyh92/live/raw/main/source/ss.txt"
+        },
+        {
+            "name": "ZBTV",
+            "type": 0,            
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+            "url": "https://gitee.com/cyh92/live/raw/main/source/zb.txt"
         }
     ],
     "parses": [
