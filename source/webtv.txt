@@ -114,7 +114,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 贵州卫视,video://https://www.gzstv.com/tv/ch01
 海南卫视,video://http://tc.hnntv.cn/zb/28666112.shtml
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-黑龙江卫视,video://https://www.hljtv.com/live/
+黑龙江卫视,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 河南卫视,video://https://static.hntv.tv/kds/#/
 湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
 吉林卫视,video://https://www.jlntv.cn/tv?id=104
@@ -222,7 +222,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 海峡卫视,webview://https://m.miguvideo.com/m/liveDetail/849119120
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
-黑龙江卫视,webview://https://www.hljtv.com/live/
+黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 河南卫视,webview://https://static.hntv.tv/kds/#/
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
@@ -444,43 +444,36 @@ CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 
 4K🌟频道,#genre#
 北京卫视4K,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
-北京卫视4K,https://iptv.catvod.com/live.php?id=北京卫视4k
-深圳卫视4K,https://iptv.catvod.com/live.php?id=深圳卫视4K
 深圳卫视4K,video://https://www.sztv.com.cn/pindao/index.html?id=24725
 东方卫视4K,video://https://live.kankanews.com/huikan?id=1
-湖南卫视4K,https://iptv.catvod.com/live.php?id=湖南卫视4K
-浙江卫视4K,https://iptv.catvod.com/live.php?id=浙江卫视4K
-浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方卫视4K,https://iptv.catvod.com/live.php?id=东方卫视4K
 
-苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-苏州4k,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-河北4k,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 广东4K,http://pa.kuangdeng.top:8081/hls/49/index.m3u8
 河南4K,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 
 
 少儿✯频道,#genre#
 卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
-金鹰卡通,video://https://live.mgtv.com/?channelId=287
-金鹰卡通,video://https://www.mgtv.com/live-new
 金鹰卡通,webview://https://live.mgtv.com/?channelId=287
+金鹰卡通,video://https://www.mgtv.com/live/
 金鹰卡通,webview://https://www.mgtv.com/live-new
-哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 哈哈炫动,webview://https://live.kankanews.com/huikan?id=9
-浙江少儿,video://https://www.cztv.com/liveTV/108
+哈哈炫动,video://https://live.kankanews.com/huikan?id=9
 浙江少儿,webview://https://www.cztv.com/liveTV/108
+浙江少儿,video://https://www.cztv.com/liveTV/108
 新疆少儿,video://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 新疆少儿,webview://https://www.xjtvs.com.cn/column/tv/434?channelId=23
 优漫卡通,video://https://live.jstv.com/?channelId=543
 南京少儿,https://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 海南少儿,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
-山东少儿,video://https://v.iqilu.com/live/sepd/
+海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7
 山东少儿,webview://https://v.iqilu.com/live/sepd/
-黑龙江少儿,video://https://www.hljtv.com/live/folder422/
+山东少儿,video://https://v.iqilu.com/live/sepd/
+黑龙江少儿,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljse
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
 
@@ -856,16 +849,16 @@ tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 
 
 『黑龙江』,#genre#
-黑龙江文体,video://https://www.hljtv.com/live/folder423/
-黑龙江文体,webview://https://www.hljtv.com/live/folder423/
-黑龙江影视,video://https://www.hljtv.com/live/folder425/
-黑龙江影视,webview://https://www.hljtv.com/live/folder425/
-黑龙江新闻法治,video://https://www.hljtv.com/live/folder424/
-黑龙江新闻法治,webview://https://www.hljtv.com/live/folder424/
-黑龙江都市,video://https://www.hljtv.com/live/folder419/
-黑龙江都市,webview://https://www.hljtv.com/live/folder419/
-黑龙江农业科教,video://https://www.hljtv.com/live/folder420/
-黑龙江少儿,video://https://www.hljtv.com/live/folder422/
+黑龙江文体,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龙江文体,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljwt
+黑龙江影视,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龙江影视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljys
+黑龙江新闻法治,video://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龙江新闻法治,webview://https://www.dbw.cn/zhibodan/zhibo_dan/heilongjiang
+黑龙江都市,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龙江都市,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljds
+黑龙江农业科教,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
+黑龙江农业科教,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljnykj
 哈尔滨新闻综合,video://https://www.hrbtv.net/folder79/folder81/
 哈尔滨新闻综合,webview://https://www.hrbtv.net/folder79/folder81/
 哈尔滨生活,video://https://www.hrbtv.net/folder79/folder85/
