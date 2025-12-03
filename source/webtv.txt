@@ -25,7 +25,6 @@ CCTV-1,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNu
 CCTV-2,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=12030532124776958103&toc_style_id=feeds_only_back&share_to=copy_url&track_id=8ff44314-c7a7-4241-be6e-11a7b7224db4
 CCTV-4,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=10620168294224708952&toc_style_id=feeds_only_back&share_to=copy_url&track_id=7f4e2027-e822-49f3-88b1-2ffe00919f92
 CCTV-6,webview://https://m.1905.com/m/cctv6/gzh/?app
-CCTV-7,webview://https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 CCTV-13,webview://https://m-live.cctvnews.cctv.com/live/landscape.html?liveRoomNumber=16265686808730585228&toc_style_id=feeds_only_back&share_to=copy_url&track_id=ac0e1dc7-d2a2-403b-ad45-9ed44fe89895
 
 CETV1,video://https://yangshipin.cn/tv/home?pid=600171827
@@ -487,34 +486,6 @@ CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 宁夏少儿,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 
 『港✯澳』V,#genre#
-RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
-RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
-凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
-凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
-凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
-无线翡翠台,http://vallest.uk/livehttpplay?channel_id=20124
-无线明珠台,http://vallest.uk/livehttpplay?channel_id=30026
-无线新闻台,http://vallest.uk/livehttpplay?channel_id=30024
-有线综合台,http://vallest.uk/livehttpplay?channel_id=20152
-
-中天新闻台,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=凤凰中文
-有线新闻台,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
-无线新闻台,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
-Now新闻,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
-有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-无线翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8 
-无线翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=TVB翡翠
-无线明珠台,http://iptv.4666888.xyz/iptv2A.php?id=TVB明珠
-无线千禧,http://iptv.4666888.xyz/iptv2A.php?id=TVB千禧经典
-无线一台,http://iptv.4666888.xyz/iptv2A.php?id=TVB1
-无线综台,http://iptv.4666888.xyz/iptv2A.php?id=TVBJ1
-tvbs台剧,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
-纬来戏剧,http://iptv.4666888.xyz/iptv2A.php?id=纬来戏剧
-星空卫视,http://iptv.4666888.xyz/iptv2A.php?id=星空卫视 
-
-
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 无线翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
