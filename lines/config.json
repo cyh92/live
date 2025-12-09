@@ -1492,7 +1492,7 @@
             "name": "ZBTV",
             "type": 0,            
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-            "url": "https://gitee.com/cyh92/live/raw/main/source/zb.txt"
+            "url": "https://cyh92.github.io/live/source/zb.txt"
         },
         {
             "name": "音乐MV",
