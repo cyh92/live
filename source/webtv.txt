@@ -55,8 +55,6 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-中学生,http://www.cdnstv.com:6398/hls/1177/index.m3u8
-
 『卫✯视』V,#genre#
 北京卫视,video://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 东方卫视,video://https://www.xuexi.cn/xxqg.html?id=b03d633a64f14712b1b78ad5336fac2c
@@ -131,38 +129,6 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 
-
-北京卫视,http://www.cdnstv.com:6398/hls/1123/index.m3u8
-广东卫视,http://www.cdnstv.com:6398/hls/1124/index.m3u8
-黑龙江卫视,http://www.cdnstv.com:6398/hls/1125/index.m3u8
-山东卫视,http://www.cdnstv.com:6398/hls/1126/index.m3u8
-安徽卫视,http://www.cdnstv.com:6398/hls/1127/index.m3u8
-辽宁卫视,http://www.cdnstv.com:6398/hls/1128/index.m3u8
-陕西卫视,http://www.cdnstv.com:6398/hls/1129/index.m3u8
-贵州卫视,http://www.cdnstv.com:6398/hls/1130/index.m3u8
-河北卫视,http://www.cdnstv.com:6398/hls/1131/index.m3u8
-江西卫视,http://www.cdnstv.com:6398/hls/1132/index.m3u8
-湖南卫视,http://www.cdnstv.com:6398/hls/1133/index.m3u8
-深圳卫视,http://www.cdnstv.com:6398/hls/1134/index.m3u8
-四川卫视,http://www.cdnstv.com:6398/hls/1135/index.m3u8
-湖北卫视,http://www.cdnstv.com:6398/hls/1136/index.m3u8
-天津卫视,http://www.cdnstv.com:6398/hls/1137/index.m3u8
-云南卫视,http://www.cdnstv.com:6398/hls/1138/index.m3u8
-重庆卫视,http://www.cdnstv.com:6398/hls/1139/index.m3u8
-吉林卫视,http://www.cdnstv.com:6398/hls/1140/index.m3u8
-宁夏卫视,http://www.cdnstv.com:6398/hls/1141/index.m3u8
-东南卫视,http://www.cdnstv.com:6398/hls/1142/index.m3u8
-内蒙古卫视,http://www.cdnstv.com:6398/hls/1143/index.m3u8
-广西卫视,http://www.cdnstv.com:6398/hls/1144/index.m3u8
-山西卫视,http://www.cdnstv.com:6398/hls/1145/index.m3u8
-海南卫视,http://www.cdnstv.com:6398/hls/1146/index.m3u8
-甘肃卫视,http://www.cdnstv.com:6398/hls/1147/index.m3u8
-青海卫视,http://www.cdnstv.com:6398/hls/1148/index.m3u8
-新疆卫视,http://www.cdnstv.com:6398/hls/1153/index.m3u8
-西藏卫视,http://www.cdnstv.com:6398/hls/1154/index.m3u8
-金鹰纪实,http://www.cdnstv.com:6398/hls/1178/index.m3u8
-
-莲花卫视,video://https://www.lotustv.mo/#page1
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 
@@ -367,7 +333,6 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 广东4K,http://pa.kuangdeng.top:8081/hls/49/index.m3u8
-河南4K,http://www.cdnstv.com:6398/hls/1168/index.m3u8
 
 
 少儿✯频道,#genre#
@@ -392,13 +357,6 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 山东少儿,video://https://v.iqilu.com/live/sepd/
 黑龙江少儿,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljse
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-
-
-金鹰卡通,http://www.cdnstv.com:6398/hls/1149/index.m3u8
-嘉佳卡通,http://www.cdnstv.com:6398/hls/1150/index.m3u8
-卡酷少儿,http://www.cdnstv.com:6398/hls/1151/index.m3u8
-优漫卡通,http://www.cdnstv.com:6398/hls/1155/index.m3u8
-动漫秀场,http://www.cdnstv.com:6398/hls/1180/index.m3u8
 
 宁夏少儿,video://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
 宁夏少儿,webview://https://web.ningxiahuangheyun.com/app/nxtv-tv/nxse
