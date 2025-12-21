@@ -1473,7 +1473,6 @@
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://live.fanmingming.cn/tv/{name}.png"
         },
-        {"name":"bingcha（咪咕1080）","type":0,"url":"https://gongdian.top/tv/bingcha","playerType":1},
         {
             "name": "MiGu",
             "type": 0,
@@ -1494,11 +1493,6 @@
             "type": 0,            
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "url": "https://cyh92.github.io/live/source/zb.txt"
-        },
-        {
-            "name": "音乐MV",
-            "type": 0,            
-            "url": "https://cyh92.github.io/live/source/MTV/MTV.txt"
         },
          {
             "name": "局域网线路",
