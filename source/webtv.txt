@@ -110,7 +110,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 海南卫视,video://http://tc.hnntv.cn/zb/28666112.shtml
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 黑龙江卫视,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
-河南卫视,video://https://static.hntv.tv/kds/#/
+河南卫视,video://https://static.hntv.tv/kds
 湖北卫视,video://https://news.hbtv.com.cn/app/tv/431
 吉林卫视,video://https://www.jlntv.cn/tv?id=104
 江苏卫视,video://https://live.jstv.com/
@@ -186,7 +186,7 @@ CCTV17,webview://https://tv.cctv.cn/live/cctv17/
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 河北卫视,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
-河南卫视,webview://https://static.hntv.tv/kds/#/
+河南卫视,webview://https://static.hntv.tv/kds
 湖北卫视,webview://https://news.hbtv.com.cn/app/tv/431
 吉林卫视,webview://https://www.jlntv.cn/tv?id=104
 江苏卫视,webview://https://live.jstv.com/
@@ -590,8 +590,7 @@ tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
 郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-项城新闻,http://live.dxhmt.cn:9081/tv/11681-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
-项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8#@http://p2.weizan.cn/978354/131995006225520039/live.m3u8
+项城新闻,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
@@ -655,8 +654,6 @@ tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 第一财经,video://https://live.kankanews.com/huikan?id=5
 新纪实,video://https://live.kankanews.com/huikan?id=12
 都市频道,video://https://live.kankanews.com/huikan?id=4
-法制天地,http://www.cdnstv.com:6398/hls/1193/index.m3u8
-中华特产,http://www.cdnstv.com:6398/hls/1191/index.m3u8
 
 『安✯徽』V,#genre#
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
@@ -1005,9 +1002,6 @@ tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 云南易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
 四川|广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 四川|广安新闻,http://live1.gatv.com.cn:85/live/XWZH.m3u8
-四川德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8#http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
-四川甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
-zsicd#http://live.wanyuannews.com/wytv/hd/live.m3u8#http://live.wanyuannews.com:80/wytv/hd/live.m3u8
 四川松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd#http://live.spccmc.com:90/live/spxwzh.m3u8
 四川汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8#http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
 四川利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd#http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
