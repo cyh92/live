@@ -962,7 +962,6 @@ tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 贵州科教健康,webview://https://www.gzstv.com/tv/ch06
 贵州移动,video://https://www.gzstv.com/tv/ch13
 贵州移动,webview://https://www.gzstv.com/tv/ch13
-肇庆生活,video://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 贵阳新闻综合频道,video://https://movement.gzstv.com/streams/videolive/76
 遵义新闻综合频道,video://https://movement.gzstv.com/streams/videolive/78
 安顺新闻综合频道,video://https://movement.gzstv.com/streams/videolive/79
@@ -975,6 +974,10 @@ tvbs台剧,http://cmtv.netlib.re/channel/na071477.m3u8
 黔西南综合,webview://http://share2.qxndt.com/?_hgOutLink=live/livedetail&channel_id=11
 黔西南公共,webview://http://share2.qxndt.com/?_hgOutLink=live/livedetail&channel_id=14
 黔东南新闻综合频道,video://https://movement.gzstv.com/streams/videolive/81
+
+『广✯东』,#genre#
+肇庆综合,video://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio
+肇庆生活,video://https://zqh5.xjrb.com/h5/nfzmy-television-and-radio/#/?channelId=34
 
 『四✯川』,#genre#
 成都新闻,video://https://www.cditv.cn/show/4845-563.html
