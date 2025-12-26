@@ -1493,7 +1493,7 @@
             "type": 0,            
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "url": "https://cyh92.github.io/live/source/zb.txt"
-        },,
+        },
          {
             "name": "移动网络直播源",
             "type": 0,
