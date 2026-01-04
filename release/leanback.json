@@ -1,5 +1,5 @@
 {
-    "code": 499,
-    "name": "4.9.9",
-    "desc": "* 更新 media3\n* 优化轨道记忆\n* 优化筛选存取\n* 新增分类页懒加载\n* 优化播放失败提示\n* 修正线路配置导入\n* 优化直播结束判断\n* 更新 python 套件\n* 移除 jsonpath 套件"
+    "code": 508,
+    "name": "5.0.8",
+    "desc": "* 修正 js 初始化\n* 微调直播列表间距\n* playerContent 支持 artwork 栏位\n* 优化集数命中策略\n* 修正 gzip 节目表检测\n* 优化多jar载入"
 }
