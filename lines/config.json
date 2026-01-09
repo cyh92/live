@@ -548,15 +548,6 @@
             "filterable": 1
         },
         {
-            "key": "bwzyz",
-            "name": "AV-百万资源",
-            "api": "https://api.bwzyz.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "hongniuzy2",
             "name": "TV-红牛资源",
             "api": "https://www.hongniuzy2.com/api.php/provide/vod",
@@ -623,24 +614,6 @@
             "key": "moduapi",
             "name": "TV-魔都动漫",
             "api": "https://caiji.moduapi.cc/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "lbapiby",
-            "name": "AV-AIvin",
-            "api": "http://lbapiby.com/api.php/provide/vod",
-            "type": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "xingba111",
-            "name": "性吧资源",
-            "api": "https://xingba111.com/api.php/provide/vod",
             "type": 1,
             "searchable": 1,
             "quickSearch": 1,
