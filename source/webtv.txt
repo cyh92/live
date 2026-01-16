@@ -336,8 +336,7 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 广东4K,https://t.freetv.fun/live/yan-dong-4kchao-gao-qing.m3u8
 
 少儿✯频道,#genre#
-卡酷少儿,http://sh.lnott.top:880/dx92.m3u8
-金鹰卡通,http://sh.lnott.top:880/dx88.m3u8
+卡酷少儿,http://123.207.224.130:123/beijing/beijing.php?id=bjkk
 金鹰卡通,webview://https://live.mgtv.com/?channelId=287
 金鹰卡通,video://https://www.mgtv.com/live/
 金鹰卡通,webview://https://www.mgtv.com/live-new
@@ -457,25 +456,9 @@ RTHK-32欣赏,http://rihou.cc:555/tv/[Cx]RTHK-32
 文物宝库,http://123.207.224.130:123/henan/henan.php?id=wwbk
 武术世界,http://123.207.224.130:123/henan/henan.php?id=wspd
 移动戏曲,http://123.207.224.130:123/henan/henan.php?id=ydxj
-郑州新闻综合,http://123.207.224.130:123/henan/henan.php?id=zz1
-开封新闻综合,http://123.207.224.130:123/henan/henan.php?id=kf1
-洛阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=ly1
-鹤壁新闻综合,http://123.207.224.130:123/henan/henan.php?id=hb1
-安阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=ay1
-新乡新闻综合,http://123.207.224.130:123/henan/henan.php?id=xx1
-焦作新闻综合,http://123.207.224.130:123/henan/henan.php?id=jz1
-濮阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=py1
-许昌新闻综合,http://123.207.224.130:123/henan/henan.php?id=xc1
-漯河新闻综合,http://123.207.224.130:123/henan/henan.php?id=lh1
-三门峡新闻综合,http://123.207.224.130:123/henan/henan.php?id=smx1
-南阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=ny1
-商丘新闻综合,http://123.207.224.130:123/henan/henan.php?id=sq1
-信阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=xy1
-周口新闻综合,http://123.207.224.130:123/henan/henan.php?id=zk1
-驻马店新闻综合,http://123.207.224.130:123/henan/henan.php?id=zmd1
-济源新闻综合,http://123.207.224.130:123/henan/henan.php?id=jy1
-郑州新闻综合,http://123.207.224.130:123/henan/zhengzhou.php?id=zzxwzh
 
+郑州新闻综合,http://123.207.224.130:123/henan/henan.php?id=zz1
+郑州新闻综合,http://123.207.224.130:123/henan/zhengzhou.php?id=zzxwzh
 
 
 郑州新闻综合,video://https://static.hntv.tv/total/television/?id=197
@@ -496,38 +479,57 @@ RTHK-32欣赏,http://rihou.cc:555/tv/[Cx]RTHK-32
 开封文化旅游,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8?zhend
 开封新闻综合,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8?zhend
 
-兰考新闻频道,video://https://www.kftv.net.cn/info/942
-杞县新闻综合,video://https://www.kftv.net.cn/info/941
-尉氏新闻频道,video://https://www.kftv.net.cn/info/940
-通许综合频道,video://https://www.kftv.net.cn/info/939
+开封新闻综合,http://123.207.224.130:123/henan/henan.php?id=kf1
+洛阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=ly1
+鹤壁新闻综合,http://123.207.224.130:123/henan/henan.php?id=hb1
+安阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=ay1
+新乡新闻综合,http://123.207.224.130:123/henan/henan.php?id=xx1
+焦作新闻综合,http://123.207.224.130:123/henan/henan.php?id=jz1
+濮阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=py1
+许昌新闻综合,http://123.207.224.130:123/henan/henan.php?id=xc1
+漯河新闻综合,http://123.207.224.130:123/henan/henan.php?id=lh1
+三门峡新闻综合,http://123.207.224.130:123/henan/henan.php?id=smx1
+南阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=ny1
+商丘新闻综合,http://123.207.224.130:123/henan/henan.php?id=sq1
+信阳新闻综合,http://123.207.224.130:123/henan/henan.php?id=xy1
+周口新闻综合,http://123.207.224.130:123/henan/henan.php?id=zk1
+驻马店新闻综合,http://123.207.224.130:123/henan/henan.php?id=zmd1
+济源新闻综合,http://123.207.224.130:123/henan/henan.php?id=jy1
 
-洛阳综合,video://https://static.hntv.tv/total/television/?id=204
+洛阳新闻综合,video://https://static.hntv.tv/total/television/?id=204
 平顶山综合,video://https://static.hntv.tv/total/television/?id=205
-安阳综合,video://https://static.hntv.tv/total/television/?id=206
-鹤壁综合,video://https://static.hntv.tv/total/television/?id=207
-新乡综合,video://https://static.hntv.tv/total/television/?id=208
+安阳新闻综合,video://https://static.hntv.tv/total/television/?id=206
+鹤壁新闻综合,video://https://static.hntv.tv/total/television/?id=207
+新乡新闻综合,video://https://static.hntv.tv/total/television/?id=208
 
-焦作综合,video://https://static.hntv.tv/total/television/?id=209
-焦作综合,video://http://www.jzrt.com/list-zhpd.html
+焦作新闻综合,video://https://static.hntv.tv/total/television/?id=209
+焦作新闻综合,video://http://www.jzrt.com/list-zhpd.html
 焦作公共,video://http://www.jzrt.com/list-ggpd.html
-焦作综合,video://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
+焦作新闻综合,video://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=a15a6b9e3e1f435584f903641e85a975
 焦作公共,video://https://jiaozuo.dxhmt.cn/api/page/goLivePage?liveId=6a8a51398cf44ad28bb7808afdc94f4d
 
-濮阳综合,video://https://static.hntv.tv/total/television/?id=219
+濮阳新闻综合,video://https://static.hntv.tv/total/television/?id=219
 
-许昌综合,video://https://static.hntv.tv/total/television/?id=220
-许昌综合,video://http://xctv.cn/2359
+许昌新闻综合,video://https://static.hntv.tv/total/television/?id=220
+许昌新闻综合,video://http://xctv.cn/2359
 许昌农业科教,video://http://xctv.cn/3918
 晴彩许昌,video://http://xctv.cn/3920
 
 漯河新闻综合,video://https://static.hntv.tv/total/television/?id=221
-三门峡综合,video://https://static.hntv.tv/total/television/?id=222
+三门峡新闻综合,video://https://static.hntv.tv/total/television/?id=222
 南阳新闻综合,video://https://static.hntv.tv/total/television/?id=223
 商丘新闻综合,video://https://static.hntv.tv/total/television/?id=224
-信阳综合,video://https://static.hntv.tv/total/television/?id=225
-周口综合,video://https://static.hntv.tv/total/television/?id=226
-驻马店综合,video://https://static.hntv.tv/total/television/?id=227
-济源综合,video://https://static.hntv.tv/total/television/?id=228
+信阳新闻综合,video://https://static.hntv.tv/total/television/?id=225
+周口新闻综合,video://https://static.hntv.tv/total/television/?id=226
+驻马店新闻综合,video://https://static.hntv.tv/total/television/?id=227
+济源新闻综合,video://https://static.hntv.tv/total/television/?id=228
+
+
+
+兰考新闻频道,video://https://www.kftv.net.cn/info/942
+杞县新闻综合,video://https://www.kftv.net.cn/info/941
+尉氏新闻频道,video://https://www.kftv.net.cn/info/940
+通许综合频道,video://https://www.kftv.net.cn/info/939
 
 宝丰综合频道,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?zhend
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
