@@ -31,10 +31,6 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 风云剧场,webview://https://yangshipin.cn/tv/home?pid=600099658
 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620
 
-
-流金岁月,http://cctv.sohu.blog/1905.php?t=1&id=LIVEOYY31H24H48NE
-
-
 第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -59,9 +55,10 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-5.m3u8
-
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-1.php
+
+流金岁月,http://cctv.sohu.blog/1905.php?t=1&id=LIVEOYY31H24H48NE
 
 『央视网』W,#genre#
 CCTV1,webview://https://tv.cctv.cn/live/cctv1/
