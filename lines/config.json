@@ -1432,10 +1432,7 @@
             "url": "https://cyh92.github.io/live/source/webtv.txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
-            "ua": "okhttp/3",
-            "header": {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
-            }
+            "ua": "okhttp/3"
         },
         {
             "name": "自用",
