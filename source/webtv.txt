@@ -153,16 +153,16 @@ CCTV16,webview://https://tv.CCTV.cn/live/CCTV16/
 CCTV17,webview://https://tv.CCTV.cn/live/CCTV17/
 
 『央卫咪咕』,#genre#
-CCTV-01,http://go.bkpcp.top/mg/cctv1
-CCTV-02,http://go.bkpcp.top/mg/cctv2
-CCTV-03,http://go.bkpcp.top/mg/cctv3
-CCTV-04,http://go.bkpcp.top/mg/cctv4
-CCTV-05,http://go.bkpcp.top/mg/cctv5
+CCTV-1,http://go.bkpcp.top/mg/cctv1
+CCTV-2,http://go.bkpcp.top/mg/cctv2
+CCTV-3,http://go.bkpcp.top/mg/cctv3
+CCTV-4,http://go.bkpcp.top/mg/cctv4
+CCTV-5,http://go.bkpcp.top/mg/cctv5
 CCTV-5+,http://go.bkpcp.top/mg/cctv5p
-CCTV-06,http://go.bkpcp.top/mg/cctv6
-CCTV-07,http://go.bkpcp.top/mg/cctv7
-CCTV-08,http://go.bkpcp.top/mg/cctv8
-CCTV-09,http://go.bkpcp.top/mg/cctv9
+CCTV-6,http://go.bkpcp.top/mg/cctv6
+CCTV-7,http://go.bkpcp.top/mg/cctv7
+CCTV-8,http://go.bkpcp.top/mg/cctv8
+CCTV-9,http://go.bkpcp.top/mg/cctv9
 CCTV-10,http://go.bkpcp.top/mg/cctv10
 CCTV-11,http://go.bkpcp.top/mg/cctv11
 CCTV-12,http://go.bkpcp.top/mg/cctv12
@@ -173,9 +173,7 @@ CCTV-16,http://go.bkpcp.top/mg/cctv16
 CCTV-17,http://go.bkpcp.top/mg/cctv17
 CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
 CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
-CGTN-西,http://go.bkpcp.top/mg/cgtne
-CGTN-阿,http://go.bkpcp.top/mg/cgtna
-CGTN-法,http://go.bkpcp.top/mg/cgtnf
+
 北京卫视,http://go.bkpcp.top/mg/bjws
 东方卫视,http://go.bkpcp.top/mg/dfws
 浙江卫视,http://go.bkpcp.top/mg/zjws
