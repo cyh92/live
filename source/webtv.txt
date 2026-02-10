@@ -141,24 +141,24 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
 
 『央视官网』,#genre#
-CCTV1,webview://https://tv.CCTV.cn/live/CCTV1/
-CCTV2,webview://https://tv.CCTV.cn/live/CCTV2/
-CCTV3,webview://https://tv.CCTV.cn/live/CCTV3/
-CCTV4,webview://https://tv.CCTV.cn/live/CCTV4/
-CCTV5,webview://https://tv.CCTV.cn/live/CCTV5/
-CCTV5+,webview://https://tv.CCTV.cn/live/CCTV5plus
-CCTV6,webview://https://tv.CCTV.cn/live/CCTV6/
-CCTV7,webview://https://tv.CCTV.cn/live/CCTV7/
-CCTV8,webview://https://tv.CCTV.cn/live/CCTV8/
-CCTV9,webview://https://tv.CCTV.cn/live/CCTVjilu/
-CCTV10,webview://https://tv.CCTV.cn/live/CCTV10/
-CCTV11,webview://https://tv.CCTV.cn/live/CCTV11/
-CCTV12,webview://https://tv.CCTV.cn/live/CCTV12/
-CCTV13,webview://https://tv.CCTV.cn/live/CCTV13/
-CCTV14,webview://https://tv.CCTV.cn/live/CCTVchild/
-CCTV15,webview://https://tv.CCTV.cn/live/CCTV15/
-CCTV16,webview://https://tv.CCTV.cn/live/CCTV16/
-CCTV17,webview://https://tv.CCTV.cn/live/CCTV17/
+CCTV1,webview://https://tv.CCTV.cn/live/cctv1
+CCTV2,webview://https://tv.CCTV.cn/live/cctv2
+CCTV3,webview://https://tv.CCTV.cn/live/cctv3
+CCTV4,webview://https://tv.CCTV.cn/live/cctc4
+CCTV5,webview://https://tv.CCTV.cn/live/cctv5
+CCTV5+,webview://https://tv.CCTV.cn/live/cctv5Plus
+CCTV6,webview://https://tv.CCTV.cn/live/cctv6
+CCTV7,webview://https://tv.CCTV.cn/live/cctv7
+CCTV8,webview://https://tv.CCTV.cn/live/cctv8
+CCTV9,webview://https://tv.CCTV.cn/live/cctvjilu/
+CCTV10,webview://https://tv.CCTV.cn/live/cctv10
+CCTV11,webview://https://tv.CCTV.cn/live/cctv11
+CCTV12,webview://https://tv.CCTV.cn/live/cctv12
+CCTV13,webview://https://tv.CCTV.cn/live/cctv13
+CCTV14,webview://https://tv.CCTV.cn/live/cctvchild/
+CCTV15,webview://https://tv.CCTV.cn/live/cctv15
+CCTV16,webview://https://tv.CCTV.cn/live/cctv16
+CCTV17,webview://https://tv.CCTV.cn/live/cctv17
 
 『央卫咪咕』,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1
