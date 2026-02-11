@@ -144,9 +144,9 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CCTV1,webview://https://tv.CCTV.cn/live/cctv1
 CCTV2,webview://https://tv.CCTV.cn/live/cctv2
 CCTV3,webview://https://tv.CCTV.cn/live/cctv3
-CCTV4,webview://https://tv.CCTV.cn/live/cctc4
+CCTV4,webview://https://tv.CCTV.cn/live/cctv4
 CCTV5,webview://https://tv.CCTV.cn/live/cctv5
-CCTV5+,webview://https://tv.CCTV.cn/live/cctv5Plus
+CCTV5+,webview://https://tv.CCTV.cn/live/cctv5plus
 CCTV6,webview://https://tv.CCTV.cn/live/cctv6
 CCTV7,webview://https://tv.CCTV.cn/live/cctv7
 CCTV8,webview://https://tv.CCTV.cn/live/cctv8
