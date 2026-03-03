@@ -1502,6 +1502,39 @@
             "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
+        }, 
+        {
+            "name": "香港",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
+            "ua": "okhttp/3",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+            }
+        },        
+        {
+            "name": "澳门",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/ipv4/categories/macau.m3u",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
+            "ua": "okhttp/3",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+            }
+        },
+        {
+            "name": "台湾",
+            "type": 0,
+            "url": "https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
+            "ua": "okhttp/3",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+            }
         },
          {
             "name": "局域网自建源",
