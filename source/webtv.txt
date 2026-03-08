@@ -138,11 +138,10 @@ CHC影迷电影,http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 
-重温经典,http://ah2.sohu.blog:8000/hls/50/index.m3u8
-重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://47.100.29.86:22222/cwjd.php
 重温经典,http://abc.sohu.blog/cwjd.php
-
+重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
+重温经典,http://ah2.sohu.blog:8000/hls/50/index.m3u8
 
 『央视官网』,#genre#
 CCTV1,webview://https://tv.CCTV.cn/live/cctv1
