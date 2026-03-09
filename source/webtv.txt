@@ -388,11 +388,11 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 4K🌟频道,#genre#
 北京卫视4K,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
-北京卫视4K,http://bj.sohu.blog/btime.php?id=bjws4k
-深圳卫视4K,video://https://www.sztv.com.cn/pindao/index.html?id=24725
+深圳卫视4K,video://https://www.sztv.com.cn/dianshi.shtml?id=24725
+东方卫视4K,http://bp-live4ktc.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
 东方卫视4K,video://https://live.kankanews.com/huikan?id=1
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-东方卫视4K,https://iptv.catvod.com/live.php?id=东方卫视4K
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 四川卫视4K,http://115.29.208.41/sctv.php?id=10
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -402,8 +402,6 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 少儿✯频道,#genre#
 卡酷少儿,http://123.207.224.130:123/beijing/beijing.php?id=bjkk
-
-卡酷少儿,http://bj.sohu.blog/btime.php?id=kaku
 
 金鹰卡通,webview://https://live.mgtv.com/?channelId=287
 金鹰卡通,webview://https://www.mgtv.com/live-new
@@ -767,16 +765,8 @@ RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 北京新闻,http://123.207.224.130:123/beijing/beijing.php?id=bjxw
 卡酷少儿,http://123.207.224.130:123/beijing/beijing.php?id=bjkk
 
-北京文艺,http://bj.sohu.blog/btime.php?id=btvwy
-北京影视,http://bj.sohu.blog/btime.php?id=btvys
-北京纪实科教,http://bj.sohu.blog/btime.php?id=btvkj
-北京财经,http://bj.sohu.blog/btime.php?id=btvcj
-北京新闻,http://bj.sohu.blog/btime.php?id=btvxw
-北京生活,http://bj.sohu.blog/btime.php?id=btvsh
-北京体育休闲,http://bj.sohu.blog/btime.php?id=bjjs
-卡酷少儿,http://bj.sohu.blog/btime.php?id=kaku
+
 怀柔电视台,http://1866360231.cloudvdn.com/a.m3u8?domain=pili-live-hdl-bjhr-tv.huairtv.com&player=1&streamid=bjhr-tv:bjhr-tv/huairtv&v3=1
-怀柔电视台,http://bj.sohu.blog/bjhr.php?id=1
 顺义综合频道,http://livebjsy.chinamcache.com/live/zb01.m3u8
 房山无线,https://livenew.funhillrm.com/fswx/sd/live.m3u8
 房山有线,http://livenew.funhillrm.com/fsyx/sd/live.m3u8
