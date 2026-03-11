@@ -445,14 +445,16 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 
 有线新闻,http://rihou.cc:555/tv/[FY]有线新闻
+有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
 
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-
-有线新闻,http://iptv.4666888.xyz/iptv2A.php?id=31
-无线明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
+
+无线明珠台,http://iptv.4666888.xyz/iptv2A.php?id=29
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+无线翡翠台,http://74.91.26.218:82/live/jade.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 民视闽南,rtmp://f13h.mine.nu/sat/tv051
@@ -498,16 +500,21 @@ RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 
 郑州新闻综合,http://123.207.224.130:123/henan/henan.php?id=zz1
 郑州新闻综合,video://https://static.hntv.tv/total/television/?id=197
-郑州新闻综合,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595660085175275520
 
-郑州商都频道,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659997191360512
-郑州文体旅游,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659904266555392
-郑州豫剧频道,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659784129105920
-郑州妇女儿童,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659666227220480
-郑州都市生活,video://https://h5-new.zztv.tv/front-cloudlive-manage-h5/index.html?id=595659527848742913
+
+郑州新闻综合,http://help.lwfz.fun:8800/rtp/239.16.10.154:2000
+郑州商都频道,http://help.lwfz.fun:8800/rtp/239.16.10.155:2000
+郑州文体旅游,http://help.lwfz.fun:8800/rtp/239.16.10.156:2000
+郑州豫剧频道,http://help.lwfz.fun:8800/rtp/239.16.10.157:2000
+郑州妇女儿童,http://help.lwfz.fun:8800/rtp/239.16.10.158:2000
+郑州都市频道,http://help.lwfz.fun:8800/rtp/239.16.10.159:2000
+
 郑州都市生活,video://https://4k.zztv.tv/tv/4k-urbanLife
 郑州教育频道,http://livezzutv.chinamcache.com/zb02/zb02.m3u8
 郑州教育频道,video://http://web.chinamcloud.com/yszh32/wz/zb/index.shtml
+
+郑州商都频道,http://39.165.39.49:19901/tsfile/live/1125_1.m3u8
+郑州都市生活,http://39.165.39.49:19901/tsfile/live/1114_1.m3u8
 
 巩义新闻综合,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
 荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
@@ -661,8 +668,12 @@ RTHK-31,http://iptv.4666888.xyz/iptv2A.php?id=23
 邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
 
 商丘新闻综合,video://https://static.hntv.tv/total/television/?id=224
-商丘新闻综合,http://hen.sohu.blog/hendx.php?id=sqxw
 
+商丘新闻,http://help.lwfz.fun:8800/rtp/239.16.10.153:2000
+商丘公共,http://help.lwfz.fun:8800/rtp/239.16.10.168:2000
+商丘文体,http://help.lwfz.fun:8800/rtp/239.16.10.169:2000
+
+商丘新闻综合,http://hen.sohu.blog/hendx.php?id=sqxw
 商丘公共频道,http://hen-zb-dx-1.sohu.blog/rtp/239.16.10.168:2000
 商丘文体科教,http://hen-zb-dx-1.sohu.blog/rtp/239.16.10.169:2000
 睢县新闻综合,http://tvpull.dxhmt.cn:9081/tv/11422-1.m3u8
