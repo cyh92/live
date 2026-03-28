@@ -743,7 +743,6 @@
                 "ratio": 1.597
             }
         },
-
         {
             "key": "哔哩哔哩视频",
             "name": "哔哩视频",
@@ -777,7 +776,7 @@
                 "type": "rect",
                 "ratio": 1.597
             }
-        }, 
+        },
         {
             "key": "哔哩哔哩听书",
             "name": "📚哔哩🔹听书",
@@ -1488,11 +1487,11 @@
         },
         {
             "name": "ZBTV",
-            "type": 0,            
+            "type": 0,
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "url": "https://cyh92.github.io/live/source/zb.txt"
         },
-         {
+        {
             "name": "移动网络直播源",
             "type": 0,
             "url": "https://gitee.com/cyh92/live/raw/main/source/10001.txt",
@@ -1502,7 +1501,7 @@
             "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
-        }, 
+        },
         {
             "name": "香港",
             "type": 0,
@@ -1513,7 +1512,7 @@
             "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
-        },        
+        },
         {
             "name": "澳门",
             "type": 0,
@@ -1536,10 +1535,21 @@
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
         },
-         {
-            "name": "局域网自建源",
+        {
+            "name": "局域网代理源",
             "type": 0,
             "url": "http://192.168.6.1:8081/tv.txt",
+            "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+            "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
+            "ua": "okhttp/3",
+            "header": {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
+            }
+        },
+        {
+            "name": "内网自动获取",
+            "type": 0,
+            "url": "http://192.168.6.1:50085/sub?WnkVivFd=txt",
             "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
             "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
             "ua": "okhttp/3",
