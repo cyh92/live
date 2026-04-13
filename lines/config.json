@@ -1556,7 +1556,7 @@
             "header": {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
             }
-        }
+        },{"name":"OmniBox直播","type":0,"url":"http://192.168.6.1:7023/api/tvbox/live-rooms.m3u?token=i2RJzcbNTQ9j1xEIBq1rfPRC5RexXQTH"}
     ],
     "parses": [
         {
