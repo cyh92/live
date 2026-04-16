@@ -1428,7 +1428,7 @@
       "name": "网页源",
       "type": 0,
       "playerType": 2,
-      "url": "https://cyh92.github.io/live/source/webtv.txt",
+      "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://gitee.com/cyh92/live/raw/main/logo/{name}.png",
       "ua": "okhttp/3"
