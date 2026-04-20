@@ -1428,7 +1428,7 @@
       "name": "网页源",
       "type": 0,
       "playerType": 2,
-      "url": "https://gitee.com/cyh92/live/raw/main/source/webtv.txt",
+      "url": "https://gitee.com/cyh92/mybox/raw/main/source/webtv.txt",
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png",
       "ua": "okhttp/3"
@@ -1462,7 +1462,7 @@
     },
     {
       "name": "咪咕",
-      "url": "https://gitee.com/cyh92/live/raw/main/source/MiG.txt",
+      "url": "https://gitee.com/cyh92/mybox/raw/main/source/MiG.txt",
       "type": 0,
       "timeout": 30,
       "playerType": 2,
@@ -1490,17 +1490,6 @@
       "type": 0,
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
       "url": "https://cyh92.github.io/live/source/zb.txt"
-    },
-    {
-      "name": "移动网络直播源",
-      "type": 0,
-      "url": "https://gitee.com/cyh92/live/raw/main/source/10001.txt",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png",
-      "ua": "okhttp/3",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
-      }
     },
     {
       "name": "香港",
