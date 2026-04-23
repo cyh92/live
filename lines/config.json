@@ -705,7 +705,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://tvbox.cyh92.cn/jar/json/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -719,7 +719,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
       },
       "style": {
         "type": "rect",
@@ -736,7 +736,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json"
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json"
       },
       "style": {
         "type": "rect",
@@ -753,7 +753,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.json"
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.json"
       },
       "style": {
         "type": "rect",
@@ -770,7 +770,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
       },
       "style": {
         "type": "rect",
@@ -787,7 +787,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/哔哩哔哩听书.json"
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/哔哩哔哩听书.json"
       },
       "style": {
         "type": "rect",
@@ -804,7 +804,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/Bili歌曲.json"
+        "json": "https://tvbox.cyh92.cn/jar/json/bili/Bili歌曲.json"
       },
       "style": {
         "type": "rect",
