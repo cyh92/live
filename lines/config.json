@@ -31,7 +31,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://tvbox.cyh92.cn/jar/json/alist.json"
+      "ext": "../jar/json/alist.json"
     },
     {
       "key": "wujinapi",
@@ -705,7 +705,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
+        "json": "../jar/json/bili/%E5%93%94%E5%93%A9%E5%90%88%E9%9B%86.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
     },
@@ -719,7 +719,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
+        "json": "../jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E7%9B%B8%E5%A3%B0.json"
       },
       "style": {
         "type": "rect",
@@ -736,7 +736,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json"
+        "json": "../jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%B0%8F%E5%93%81.json"
       },
       "style": {
         "type": "rect",
@@ -753,7 +753,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.json"
+        "json": "../jar/json/bili/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.json"
       },
       "style": {
         "type": "rect",
@@ -770,7 +770,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
+        "json": "../jar/json/bili/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E6%88%8F%E6%9B%B2.json"
       },
       "style": {
         "type": "rect",
@@ -787,7 +787,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/哔哩哔哩听书.json"
+        "json": "../jar/json/bili/哔哩哔哩听书.json"
       },
       "style": {
         "type": "rect",
@@ -804,7 +804,7 @@
       "filterable": 0,
       "ext": {
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
-        "json": "https://tvbox.cyh92.cn/jar/json/bili/Bili歌曲.json"
+        "json": "../jar/json/bili/Bili歌曲.json"
       },
       "style": {
         "type": "rect",
@@ -943,7 +943,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://tvbox.cyh92.cn/jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
+      "jar": "../jar/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
     },
     {
       "key": "csp_xpath_zaixiandianying8",
@@ -954,7 +954,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://szyyds.cn/tv/jsxp/zaixiandianying8.json",
-      "jar": "https://tvbox.cyh92.cn/jar/spider.jar"
+      "jar": "../jar/spider.jar"
     },
     {
       "key": "csp_xpath_tjyy",
@@ -965,7 +965,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://szyyds.cn/tv/jsxp/huigutongying.json",
-      "jar": "https://tvbox.cyh92.cn/jar/spider.jar"
+      "jar": "../jar/spider.jar"
     },
     {
       "key": "瓜子",
@@ -976,7 +976,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "order_num": 0,
-      "jar": "https://tvbox.cyh92.cn/jar/1026.jar"
+      "jar": "../jar/1026.jar"
     },
     {
       "key": "雨滴",
@@ -985,7 +985,7 @@
       "api": "csp_Xdai",
       "playerType": 1,
       "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA",
-      "jar": "https://tvbox.cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+      "jar": "../jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
     },
     {
       "key": "柠檬",
@@ -994,226 +994,226 @@
       "api": "csp_Nmvod",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
-      "jar": "https://tvbox.cyh92.cn/jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
+      "jar": "../jar/fix241114.jar;md5;9bb70df776325973562070580f4a29f6"
     },
     {
       "key": "毒舌影视",
       "name": "毒舌｜APP",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/毒舌影视.json"
+      "ext": "../jar/XBPQ/毒舌影视.json"
     },
     {
       "key": "可可影视",
       "name": "可可｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/可可影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/可可影视.json"
     },
     {
       "key": "乾坤短剧",
       "name": "乾坤｜短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/乾坤短剧.json"
+      "ext": "../jar/XBPQ/乾坤短剧.json"
     },
     {
       "key": "明星影视",
       "name": "明星｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/明星影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/明星影视.json"
     },
     {
       "key": "面包影视",
       "name": "面包｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/面包影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/面包影视.json"
     },
     {
       "key": "永乐影视",
       "name": "永乐｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/永乐影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/永乐影视.json"
     },
     {
       "key": "雪糕影视",
       "name": "雪糕｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/雪糕影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/雪糕影视.json"
     },
     {
       "key": "三九影视",
       "name": "三九｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/三九影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/三九影视.json"
     },
     {
       "key": "狐狸磁力",
       "name": "狐狸｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/狐狸磁力.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/狐狸磁力.json"
     },
     {
       "key": "秀儿影视",
       "name": "秀儿｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/秀儿影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/秀儿影视.json"
     },
     {
       "key": "韩剧看看",
       "name": "韩剧｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/韩剧看看.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/韩剧看看.json"
     },
     {
       "key": "韩剧TV",
       "name": "韩剧｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/韩剧TV.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/韩剧TV.json"
     },
     {
       "key": "流光",
       "name": "流星｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/流光4k.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/流光4k.json"
     },
     {
       "key": "流光影视",
       "name": "流光｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/流光影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/流光影视.json"
     },
     {
       "key": "星空影视",
       "name": "星空｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/星空影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/星空影视.json"
     },
     {
       "key": "巴蜀影视",
       "name": "巴蜀｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/巴蜀影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/巴蜀影视.json"
     },
     {
       "key": "泥巴影视",
       "name": "泥巴｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/泥巴影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/泥巴影视.json"
     },
     {
       "key": "歪片影视",
       "name": "歪片｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/歪片影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/歪片影视.json"
     },
     {
       "key": "蚂蚁影院",
       "name": "蚂蚁｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/蚂蚁影视.json"
+      "ext": "../jar/XBPQ/蚂蚁影视.json"
     },
     {
       "key": "4K影视",
       "name": "四K｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/4k影视.json"
+      "ext": "../jar/XBPQ/4k影视.json"
     },
     {
       "key": "SVIP影视",
       "name": "SVIP｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/SVIP影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/SVIP影视.json"
     },
     {
       "key": "点播影视",
       "name": "点播｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/点播影视.json"
+      "jar": "../jar/duanju.jar",
+      "ext": "../jar/XBPQ/点播影视.json"
     },
     {
       "key": "悟空",
       "name": "悟空｜影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/悟空影视.json"
+      "ext": "../jar/XBPQ/悟空影视.json"
     },
     {
       "key": "狐狸君",
       "name": "狐狸君｜磁力",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "changeable": 1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/XBPQ/狐狸君.json"
+      "ext": "../jar/XBPQ/狐狸君.json"
     },
     {
       "key": "拾光趣乐屋",
       "name": "拾光｜幸福",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1257,117 +1257,117 @@
       "name": "⭐️毒舌短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/毒舌短剧.json"
+      "ext": "../jar/json/毒舌短剧.json"
     },
     {
       "key": "✨全能短剧✨",
       "name": "⭐️全能短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/全能短剧.json"
+      "ext": "../jar/json/全能短剧.json"
     },
     {
       "key": "✨影院王✨",
       "name": "⭐️短剧之王",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/短剧王.json"
+      "ext": "../jar/json/短剧王.json"
     },
     {
       "key": "奶茶短剧",
       "name": "奶茶短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/奶茶短剧.json"
+      "ext": "../jar/json/奶茶短剧.json"
     },
     {
       "key": "✨热播影院✨",
       "name": "⭐️热播短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/热播短剧.json"
+      "ext": "../jar/json/热播短剧.json"
     },
     {
       "key": "✨电影100影院✨",
       "name": "⭐️一百短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/电影100短剧.json"
+      "ext": "../jar/json/电影100短剧.json"
     },
     {
       "key": "✨唐人街影院✨",
       "name": "⭐️唐人短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/唐人街短剧.json"
+      "ext": "../jar/json/唐人街短剧.json"
     },
     {
       "key": "✨天龙影院✨",
       "name": "⭐️天龙短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/天龙短剧.json"
+      "ext": "../jar/json/天龙短剧.json"
     },
     {
       "key": "✨七味短剧✨",
       "name": "⭐️七味短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/七味短剧.json"
+      "ext": "../jar/json/七味短剧.json"
     },
     {
       "key": "✨CCTV短剧✨",
       "name": "⭐️梯微短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/cctv短剧.json"
+      "ext": "../jar/json/cctv短剧.json"
     },
     {
       "key": "护航短剧",
       "name": "⭐️护航短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -1394,33 +1394,33 @@
       "name": "⭐️稀饭短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/稀饭短剧.json"
+      "ext": "../jar/json/稀饭短剧.json"
     },
     {
       "key": "✨PTT短剧✨",
       "name": "⭐️皮皮短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/PTT短剧.json"
+      "ext": "../jar/json/PTT短剧.json"
     },
     {
       "key": "乾坤短剧",
       "name": "乾坤｜短剧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://tvbox.cyh92.cn/jar/duanju.jar",
+      "jar": "../jar/duanju.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tvbox.cyh92.cn/jar/json/乾坤短剧.json"
+      "ext": "../jar/json/乾坤短剧.json"
     }
   ],
   "lives": [
@@ -1428,7 +1428,7 @@
       "name": "网页源",
       "type": 0,
       "playerType": 2,
-      "url": "https://tvbox.cyh92.cn/source/webtv.txt",
+      "url": "../source/webtv.txt",
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://raw.gitcode.com/cyh92/live/raw/main/logo/{name}.png",
       "ua": "okhttp/3"
@@ -1462,7 +1462,7 @@
     },
     {
       "name": "咪咕",
-      "url": "https://tvbox.cyh92.cn/source/MiG.txt",
+      "url": "../source/MiG.txt",
       "type": 0,
       "timeout": 30,
       "playerType": 2,
@@ -1483,7 +1483,7 @@
     {
       "name": "FM",
       "type": 0,
-      "url": "https://tvbox.cyh92.cn/source/fm.txt"
+      "url": "../source/fm.txt"
     },
     {
       "name": "ZBTV",
