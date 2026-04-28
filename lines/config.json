@@ -1,6 +1,6 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://tvbox.cyh92.cn/jar/cyh92.jar",
+  "spider": "../jar/cyh92.jar",
   "sites": [
     {
       "key": "TopHub",
