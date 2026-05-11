@@ -1,0 +1,40 @@
+name: Sync to cnb.cool
+
+on:
+  # 1. main 分支有提交时自动触发
+  push:
+    branches:
+      - main
+  # 2. 支持手动触发
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # 拉取完整历史，避免 subtree 出问题
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Sync folders to cnb.cool
+        env:
+          # 建议在仓库 Settings → Secrets 里添加一个名为 CNBCOOL_TOKEN 的个人访问令牌
+          # 格式：https://${{ secrets.CNBCOOL_TOKEN }}@cnb.cool/my_team/live.git
+          TARGET_REPO: "https://${{ secrets.CNBCOOL_TOKEN }}@cnb.cool/my_team/live.git"
+        run: |
+          # 要同步的目录列表
+          folders=(jar lines logo release source)
+          for folder in "${folders[@]}"; do
+            echo ">>> Syncing folder: $folder"
+            git subtree push --prefix="$folder" "$TARGET_REPO" main || {
+              echo ">>> subtree push failed for $folder, trying pull then push..."
+              git subtree pull --prefix="$folder" "$TARGET_REPO" main --squash
+              git subtree push --prefix="$folder" "$TARGET_REPO" main
+            }
+          done
