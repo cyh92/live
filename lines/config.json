@@ -1473,7 +1473,7 @@
     {
       "name": "MiGu",
       "type": 0,
-      "url": "../source/migu.txt",
+      "url": "../source/migu.m3u",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
