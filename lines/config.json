@@ -1473,12 +1473,12 @@
     {
       "name": "MiGu",
       "type": 0,
-      "url": "https://cyh92.github.io/live/source/migu.txt",
+      "url": "../source/migu.txt",
       "playerType": 1,
       "ua": "okhttp/3.8.1",
       "timeout": 20,
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "http://cyh92.github.io/live/logo/{name}.png"
+      "logo": "../logo/{name}.png"
     },
     {
       "name": "FM",
