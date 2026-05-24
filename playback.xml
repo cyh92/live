@@ -3,20 +3,17 @@
     <channel id="CCTV1综合">
         <display-name lang="zh">CCTV1综合</display-name>
     </channel>
-    <programme channel="CCTV1综合" start="20260525080000 +0800" stop="20260525091320 +0800">
+    <programme channel="CCTV1综合" start="20260525080000 +0800" stop="20260525092020 +0800">
         <title lang="zh">山水间的家（第四季）-7</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260525091320 +0800" stop="20260525095620 +0800">
+    <programme channel="CCTV1综合" start="20260525092020 +0800" stop="20260525100320 +0800">
         <title lang="zh">生活早参考-特别节目（生活圈）2026-139</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260525095620 +0800" stop="20260525100720 +0800">
+    <programme channel="CCTV1综合" start="20260525100320 +0800" stop="20260525101420 +0800">
         <title lang="zh">中华古树-红岩松（4K）</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260525100720 +0800" stop="20260525103935 +0800">
+    <programme channel="CCTV1综合" start="20260525101420 +0800" stop="20260525104035 +0800">
         <title lang="zh">晚间新闻</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260525103935 +0800" stop="20260525104035 +0800">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260525104035 +0800" stop="20260525104135 +0800">
         <title lang="zh">寻味山海-资兴</title>
@@ -93,25 +90,25 @@
     <programme channel="CCTV1综合" start="20260526030000 +0800" stop="20260526033925 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526033925 +0800" stop="20260526035930 +0800">
+    <programme channel="CCTV1综合" start="20260526033925 +0800" stop="20260526035940 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526035930 +0800" stop="20260526040400 +0800">
+    <programme channel="CCTV1综合" start="20260526035940 +0800" stop="20260526040400 +0800">
         <title lang="zh">前情提要-主角-27/48</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526040400 +0800" stop="20260526045410 +0800">
+    <programme channel="CCTV1综合" start="20260526040400 +0800" stop="20260526045400 +0800">
         <title lang="zh">主角27/48</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526045410 +0800" stop="20260526045640 +0800">
+    <programme channel="CCTV1综合" start="20260526045400 +0800" stop="20260526045635 +0800">
         <title lang="zh">前情提要-主角-28/48</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526045640 +0800" stop="20260526054600 +0800">
+    <programme channel="CCTV1综合" start="20260526045635 +0800" stop="20260526054550 +0800">
         <title lang="zh">主角28/48</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526054600 +0800" stop="20260526055250 +0800">
+    <programme channel="CCTV1综合" start="20260526054550 +0800" stop="20260526055520 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260526055250 +0800" stop="20260526060000 +0800">
+    <programme channel="CCTV1综合" start="20260526055520 +0800" stop="20260526060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260526060000 +0800" stop="20260526063600 +0800">
@@ -667,7 +664,7 @@
         <title lang="zh">世界战史-2026-97</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260525152430 +0800" stop="20260525153000 +0800">
-        <title lang="zh">国防微视频-军歌嘹亮-淬刃（武警工程大学）</title>
+        <title lang="zh">国防微视频-军歌嘹亮-让导弹飞（2026军校版）</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260525153000 +0800" stop="20260525155830 +0800">
         <title lang="zh">国防军事早报</title>
@@ -727,7 +724,7 @@
         <title lang="zh">军事纪录-2026-98</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260526020000 +0800" stop="20260526020230 +0800">
-        <title lang="zh">国防微视频-军歌嘹亮-淬刃（武警工程大学）</title>
+        <title lang="zh">国防微视频-军歌嘹亮-让导弹飞（2026军校版）</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20260526020230 +0800" stop="20260526022830 +0800">
         <title lang="zh">兵器面面观-2026-103</title>
