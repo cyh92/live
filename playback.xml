@@ -90,25 +90,25 @@
     <programme channel="CCTV1综合" start="20260529030000 +0800" stop="20260529033910 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529033910 +0800" stop="20260529035930 +0800">
+    <programme channel="CCTV1综合" start="20260529033910 +0800" stop="20260529035855 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529035930 +0800" stop="20260529040400 +0800">
+    <programme channel="CCTV1综合" start="20260529035855 +0800" stop="20260529040200 +0800">
         <title lang="zh">前情提要-主角-第33集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529040400 +0800" stop="20260529045405 +0800">
+    <programme channel="CCTV1综合" start="20260529040200 +0800" stop="20260529045325 +0800">
         <title lang="zh">主角33/48</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529045405 +0800" stop="20260529045535 +0800">
+    <programme channel="CCTV1综合" start="20260529045325 +0800" stop="20260529045605 +0800">
         <title lang="zh">前情提要-主角-第34集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529045535 +0800" stop="20260529054440 +0800">
+    <programme channel="CCTV1综合" start="20260529045605 +0800" stop="20260529054520 +0800">
         <title lang="zh">主角34/48</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529054440 +0800" stop="20260529055230 +0800">
+    <programme channel="CCTV1综合" start="20260529054520 +0800" stop="20260529055540 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260529055230 +0800" stop="20260529060000 +0800">
+    <programme channel="CCTV1综合" start="20260529055540 +0800" stop="20260529060000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260529060000 +0800" stop="20260529063400 +0800">
@@ -577,7 +577,7 @@
         <title lang="zh">实况录像-2025/2026赛季世界斯诺克锦标赛 4</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260528230000 +0800" stop="20260529003000 +0800">
-        <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 10</title>
+        <title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 1</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260529003000 +0800" stop="20260529010000 +0800">
         <title lang="zh">2025/2026英格兰足球超级联赛-第38轮集锦（4K）</title>
@@ -3696,8 +3696,146 @@
     <channel id="河北卫视">
         <display-name lang="zh">河北卫视</display-name>
     </channel>
-    <programme channel="河北卫视" start="20260528080000 +0800" stop="20260529075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="河北卫视" start="20260528073300 +0800" stop="20260528081000 +0800">
+        <title lang="zh">但愿人长久</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528081000 +0800" stop="20260528092000 +0800">
+        <title lang="zh">都挺好原版(15）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528092000 +0800" stop="20260528102000 +0800">
+        <title lang="zh">都挺好原版(16）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528102000 +0800" stop="20260528112000 +0800">
+        <title lang="zh">都挺好原版(17）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528112000 +0800" stop="20260528122500 +0800">
+        <title lang="zh">都挺好原版(18）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528122500 +0800" stop="20260528133400 +0800">
+        <title lang="zh">都挺好原版(19）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528133400 +0800" stop="20260528142500 +0800">
+        <title lang="zh">都挺好原版(20）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528142500 +0800" stop="20260528143000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528143000 +0800" stop="20260528153000 +0800">
+        <title lang="zh">冀时全播报</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528153000 +0800" stop="20260528160000 +0800">
+        <title lang="zh">美丽河北慢直播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528160000 +0800" stop="20260528161700 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528161700 +0800" stop="20260528170700 +0800">
+        <title lang="zh">经典剧场:正阳门下剪辑版(45）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528170700 +0800" stop="20260528171500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528171500 +0800" stop="20260528180500 +0800">
+        <title lang="zh">经典剧场:正阳门下剪辑版(46）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528180500 +0800" stop="20260528181400 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528181400 +0800" stop="20260528190400 +0800">
+        <title lang="zh">经典剧场:正阳门下剪辑版(47）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528190400 +0800" stop="20260528191300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528191300 +0800" stop="20260528200300 +0800">
+        <title lang="zh">经典剧场:正阳门下剪辑版(48）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528200300 +0800" stop="20260528201200 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528201200 +0800" stop="20260528210200 +0800">
+        <title lang="zh">情感剧场:正阳门下剪辑版(49）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528210200 +0800" stop="20260528210900 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528210900 +0800" stop="20260528215900 +0800">
+        <title lang="zh">情感剧场:正阳门下剪辑版(50）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528215900 +0800" stop="20260528220700 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528220700 +0800" stop="20260528225700 +0800">
+        <title lang="zh">情感剧场:正阳门下剪辑版(51）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528225700 +0800" stop="20260528230600 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528230600 +0800" stop="20260528235600 +0800">
+        <title lang="zh">情感剧场:六姊妹剪辑版(1）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260528235600 +0800" stop="20260529000400 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529000400 +0800" stop="20260529005400 +0800">
+        <title lang="zh">情感剧场:六姊妹剪辑版(2）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529005400 +0800" stop="20260529010000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529010000 +0800" stop="20260529015000 +0800">
+        <title lang="zh">情感剧场:六姊妹剪辑版(3）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529015000 +0800" stop="20260529015700 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529015700 +0800" stop="20260529023000 +0800">
+        <title lang="zh">家政女皇</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529023000 +0800" stop="20260529025500 +0800">
+        <title lang="zh">河北新闻联播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529025500 +0800" stop="20260529030000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529030000 +0800" stop="20260529033000 +0800">
+        <title lang="zh">中央台新闻联播</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529033000 +0800" stop="20260529033500 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529033500 +0800" stop="20260529041700 +0800">
+        <title lang="zh">黄金剧场：跨过鸭绿江原版（10）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529041700 +0800" stop="20260529042300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529042300 +0800" stop="20260529050500 +0800">
+        <title lang="zh">黄金剧场：跨过鸭绿江原版（11）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529050500 +0800" stop="20260529050900 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529050900 +0800" stop="20260529054500 +0800">
+        <title lang="zh">电视剧：大决战剪辑版（22）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529054500 +0800" stop="20260529062100 +0800">
+        <title lang="zh">电视剧：大决战剪辑版（23）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529062100 +0800" stop="20260529065200 +0800">
+        <title lang="zh">电视剧：大决战剪辑版（24）</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529065200 +0800" stop="20260529070000 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529070000 +0800" stop="20260529073000 +0800">
+        <title lang="zh">你好京津冀</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529073000 +0800" stop="20260529073300 +0800">
+        <title lang="zh">宣传段</title>
+    </programme>
+    <programme channel="河北卫视" start="20260529073300 +0800" stop="20260529080000 +0800">
+        <title lang="zh">都挺好原版(21）</title>
     </programme>
     <channel id="江西卫视">
         <display-name lang="zh">江西卫视</display-name>
@@ -4371,8 +4509,62 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260528080000 +0800" stop="20260529075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260528080000 +0800" stop="20260528082300 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528082300 +0800" stop="20260528093100 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528093100 +0800" stop="20260528103100 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528103100 +0800" stop="20260528133800 +0800">
+        <title lang="zh">设备检修</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528133800 +0800" stop="20260528145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528145500 +0800" stop="20260528150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528150000 +0800" stop="20260528200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528200000 +0800" stop="20260528203900 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260528203900 +0800" stop="20260529020500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529020500 +0800" stop="20260529022400 +0800">
+        <title lang="zh">心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529022400 +0800" stop="20260529023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529023000 +0800" stop="20260529030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529030000 +0800" stop="20260529033800 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529033800 +0800" stop="20260529043300 +0800">
+        <title lang="zh">东南剧苑:好好的时光 第20集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529043300 +0800" stop="20260529054800 +0800">
+        <title lang="zh">东南剧苑:好好的时光 第21集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529054800 +0800" stop="20260529060700 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529060700 +0800" stop="20260529070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529070000 +0800" stop="20260529071300 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260529071300 +0800" stop="20260529080000 +0800">
+        <title lang="zh">两岸家书:第5集</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
