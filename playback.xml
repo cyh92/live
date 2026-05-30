@@ -84,14 +84,14 @@
     <programme channel="CCTV1综合" start="20260601033855 +0800" stop="20260601040100 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260601040100 +0800" stop="20260601053850 +0800">
+    <programme channel="CCTV1综合" start="20260601040100 +0800" stop="20260601053250 +0800">
         <title lang="zh">金石探文明-何尊</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260601053850 +0800" stop="20260601055520 +0800">
-        <title lang="zh">三餐四季（第二季）-宣传片</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20260601055520 +0800" stop="20260601060000 +0800">
+    <programme channel="CCTV1综合" start="20260601053250 +0800" stop="20260601054535 +0800">
         <title lang="zh">非遗里的中国-MV</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260601054535 +0800" stop="20260601060000 +0800">
+        <title lang="zh">中华古树-小鸟天堂古榕树（4K）</title>
     </programme>
     <programme channel="CCTV1综合" start="20260601060000 +0800" stop="20260601063600 +0800">
         <title lang="zh">晚间新闻</title>
@@ -468,26 +468,26 @@
     <programme channel="CCTV5体育" start="20260601002500 +0800" stop="20260601003000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260601003000 +0800" stop="20260601020000 +0800">
-        <title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 男团决赛</title>
+    <programme channel="CCTV5体育" start="20260601003000 +0800" stop="20260601010000 +0800">
+        <title lang="zh">实况录像-2026年世界田联钻石联赛 厦门站25分钟版</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260601020000 +0800" stop="20260601023000 +0800">
+    <programme channel="CCTV5体育" start="20260601010000 +0800" stop="20260601030000 +0800">
+        <title lang="zh">2026年法国网球公开赛- 第4轮</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20260601030000 +0800" stop="20260601032000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260601023000 +0800" stop="20260601025500 +0800">
-        <title lang="zh">实况录像-2026年长三角国际田径钻石赛（上海/绍兴柯桥）</title>
+    <programme channel="CCTV5体育" start="20260601032000 +0800" stop="20260601055000 +0800">
+        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-总决赛第三场（浙江浙商证券-上海久事）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260601025500 +0800" stop="20260601033000 +0800">
-        <title lang="zh">实况录像-2026年世界田联钻石联赛 厦门站</title>
+    <programme channel="CCTV5体育" start="20260601055000 +0800" stop="20260601061500 +0800">
+        <title lang="zh">实况录像-2026年长三角国际田径钻石赛（上海/绍兴柯桥）25分钟版</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260601033000 +0800" stop="20260601054500 +0800">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-总决赛 浙江浙商证券VS上海久事 第三场</title>
+    <programme channel="CCTV5体育" start="20260601061500 +0800" stop="20260601064500 +0800">
+        <title lang="zh">2025/2026英格兰足球超级联赛-第38轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260601054500 +0800" stop="20260601070500 +0800">
-        <title lang="zh">2026年法国网球公开赛-第4轮1</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20260601070500 +0800" stop="20260601075900 +0800">
-        <title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛  决赛</title>
+    <programme channel="CCTV5体育" start="20260601064500 +0800" stop="20260601075900 +0800">
+        <title lang="zh">实况录像-2026年世界乒乓球团体锦标赛 男团决赛</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
@@ -534,8 +534,11 @@
     <programme channel="CCTV5+体育赛事" start="20260601010000 +0800" stop="20260601020000 +0800">
         <title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 1</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260601020000 +0800" stop="20260601033500 +0800">
-        <title lang="zh">2026年法国网球公开赛-第4轮</title>
+    <programme channel="CCTV5+体育赛事" start="20260601020000 +0800" stop="20260601032500 +0800">
+        <title lang="zh">实况录像-2026年长三角国际田径钻石赛（上海/绍兴柯桥）</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260601032500 +0800" stop="20260601033500 +0800">
+        <title lang="zh">实况录像-荣耀十分-2026年艺术体操世界杯索菲亚站 中国队获集体5球单项金牌</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260601033500 +0800" stop="20260601055000 +0800">
         <title lang="zh">2026年东北地区城市足球联赛-常规赛（长春队—大连队）</title>
