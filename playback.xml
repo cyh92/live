@@ -90,13 +90,13 @@
     <programme channel="CCTV1综合" start="20260608033855 +0800" stop="20260608040200 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260608040200 +0800" stop="20260608054330 +0800">
+    <programme channel="CCTV1综合" start="20260608040200 +0800" stop="20260608054235 +0800">
         <title lang="zh">三餐四季（第三季）-11安徽</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260608054330 +0800" stop="20260608055320 +0800">
+    <programme channel="CCTV1综合" start="20260608054235 +0800" stop="20260608055120 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260608055320 +0800" stop="20260608060000 +0800">
+    <programme channel="CCTV1综合" start="20260608055120 +0800" stop="20260608060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260608060000 +0800" stop="20260608063630 +0800">
@@ -3036,8 +3036,104 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260607080000 +0800" stop="20260608075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260607080000 +0800" stop="20260607085700 +0800">
+        <title lang="zh">暗夜与黎明</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607085700 +0800" stop="20260607094400 +0800">
+        <title lang="zh">暗夜与黎明</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607094400 +0800" stop="20260607102900 +0800">
+        <title lang="zh">暗夜与黎明</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607102900 +0800" stop="20260607112300 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607112300 +0800" stop="20260607115800 +0800">
+        <title lang="zh">本草中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607115800 +0800" stop="20260607123600 +0800">
+        <title lang="zh">本草中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607123600 +0800" stop="20260607132200 +0800">
+        <title lang="zh">子夜外卖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607132200 +0800" stop="20260607135600 +0800">
+        <title lang="zh">子夜外卖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607135600 +0800" stop="20260607142500 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607142500 +0800" stop="20260607150000 +0800">
+        <title lang="zh">茶界中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607150000 +0800" stop="20260607150100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607150100 +0800" stop="20260607152100 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607152100 +0800" stop="20260607154200 +0800">
+        <title lang="zh">艺江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607154200 +0800" stop="20260607160200 +0800">
+        <title lang="zh">家有灶君</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607160200 +0800" stop="20260607162600 +0800">
+        <title lang="zh">下姜村的共同富裕梦</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607162600 +0800" stop="20260607170700 +0800">
+        <title lang="zh">黑白局</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607170700 +0800" stop="20260607174900 +0800">
+        <title lang="zh">黑白局</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607174900 +0800" stop="20260607183200 +0800">
+        <title lang="zh">黑白局</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607183200 +0800" stop="20260607191300 +0800">
+        <title lang="zh">黑白局</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607191300 +0800" stop="20260607200000 +0800">
+        <title lang="zh">黑白局</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607200000 +0800" stop="20260607203100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607203100 +0800" stop="20260607222000 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260607222000 +0800" stop="20260608002100 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608002100 +0800" stop="20260608010400 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608010400 +0800" stop="20260608014800 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608014800 +0800" stop="20260608021700 +0800">
+        <title lang="zh">时代问答</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608021700 +0800" stop="20260608023000 +0800">
+        <title lang="zh">领航新时代</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608023000 +0800" stop="20260608030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608030000 +0800" stop="20260608033200 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608033200 +0800" stop="20260608041900 +0800">
+        <title lang="zh">纯真年代的爱情（10）</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608041900 +0800" stop="20260608050400 +0800">
+        <title lang="zh">纯真年代的爱情（11）</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608050400 +0800" stop="20260608064900 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260608064900 +0800" stop="20260608080000 +0800">
+        <title lang="zh">非诚勿扰复播</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
