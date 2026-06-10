@@ -93,25 +93,25 @@
     <programme channel="CCTV1综合" start="20260612030000 +0800" stop="20260612033855 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612033855 +0800" stop="20260612035915 +0800">
+    <programme channel="CCTV1综合" start="20260612033855 +0800" stop="20260612035850 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612035915 +0800" stop="20260612040300 +0800">
+    <programme channel="CCTV1综合" start="20260612035850 +0800" stop="20260612040300 +0800">
         <title lang="zh">前情提要-星月征途-5/20</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612040300 +0800" stop="20260612045305 +0800">
+    <programme channel="CCTV1综合" start="20260612040300 +0800" stop="20260612045310 +0800">
         <title lang="zh">星月征途5/20</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612045305 +0800" stop="20260612045435 +0800">
+    <programme channel="CCTV1综合" start="20260612045310 +0800" stop="20260612045615 +0800">
         <title lang="zh">前情提要-星月征途-6/20</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612045435 +0800" stop="20260612054430 +0800">
+    <programme channel="CCTV1综合" start="20260612045615 +0800" stop="20260612054520 +0800">
         <title lang="zh">星月征途6/20</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612054430 +0800" stop="20260612055220 +0800">
+    <programme channel="CCTV1综合" start="20260612054520 +0800" stop="20260612055520 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260612055220 +0800" stop="20260612060000 +0800">
+    <programme channel="CCTV1综合" start="20260612055520 +0800" stop="20260612060000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260612060000 +0800" stop="20260612063600 +0800">
@@ -228,13 +228,13 @@
     <programme channel="CCTV2财经" start="20260612053000 +0800" stop="20260612055600 +0800">
         <title lang="zh">央视财经评论-2026-6-11</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260612055600 +0800" stop="20260612064630 +0800">
-        <title lang="zh">2022精品财经纪录-中国传统建筑的智慧-5</title>
+    <programme channel="CCTV2财经" start="20260612055600 +0800" stop="20260612063320 +0800">
+        <title lang="zh">2026光华录-3（4K）</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260612064630 +0800" stop="20260612074750 +0800">
+    <programme channel="CCTV2财经" start="20260612063320 +0800" stop="20260612073450 +0800">
         <title lang="zh">一槌定音-2026-16</title>
     </programme>
-    <programme channel="CCTV2财经" start="20260612074750 +0800" stop="20260612075900 +0800">
+    <programme channel="CCTV2财经" start="20260612073450 +0800" stop="20260612075900 +0800">
         <title lang="zh">经济半小时</title>
     </programme>
     <channel id="CCTV3综艺">
@@ -523,7 +523,7 @@
         <title lang="zh">2026年美加墨世界杯报道-如约而至-1</title>
     </programme>
     <programme channel="CCTV5体育" start="20260612070500 +0800" stop="20260612075900 +0800">
-        <title lang="zh">实况录像-绿茵经典-2018年俄罗斯世界杯 决赛 法国队-克罗地亚队</title>
+        <title lang="zh">实况录像-绿茵经典-2022年卡塔尔世界杯 决赛 阿根廷队-法国队</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
@@ -570,8 +570,14 @@
     <programme channel="CCTV5+体育赛事" start="20260612023200 +0800" stop="20260612033000 +0800">
         <title lang="zh">实况录像-2026年世界职业拳王争霸赛 8</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260612033000 +0800" stop="20260612055000 +0800">
-        <title lang="zh">2025/2026赛季中国男子篮球职业联赛-总决赛第七场（上海久事—浙江浙商证券）</title>
+    <programme channel="CCTV5+体育赛事" start="20260612033000 +0800" stop="20260612035800 +0800">
+        <title lang="zh">2026年花样游泳世界杯-西班牙站 精彩</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260612035800 +0800" stop="20260612052000 +0800">
+        <title lang="zh">实况录像-2026年世界田联钻石联赛  斯德哥尔摩站</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260612052000 +0800" stop="20260612055000 +0800">
+        <title lang="zh">实况录像-2026年国际篮联三人篮球世界杯 女子决赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260612055000 +0800" stop="20260612072100 +0800">
         <title lang="zh">2026年法国网球公开赛-女单决赛（4K）</title>
@@ -4527,8 +4533,53 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260611080000 +0800" stop="20260612075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260611080000 +0800" stop="20260611082800 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611082800 +0800" stop="20260611104400 +0800">
+        <title lang="zh">熊猫奇遇记 第5集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611104400 +0800" stop="20260611133800 +0800">
+        <title lang="zh">设备检修</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611133800 +0800" stop="20260611145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611145500 +0800" stop="20260611150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611150000 +0800" stop="20260611200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611200000 +0800" stop="20260611203900 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260611203900 +0800" stop="20260612020500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612020500 +0800" stop="20260612022400 +0800">
+        <title lang="zh">心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612022400 +0800" stop="20260612023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612023000 +0800" stop="20260612030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612030000 +0800" stop="20260612033200 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612033200 +0800" stop="20260612054800 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612054800 +0800" stop="20260612060700 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612060700 +0800" stop="20260612070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260612070000 +0800" stop="20260612080000 +0800">
+        <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
