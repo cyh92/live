@@ -231,29 +231,29 @@
     <channel id="CCTV3综艺">
         <display-name lang="zh">CCTV3综艺</display-name>
     </channel>
-    <programme channel="CCTV3综艺" start="20260614080000 +0800" stop="20260614082345 +0800">
+    <programme channel="CCTV3综艺" start="20260614080000 +0800" stop="20260614083430 +0800">
         <title lang="zh">综艺喜乐汇-2026-707我和我的三个姐姐24/38</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614082345 +0800" stop="20260614090945 +0800">
+    <programme channel="CCTV3综艺" start="20260614083430 +0800" stop="20260614092030 +0800">
         <title lang="zh">综艺喜乐汇-2026-708我和我的三个姐姐25/38</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614090945 +0800" stop="20260614095545 +0800">
+    <programme channel="CCTV3综艺" start="20260614092030 +0800" stop="20260614100630 +0800">
         <title lang="zh">综艺喜乐汇-2026-709我和我的三个姐姐26/38</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614095545 +0800" stop="20260614104545 +0800">
+    <programme channel="CCTV3综艺" start="20260614100630 +0800" stop="20260614105630 +0800">
         <title lang="zh">综艺喜乐汇-2026-455</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614104545 +0800" stop="20260614114545 +0800">
+    <programme channel="CCTV3综艺" start="20260614105630 +0800" stop="20260614115630 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-176</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614114545 +0800" stop="20260614123755 +0800">
+    <programme channel="CCTV3综艺" start="20260614115630 +0800" stop="20260614131330 +0800">
         <title lang="zh">影视留声机-2025-78-经典电影欣赏《鸡毛信》</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614123755 +0800" stop="20260614124325 +0800">
+    <programme channel="CCTV3综艺" start="20260614131330 +0800" stop="20260614131900 +0800">
         <title lang="zh">综艺喜乐汇-2026-1032 咏春</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260614124325 +0800" stop="20260614133335 +0800">
-        <title lang="zh">音乐周刊-原声天籁中国民歌盛典4</title>
+    <programme channel="CCTV3综艺" start="20260614131900 +0800" stop="20260614133335 +0800">
+        <title lang="zh">神采正飞扬-中国郎之夜-有神采就有朋友-5</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260614133335 +0800" stop="20260614143650 +0800">
         <title lang="zh">中国乡村音乐大会-健康跃动篇</title>
@@ -2937,8 +2937,89 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260614080000 +0800" stop="20260615075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260614080000 +0800" stop="20260614085800 +0800">
+        <title lang="zh">宿命之敌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614085800 +0800" stop="20260614094400 +0800">
+        <title lang="zh">宿命之敌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614094400 +0800" stop="20260614103000 +0800">
+        <title lang="zh">宿命之敌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614103000 +0800" stop="20260614111900 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614111900 +0800" stop="20260614115600 +0800">
+        <title lang="zh">行走山河之北纬三十度</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614115600 +0800" stop="20260614123400 +0800">
+        <title lang="zh">行走山河之北纬三十度</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614123400 +0800" stop="20260614132400 +0800">
+        <title lang="zh">新生万物</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614132400 +0800" stop="20260614140300 +0800">
+        <title lang="zh">新生万物</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614140300 +0800" stop="20260614142800 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614142800 +0800" stop="20260614150000 +0800">
+        <title lang="zh">茶界中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614150000 +0800" stop="20260614150100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614150100 +0800" stop="20260614152100 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614152100 +0800" stop="20260614154200 +0800">
+        <title lang="zh">艺江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614154200 +0800" stop="20260614161600 +0800">
+        <title lang="zh">大山里的梦之队</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614161600 +0800" stop="20260614200000 +0800">
+        <title lang="zh">以法之名</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614200000 +0800" stop="20260614203100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614203100 +0800" stop="20260614222300 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260614222300 +0800" stop="20260615002500 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615002500 +0800" stop="20260615010700 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615010700 +0800" stop="20260615015100 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615015100 +0800" stop="20260615021700 +0800">
+        <title lang="zh">时代问答</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615021700 +0800" stop="20260615023000 +0800">
+        <title lang="zh">领航新时代</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615023000 +0800" stop="20260615030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615030000 +0800" stop="20260615033200 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615033200 +0800" stop="20260615041900 +0800">
+        <title lang="zh">纯真年代的爱情 第22集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615041900 +0800" stop="20260615050400 +0800">
+        <title lang="zh">纯真年代的爱情 第23集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615050400 +0800" stop="20260615064300 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260615064300 +0800" stop="20260615080000 +0800">
+        <title lang="zh">非诚勿扰复播</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
