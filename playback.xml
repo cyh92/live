@@ -4257,8 +4257,77 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260619080000 +0800" stop="20260620075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260619080000 +0800" stop="20260619093600 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619093600 +0800" stop="20260619111100 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619111100 +0800" stop="20260619120100 +0800">
+        <title lang="zh">重播风从海上来</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619120100 +0800" stop="20260619123400 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619123400 +0800" stop="20260619130700 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619130700 +0800" stop="20260619133800 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619133800 +0800" stop="20260619145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619145500 +0800" stop="20260619150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619150000 +0800" stop="20260619175500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619175500 +0800" stop="20260619185900 +0800">
+        <title lang="zh">直播:2026福州国际龙舟邀请赛暨“一带一路”青年龙舟国际邀请赛</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619185900 +0800" stop="20260619190700 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619190700 +0800" stop="20260619200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619200000 +0800" stop="20260619203100 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260619203100 +0800" stop="20260620020500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620020500 +0800" stop="20260620022300 +0800">
+        <title lang="zh">守护蔚蓝</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620022300 +0800" stop="20260620023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620023000 +0800" stop="20260620030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620030000 +0800" stop="20260620033200 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620033200 +0800" stop="20260620051500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620051500 +0800" stop="20260620060100 +0800">
+        <title lang="zh">中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620060100 +0800" stop="20260620060700 +0800">
+        <title lang="zh">《“国宝”时刻》:第1集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620060700 +0800" stop="20260620070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620070000 +0800" stop="20260620071300 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260620071300 +0800" stop="20260620080000 +0800">
+        <title lang="zh">重播“闽超”第七轮 泉州VS龙岩（上半场）</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
