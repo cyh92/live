@@ -90,22 +90,22 @@
     <programme channel="CCTV1综合" start="20260630030000 +0800" stop="20260630033910 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260630033910 +0800" stop="20260630040155 +0800">
+    <programme channel="CCTV1综合" start="20260630033910 +0800" stop="20260630040135 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260630040155 +0800" stop="20260630040600 +0800">
+    <programme channel="CCTV1综合" start="20260630040135 +0800" stop="20260630040600 +0800">
         <title lang="zh">前情提要-种墨园-第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260630040600 +0800" stop="20260630045625 +0800">
         <title lang="zh">种墨园第7集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260630045625 +0800" stop="20260630045755 +0800">
+    <programme channel="CCTV1综合" start="20260630045625 +0800" stop="20260630045900 +0800">
         <title lang="zh">前情提要-种墨园-第8集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260630045755 +0800" stop="20260630054930 +0800">
+    <programme channel="CCTV1综合" start="20260630045900 +0800" stop="20260630055020 +0800">
         <title lang="zh">种墨园第8集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260630054930 +0800" stop="20260630060000 +0800">
+    <programme channel="CCTV1综合" start="20260630055020 +0800" stop="20260630060000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260630060000 +0800" stop="20260630063530 +0800">
@@ -288,10 +288,10 @@
     <programme channel="CCTV3综艺" start="20260629210000 +0800" stop="20260629212030 +0800">
         <title lang="zh">文化十分-2026-130</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260629212030 +0800" stop="20260629213225 +0800">
-        <title lang="zh">国家宝藏-周游季-102</title>
+    <programme channel="CCTV3综艺" start="20260629212030 +0800" stop="20260629213210 +0800">
+        <title lang="zh">连环话-桃园结义</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260629213225 +0800" stop="20260629230000 +0800">
+    <programme channel="CCTV3综艺" start="20260629213210 +0800" stop="20260629230000 +0800">
         <title lang="zh">星光大道-2026-27</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260629230000 +0800" stop="20260629230515 +0800">
@@ -472,7 +472,7 @@
         <title lang="zh">燃动金杯-2026年世界杯小组赛第二轮进球集锦</title>
     </programme>
     <programme channel="CCTV5体育" start="20260629093000 +0800" stop="20260629133000 +0800">
-        <title lang="zh">2026世界杯-1/16决赛（2A—2B）</title>
+        <title lang="zh">2026世界杯-1/16决赛（南非—加拿大）</title>
     </programme>
     <programme channel="CCTV5体育" start="20260629133000 +0800" stop="20260629140000 +0800">
         <title lang="zh">燃动金杯-2026年世界杯小组赛第一轮进球集锦</title>
@@ -517,7 +517,7 @@
         <title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
     </programme>
     <programme channel="CCTV5体育" start="20260630073000 +0800" stop="20260630075900 +0800">
-        <title lang="zh">2026世界杯-1/16决赛（1C—2F）</title>
+        <title lang="zh">2026世界杯-1/16决赛（巴西—日本）</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
