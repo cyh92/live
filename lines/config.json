@@ -1539,7 +1539,7 @@
     {
       "name": "抖音直播",
       "type": 0,
-      "url": "../source/migu.m3u"
+      "url": "../source/dy_live.txt"
     }
   ],
   "parses": [
