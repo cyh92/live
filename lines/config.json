@@ -1539,6 +1539,7 @@
     {
       "name": "抖音直播",
       "type": 0,
+      "rules": ["document.querySelector('.chatroom_close').click()"],
       "url": "../source/dy_live.txt"
     }
   ],
