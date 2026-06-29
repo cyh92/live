@@ -1461,16 +1461,6 @@
       "logo": "https://live.fanmingming.cn/tv/{name}.png"
     },
     {
-      "name": "咪咕",
-      "url": "../source/MiG.txt",
-      "type": 0,
-      "timeout": 30,
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-    {
       "name": "MiGu",
       "type": 0,
       "url": "../source/migu.m3u",
@@ -1547,9 +1537,9 @@
       }
     },
     {
-      "name": "OmniBox直播",
+      "name": "抖音直播",
       "type": 0,
-      "url": "http://192.168.6.1:7023/api/tvbox/live-rooms.m3u?token=chen1234"
+      "url": "../source/migu.m3u"
     }
   ],
   "parses": [
