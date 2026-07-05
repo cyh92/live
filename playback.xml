@@ -555,8 +555,11 @@
     <programme channel="CCTV5+体育赛事" start="20260706190500 +0800" stop="20260706200600 +0800">
         <title lang="zh">2026年国际马联国家联赛-鹿特丹站</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20260706200600 +0800" stop="20260706213600 +0800">
-        <title lang="zh">2026年国际篮联U17世界杯-半决赛（4K）</title>
+    <programme channel="CCTV5+体育赛事" start="20260706200600 +0800" stop="20260706212830 +0800">
+        <title lang="zh">实况录像-2026世界杯 1/8决赛 巴拉圭队-法国队</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20260706212830 +0800" stop="20260706213600 +0800">
+        <title lang="zh">健身动起来-2026-146</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260706213600 +0800" stop="20260706230700 +0800">
         <title lang="zh">实况录像-2026年世界田联钻石联赛 巴黎站</title>
