@@ -96,25 +96,25 @@
     <programme channel="CCTV1综合" start="20260709030000 +0800" stop="20260709033840 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709033840 +0800" stop="20260709035855 +0800">
+    <programme channel="CCTV1综合" start="20260709033840 +0800" stop="20260709035815 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709035855 +0800" stop="20260709040300 +0800">
+    <programme channel="CCTV1综合" start="20260709035815 +0800" stop="20260709040100 +0800">
         <title lang="zh">前情提要-种墨园-第19集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709040300 +0800" stop="20260709045425 +0800">
+    <programme channel="CCTV1综合" start="20260709040100 +0800" stop="20260709045210 +0800">
         <title lang="zh">种墨园19/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709045425 +0800" stop="20260709045555 +0800">
+    <programme channel="CCTV1综合" start="20260709045210 +0800" stop="20260709045550 +0800">
         <title lang="zh">前情提要-种墨园-第20集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709045555 +0800" stop="20260709054420 +0800">
+    <programme channel="CCTV1综合" start="20260709045550 +0800" stop="20260709054415 +0800">
         <title lang="zh">种墨园20/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709054420 +0800" stop="20260709055120 +0800">
+    <programme channel="CCTV1综合" start="20260709054415 +0800" stop="20260709055155 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260709055120 +0800" stop="20260709060000 +0800">
+    <programme channel="CCTV1综合" start="20260709055155 +0800" stop="20260709060000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260709060000 +0800" stop="20260709063530 +0800">
@@ -4431,8 +4431,62 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260708080000 +0800" stop="20260709075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260708080000 +0800" stop="20260708094200 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708094200 +0800" stop="20260708104900 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708104900 +0800" stop="20260708112300 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708112300 +0800" stop="20260708121100 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708121100 +0800" stop="20260708132300 +0800">
+        <title lang="zh">重播风从海上来</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708132300 +0800" stop="20260708145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708145500 +0800" stop="20260708150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708150000 +0800" stop="20260708200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708200000 +0800" stop="20260708203800 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260708203800 +0800" stop="20260709020500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709020500 +0800" stop="20260709022500 +0800">
+        <title lang="zh">山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709022500 +0800" stop="20260709023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709023000 +0800" stop="20260709030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709030000 +0800" stop="20260709033100 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709033100 +0800" stop="20260709051700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709051700 +0800" stop="20260709055600 +0800">
+        <title lang="zh">走近这片海:第1集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709055600 +0800" stop="20260709060600 +0800">
+        <title lang="zh">《“国宝”时刻》:第3集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709060600 +0800" stop="20260709070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709070000 +0800" stop="20260709080000 +0800">
+        <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
@@ -4551,8 +4605,131 @@
     <channel id="海峡卫视">
         <display-name lang="zh">海峡卫视</display-name>
     </channel>
-    <programme channel="海峡卫视" start="20260708080000 +0800" stop="20260709075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="海峡卫视" start="20260708080000 +0800" stop="20260708084200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708084200 +0800" stop="20260708092400 +0800">
+        <title lang="zh">重播台湾新闻脸</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708092400 +0800" stop="20260708100900 +0800">
+        <title lang="zh">重播青春剧场:追风者 第38集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708100900 +0800" stop="20260708105400 +0800">
+        <title lang="zh">重播青春剧场:北上 第1集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708105400 +0800" stop="20260708113900 +0800">
+        <title lang="zh">重播青春剧场:北上 第2集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708113900 +0800" stop="20260708120400 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708120400 +0800" stop="20260708124600 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708124600 +0800" stop="20260708125300 +0800">
+        <title lang="zh">重播早餐中国第二季:7</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708125300 +0800" stop="20260708131800 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 2</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708131800 +0800" stop="20260708134300 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 3</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708134300 +0800" stop="20260708142800 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708142800 +0800" stop="20260708150800 +0800">
+        <title lang="zh">重播台湾新闻脸</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708150800 +0800" stop="20260708153300 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 2</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708153300 +0800" stop="20260708160100 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 3</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708160100 +0800" stop="20260708164100 +0800">
+        <title lang="zh">重播台湾新闻脸</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708164100 +0800" stop="20260708165600 +0800">
+        <title lang="zh">重播中华白海豚:6</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708165600 +0800" stop="20260708172300 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708172300 +0800" stop="20260708181000 +0800">
+        <title lang="zh">时代剧场:归队 第15集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708181000 +0800" stop="20260708185600 +0800">
+        <title lang="zh">时代剧场:归队 第16集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708185600 +0800" stop="20260708194300 +0800">
+        <title lang="zh">时代剧场:归队 第17集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708194300 +0800" stop="20260708200000 +0800">
+        <title lang="zh">重播中华白海豚:6</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708200000 +0800" stop="20260708203000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708203000 +0800" stop="20260708211000 +0800">
+        <title lang="zh">重播台湾新闻脸</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708211000 +0800" stop="20260708211600 +0800">
+        <title lang="zh">重播早餐中国第二季:7</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708211600 +0800" stop="20260708215900 +0800">
+        <title lang="zh">家庭剧场:藏海传 第25集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708215900 +0800" stop="20260708224200 +0800">
+        <title lang="zh">家庭剧场:藏海传 第26集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708224200 +0800" stop="20260708232700 +0800">
+        <title lang="zh">家庭剧场:藏海传 第27集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708232700 +0800" stop="20260708235200 +0800">
+        <title lang="zh">重播精品纪录片:阿尔泰山 4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260708235200 +0800" stop="20260709003300 +0800">
+        <title lang="zh">重播台湾新闻脸</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709003300 +0800" stop="20260709011600 +0800">
+        <title lang="zh">重播海峡剧场:群星闪耀时 第27集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709011600 +0800" stop="20260709020000 +0800">
+        <title lang="zh">重播海峡剧场:群星闪耀时 第28集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709020000 +0800" stop="20260709022600 +0800">
+        <title lang="zh">精品纪录片:阿尔泰山 5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709022600 +0800" stop="20260709024200 +0800">
+        <title lang="zh">海好遇见你</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709024200 +0800" stop="20260709032600 +0800">
+        <title lang="zh">青春剧场:北上 第3集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709032600 +0800" stop="20260709041000 +0800">
+        <title lang="zh">青春剧场:北上 第4集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709041000 +0800" stop="20260709045400 +0800">
+        <title lang="zh">青春剧场:北上 第5集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709045400 +0800" stop="20260709050000 +0800">
+        <title lang="zh">早餐中国第二季:8</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709050000 +0800" stop="20260709054200 +0800">
+        <title lang="zh">今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709054200 +0800" stop="20260709062300 +0800">
+        <title lang="zh">东南军情</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709062300 +0800" stop="20260709065900 +0800">
+        <title lang="zh">走近这片海:1</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709065900 +0800" stop="20260709074200 +0800">
+        <title lang="zh">海峡剧场:群星闪耀时 第29集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260709074200 +0800" stop="20260709080000 +0800">
+        <title lang="zh">海峡剧场:群星闪耀时 第30集</title>
     </programme>
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
@@ -9075,38 +9252,38 @@
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
     </channel>
-    <programme channel="24小时城市联赛轮播台" start="20260708062100 +0800" stop="20260708094900 +0800">
-        <title lang="zh">四川川超第16轮全场回放：达州川汉子队0:4德阳重装队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260708094900 +0800" stop="20260708122100 +0800">
-        <title lang="zh">云南滇超半决赛全场回放：昆明队2:0德宏队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260708122100 +0800" stop="20260708142500 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708071500 +0800" stop="20260708091900 +0800">
         <title lang="zh">东北地区东北超第3轮全场回放：鸡西0:2长春</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260708142500 +0800" stop="20260708164600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708091900 +0800" stop="20260708114000 +0800">
         <title lang="zh">广东粤超第8轮全场回放：梅州4:1河源</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260708164600 +0800" stop="20260708191600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708114000 +0800" stop="20260708141000 +0800">
         <title lang="zh">苏超常规赛第11周全场回放：淮安队1:3无锡队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260708191600 +0800" stop="20260708213200 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708141000 +0800" stop="20260708162500 +0800">
         <title lang="zh">新疆疆超第6轮全场回放：喀什3:0哈密</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260708213200 +0800" stop="20260709000400 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708162500 +0800" stop="20260708185800 +0800">
         <title lang="zh">苏超常规赛第11周全场回放：镇江队0:2苏州队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260709000400 +0800" stop="20260709023700 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708185800 +0800" stop="20260708213100 +0800">
         <title lang="zh">苏超常规赛第11周全场回放：连云港队0:1常州队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260709023700 +0800" stop="20260709044100 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708213100 +0800" stop="20260708233500 +0800">
         <title lang="zh">江西赣超第6轮全场回放：吉安1:2九江</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260709044100 +0800" stop="20260709071500 +0800">
-        <title lang="zh">湖北楚超第8轮全场回放：宜昌东阳光4:3黄冈</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260709071500 +0800" stop="20260709090600 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260708233500 +0800" stop="20260709012600 +0800">
         <title lang="zh">贵州村超第9轮全场回放：大利村侗寨队11:0阳光村</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260709012600 +0800" stop="20260709033400 +0800">
+        <title lang="zh">山东齐鲁超第7轮全场回放：济南队1:2聊城传奇农商行</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260709033400 +0800" stop="20260709053700 +0800">
+        <title lang="zh">甘肃陇超第3轮全场回放：武威3:5兰州新区</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260709053700 +0800" stop="20260709082300 +0800">
+        <title lang="zh">新疆疆超第6轮全场回放：克州0:1吐鲁番</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
