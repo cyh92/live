@@ -90,25 +90,25 @@
     <programme channel="CCTV1综合" start="20260710030000 +0800" stop="20260710033840 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710033840 +0800" stop="20260710035855 +0800">
+    <programme channel="CCTV1综合" start="20260710033840 +0800" stop="20260710035910 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710035855 +0800" stop="20260710040300 +0800">
+    <programme channel="CCTV1综合" start="20260710035910 +0800" stop="20260710040300 +0800">
         <title lang="zh">前情提要-种墨园-第21集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710040300 +0800" stop="20260710045305 +0800">
+    <programme channel="CCTV1综合" start="20260710040300 +0800" stop="20260710045325 +0800">
         <title lang="zh">种墨园21/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710045305 +0800" stop="20260710045535 +0800">
+    <programme channel="CCTV1综合" start="20260710045325 +0800" stop="20260710045715 +0800">
         <title lang="zh">前情提要-种墨园-第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710045535 +0800" stop="20260710054315 +0800">
+    <programme channel="CCTV1综合" start="20260710045715 +0800" stop="20260710054530 +0800">
         <title lang="zh">种墨园22/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710054315 +0800" stop="20260710055045 +0800">
+    <programme channel="CCTV1综合" start="20260710054530 +0800" stop="20260710055230 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260710055045 +0800" stop="20260710060000 +0800">
+    <programme channel="CCTV1综合" start="20260710055230 +0800" stop="20260710060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260710060000 +0800" stop="20260710063530 +0800">
@@ -4509,8 +4509,65 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260709080000 +0800" stop="20260710075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260709080000 +0800" stop="20260709082700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709082700 +0800" stop="20260709093600 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709093600 +0800" stop="20260709103400 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709103400 +0800" stop="20260709132300 +0800">
+        <title lang="zh">设备检修</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709132300 +0800" stop="20260709145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709145500 +0800" stop="20260709150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709150000 +0800" stop="20260709164000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709164000 +0800" stop="20260709164800 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709164800 +0800" stop="20260709200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709200000 +0800" stop="20260709203400 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260709203400 +0800" stop="20260710020000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710020000 +0800" stop="20260710022000 +0800">
+        <title lang="zh">心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710022000 +0800" stop="20260710022600 +0800">
+        <title lang="zh">走近这片海（精华版）:第1集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710022600 +0800" stop="20260710023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710023000 +0800" stop="20260710030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710030000 +0800" stop="20260710033200 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710033200 +0800" stop="20260710055000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710055000 +0800" stop="20260710060900 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710060900 +0800" stop="20260710070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260710070000 +0800" stop="20260710080000 +0800">
+        <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
