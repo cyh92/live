@@ -93,25 +93,25 @@
     <programme channel="CCTV1综合" start="20260715030000 +0800" stop="20260715033840 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715033840 +0800" stop="20260715035840 +0800">
+    <programme channel="CCTV1综合" start="20260715033840 +0800" stop="20260715035845 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715035840 +0800" stop="20260715040300 +0800">
+    <programme channel="CCTV1综合" start="20260715035845 +0800" stop="20260715040200 +0800">
         <title lang="zh">前情提要-种墨园-第26集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715040300 +0800" stop="20260715045305 +0800">
+    <programme channel="CCTV1综合" start="20260715040200 +0800" stop="20260715045325 +0800">
         <title lang="zh">种墨园26/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715045305 +0800" stop="20260715045535 +0800">
+    <programme channel="CCTV1综合" start="20260715045325 +0800" stop="20260715045550 +0800">
         <title lang="zh">前情提要-种墨园-第27集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715045535 +0800" stop="20260715054450 +0800">
+    <programme channel="CCTV1综合" start="20260715045550 +0800" stop="20260715054425 +0800">
         <title lang="zh">种墨园27/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715054450 +0800" stop="20260715055050 +0800">
+    <programme channel="CCTV1综合" start="20260715054425 +0800" stop="20260715055125 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260715055050 +0800" stop="20260715060000 +0800">
+    <programme channel="CCTV1综合" start="20260715055125 +0800" stop="20260715060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260715060000 +0800" stop="20260715063545 +0800">
@@ -559,7 +559,7 @@
         <title lang="zh">实况录像-2026年世界泳联高台跳水世界杯 意大利站</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260715020400 +0800" stop="20260715033000 +0800">
-        <title lang="zh">实况录像-2026世界杯 1/4决赛 4</title>
+        <title lang="zh">实况录像-2026世界杯 1/4决赛 法国队-摩洛哥队</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260715033000 +0800" stop="20260715053100 +0800">
         <title lang="zh">2026年温布尔登网球锦标赛-男单决赛（4K）</title>
@@ -4491,8 +4491,65 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260714080000 +0800" stop="20260715075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260714080000 +0800" stop="20260714090300 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714090300 +0800" stop="20260714101700 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714101700 +0800" stop="20260714105100 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714105100 +0800" stop="20260714114000 +0800">
+        <title lang="zh">重播原来是这样</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714114000 +0800" stop="20260714121300 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714121300 +0800" stop="20260714124400 +0800">
+        <title lang="zh">重播山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714124400 +0800" stop="20260714132300 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714132300 +0800" stop="20260714145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714145500 +0800" stop="20260714150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714150000 +0800" stop="20260714200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714200000 +0800" stop="20260714203400 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260714203400 +0800" stop="20260715020500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715020500 +0800" stop="20260715022400 +0800">
+        <title lang="zh">海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715022400 +0800" stop="20260715023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715023000 +0800" stop="20260715030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715030000 +0800" stop="20260715033200 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715033200 +0800" stop="20260715054900 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715054900 +0800" stop="20260715060800 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715060800 +0800" stop="20260715070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260715070000 +0800" stop="20260715080000 +0800">
+        <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
