@@ -93,25 +93,25 @@
     <programme channel="CCTV1综合" start="20260716030000 +0800" stop="20260716033840 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716033840 +0800" stop="20260716035855 +0800">
+    <programme channel="CCTV1综合" start="20260716033840 +0800" stop="20260716035910 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716035855 +0800" stop="20260716040300 +0800">
+    <programme channel="CCTV1综合" start="20260716035910 +0800" stop="20260716040300 +0800">
         <title lang="zh">前情提要-种墨园-第28集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716040300 +0800" stop="20260716045425 +0800">
+    <programme channel="CCTV1综合" start="20260716040300 +0800" stop="20260716045325 +0800">
         <title lang="zh">种墨园28/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716045425 +0800" stop="20260716045655 +0800">
+    <programme channel="CCTV1综合" start="20260716045325 +0800" stop="20260716045615 +0800">
         <title lang="zh">前情提要-种墨园-第29集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716045655 +0800" stop="20260716054555 +0800">
+    <programme channel="CCTV1综合" start="20260716045615 +0800" stop="20260716054500 +0800">
         <title lang="zh">种墨园29/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716054555 +0800" stop="20260716055255 +0800">
+    <programme channel="CCTV1综合" start="20260716054500 +0800" stop="20260716055200 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260716055255 +0800" stop="20260716060000 +0800">
+    <programme channel="CCTV1综合" start="20260716055200 +0800" stop="20260716060000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260716060000 +0800" stop="20260716063545 +0800">
@@ -582,49 +582,52 @@
     <programme channel="CCTV6电影" start="20260715100037 +0800" stop="20260715113402 +0800">
         <title lang="zh">红樱桃之谜</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715113402 +0800" stop="20260715153919 +0800">
+    <programme channel="CCTV6电影" start="20260715113402 +0800" stop="20260715132451 +0800">
         <title lang="zh">特种部队 眼镜蛇的崛起</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715153919 +0800" stop="20260715172041 +0800">
+    <programme channel="CCTV6电影" start="20260715132451 +0800" stop="20260715142951 +0800">
+        <title lang="zh">双鞭呼延灼</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260715142951 +0800" stop="20260715160958 +0800">
         <title lang="zh">锁王</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715172041 +0800" stop="20260715191714 +0800">
+    <programme channel="CCTV6电影" start="20260715160958 +0800" stop="20260715180556 +0800">
         <title lang="zh">三叉戟</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715191714 +0800" stop="20260715210449 +0800">
+    <programme channel="CCTV6电影" start="20260715180556 +0800" stop="20260715195736 +0800">
         <title lang="zh">杨善洲</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715210449 +0800" stop="20260715211104 +0800">
+    <programme channel="CCTV6电影" start="20260715195736 +0800" stop="20260715200241 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715211104 +0800" stop="20260715230328 +0800">
+    <programme channel="CCTV6电影" start="20260715200241 +0800" stop="20260715215320 +0800">
         <title lang="zh">忠烈杨家将</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260715230328 +0800" stop="20260716003523 +0800">
-        <title lang="zh">指环王：护戒使者（上）</title>
+    <programme channel="CCTV6电影" start="20260715215320 +0800" stop="20260716000235 +0800">
+        <title lang="zh">星际迷航</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716003523 +0800" stop="20260716022238 +0800">
-        <title lang="zh">指环王：护戒使者（下）</title>
+    <programme channel="CCTV6电影" start="20260716000235 +0800" stop="20260716022932 +0800">
+        <title lang="zh">星际迷航：暗黑无界</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716022238 +0800" stop="20260716040853 +0800">
+    <programme channel="CCTV6电影" start="20260716022932 +0800" stop="20260716040847 +0800">
         <title lang="zh">血战落魂桥</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716040853 +0800" stop="20260716060031 +0800">
+    <programme channel="CCTV6电影" start="20260716040847 +0800" stop="20260716060000 +0800">
         <title lang="zh">燃烧的港湾</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716060031 +0800" stop="20260716061831 +0800">
+    <programme channel="CCTV6电影" start="20260716060000 +0800" stop="20260716061800 +0800">
         <title lang="zh">中国电影报道2026-196</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716061831 +0800" stop="20260716062351 +0800">
+    <programme channel="CCTV6电影" start="20260716061800 +0800" stop="20260716062335 +0800">
         <title lang="zh">中国福利彩票阳光开奖2026-07-15</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716062351 +0800" stop="20260716070031 +0800">
+    <programme channel="CCTV6电影" start="20260716062335 +0800" stop="20260716070002 +0800">
         <title lang="zh">侠盗鲁平（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716070031 +0800" stop="20260716070201 +0800">
+    <programme channel="CCTV6电影" start="20260716070002 +0800" stop="20260716070102 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-07-15</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260716070201 +0800" stop="20260716075900 +0800">
+    <programme channel="CCTV6电影" start="20260716070102 +0800" stop="20260716075900 +0800">
         <title lang="zh">侠盗鲁平（下）</title>
     </programme>
     <channel id="CCTV7国防军事">
