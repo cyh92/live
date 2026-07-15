@@ -93,25 +93,25 @@
     <programme channel="CCTV1综合" start="20260717030000 +0800" stop="20260717033855 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717033855 +0800" stop="20260717035910 +0800">
+    <programme channel="CCTV1综合" start="20260717033855 +0800" stop="20260717035845 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717035910 +0800" stop="20260717040300 +0800">
+    <programme channel="CCTV1综合" start="20260717035845 +0800" stop="20260717040200 +0800">
         <title lang="zh">前情提要-种墨园-第30集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717040300 +0800" stop="20260717045405 +0800">
+    <programme channel="CCTV1综合" start="20260717040200 +0800" stop="20260717045255 +0800">
         <title lang="zh">种墨园30/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717045405 +0800" stop="20260717045635 +0800">
+    <programme channel="CCTV1综合" start="20260717045255 +0800" stop="20260717045635 +0800">
         <title lang="zh">前情提要-种墨园-第31集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717045635 +0800" stop="20260717054445 +0800">
+    <programme channel="CCTV1综合" start="20260717045635 +0800" stop="20260717054535 +0800">
         <title lang="zh">种墨园31/34</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717054445 +0800" stop="20260717055145 +0800">
+    <programme channel="CCTV1综合" start="20260717054535 +0800" stop="20260717055235 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260717055145 +0800" stop="20260717060000 +0800">
+    <programme channel="CCTV1综合" start="20260717055235 +0800" stop="20260717060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260717060000 +0800" stop="20260717063545 +0800">
@@ -1347,13 +1347,13 @@
     <programme channel="CCTV13新闻" start="20260717020000 +0800" stop="20260717030000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260717030000 +0800" stop="20260717033205 +0800">
+    <programme channel="CCTV13新闻" start="20260717030000 +0800" stop="20260717033100 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260717033205 +0800" stop="20260717033855 +0800">
+    <programme channel="CCTV13新闻" start="20260717033100 +0800" stop="20260717033705 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260717033855 +0800" stop="20260717040000 +0800">
+    <programme channel="CCTV13新闻" start="20260717033705 +0800" stop="20260717040000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260717040000 +0800" stop="20260717050000 +0800">
