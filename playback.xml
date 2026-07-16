@@ -96,13 +96,13 @@
     <programme channel="CCTV1综合" start="20260718033855 +0800" stop="20260718040100 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260718040100 +0800" stop="20260718050210 +0800">
+    <programme channel="CCTV1综合" start="20260718040100 +0800" stop="20260718050240 +0800">
         <title lang="zh">中国中医药大会（第三季）-11</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260718050210 +0800" stop="20260718050340 +0800">
+    <programme channel="CCTV1综合" start="20260718050240 +0800" stop="20260718050530 +0800">
         <title lang="zh">前情提要-种墨园-第32集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260718050340 +0800" stop="20260718060000 +0800">
+    <programme channel="CCTV1综合" start="20260718050530 +0800" stop="20260718060000 +0800">
         <title lang="zh">种墨园32/34</title>
     </programme>
     <programme channel="CCTV1综合" start="20260718060000 +0800" stop="20260718063545 +0800">
@@ -3195,8 +3195,101 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260717080000 +0800" stop="20260718075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260717080000 +0800" stop="20260717081700 +0800">
+        <title lang="zh">无尽的尽头</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717081700 +0800" stop="20260717090300 +0800">
+        <title lang="zh">无尽的尽头</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717090300 +0800" stop="20260717095000 +0800">
+        <title lang="zh">无尽的尽头</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717095000 +0800" stop="20260717103000 +0800">
+        <title lang="zh">无尽的尽头</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717103000 +0800" stop="20260717111600 +0800">
+        <title lang="zh">中华书院</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717111600 +0800" stop="20260717120600 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717120600 +0800" stop="20260717131100 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717131100 +0800" stop="20260717135400 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717135400 +0800" stop="20260717142400 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717142400 +0800" stop="20260717150000 +0800">
+        <title lang="zh">本草中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717150000 +0800" stop="20260717150100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717150100 +0800" stop="20260717152500 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717152500 +0800" stop="20260717161500 +0800">
+        <title lang="zh">我爱古诗词</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717161500 +0800" stop="20260717165700 +0800">
+        <title lang="zh">纯真年代的爱情</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717165700 +0800" stop="20260717174100 +0800">
+        <title lang="zh">纯真年代的爱情</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717174100 +0800" stop="20260717182900 +0800">
+        <title lang="zh">纯真年代的爱情</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717182900 +0800" stop="20260717191200 +0800">
+        <title lang="zh">纯真年代的爱情</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717191200 +0800" stop="20260717200000 +0800">
+        <title lang="zh">纯真年代的爱情</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717200000 +0800" stop="20260717203000 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717203000 +0800" stop="20260717222200 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260717222200 +0800" stop="20260718002900 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718002900 +0800" stop="20260718011500 +0800">
+        <title lang="zh">一生一世</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718011500 +0800" stop="20260718020000 +0800">
+        <title lang="zh">一生一世</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718020000 +0800" stop="20260718023000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718023000 +0800" stop="20260718030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718030000 +0800" stop="20260718033200 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718033200 +0800" stop="20260718041700 +0800">
+        <title lang="zh">千香 第29集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718041700 +0800" stop="20260718050300 +0800">
+        <title lang="zh">千香 第30集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718050300 +0800" stop="20260718063200 +0800">
+        <title lang="zh">国医少年志3</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718063200 +0800" stop="20260718070000 +0800">
+        <title lang="zh">一个文学的午后</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718070000 +0800" stop="20260718071600 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260718071600 +0800" stop="20260718080000 +0800">
+        <title lang="zh">无尽的尽头</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
@@ -10857,8 +10950,53 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260717080000 +0800" stop="20260718075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20260717080000 +0800" stop="20260717140800 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717140800 +0800" stop="20260717160000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717160000 +0800" stop="20260717170800 +0800">
+        <title lang="zh">薇薇猫的日常</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717170800 +0800" stop="20260717221200 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717221200 +0800" stop="20260717225900 +0800">
+        <title lang="zh">超级飞侠二十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717225900 +0800" stop="20260717231100 +0800">
+        <title lang="zh">奶龙搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717231100 +0800" stop="20260717233500 +0800">
+        <title lang="zh">迷你特工队之最强恐龙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260717233500 +0800" stop="20260718000000 +0800">
+        <title lang="zh">奇妙萌可之闪耀流星</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718000000 +0800" stop="20260718002200 +0800">
+        <title lang="zh">嘿，托玛</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718002200 +0800" stop="20260718025000 +0800">
+        <title lang="zh">奶龙搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718025000 +0800" stop="20260718033600 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718033600 +0800" stop="20260718034800 +0800">
+        <title lang="zh">爆裂飞车之晶码迷踪</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718034800 +0800" stop="20260718035900 +0800">
+        <title lang="zh">咖宝车神之超能救援</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718035900 +0800" stop="20260718040300 +0800">
+        <title lang="zh">亚运星推官一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718040300 +0800" stop="20260718043100 +0800">
+        <title lang="zh">奇妙萌可之闪耀流星</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260718043100 +0800" stop="20260718080000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者三</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
