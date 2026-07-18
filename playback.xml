@@ -84,25 +84,25 @@
     <programme channel="CCTV1综合" start="20260720030000 +0800" stop="20260720033840 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720033840 +0800" stop="20260720035920 +0800">
+    <programme channel="CCTV1综合" start="20260720033840 +0800" stop="20260720035815 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720035920 +0800" stop="20260720040300 +0800">
+    <programme channel="CCTV1综合" start="20260720035815 +0800" stop="20260720040100 +0800">
         <title lang="zh">前情提要-种墨园-第33集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720040300 +0800" stop="20260720045405 +0800">
+    <programme channel="CCTV1综合" start="20260720040100 +0800" stop="20260720045205 +0800">
         <title lang="zh">种墨园第33集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720045405 +0800" stop="20260720045650 +0800">
+    <programme channel="CCTV1综合" start="20260720045205 +0800" stop="20260720045555 +0800">
         <title lang="zh">前情提要-种墨园-第34集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720045650 +0800" stop="20260720054535 +0800">
+    <programme channel="CCTV1综合" start="20260720045555 +0800" stop="20260720054420 +0800">
         <title lang="zh">种墨园第34集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720054535 +0800" stop="20260720055235 +0800">
+    <programme channel="CCTV1综合" start="20260720054420 +0800" stop="20260720055120 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260720055235 +0800" stop="20260720060000 +0800">
+    <programme channel="CCTV1综合" start="20260720055120 +0800" stop="20260720060000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260720060000 +0800" stop="20260720063620 +0800">
@@ -112,7 +112,7 @@
         <title lang="zh">国家荣光-2026-8</title>
     </programme>
     <programme channel="CCTV1综合" start="20260720071130 +0800" stop="20260720075900 +0800">
-        <title lang="zh">宗师列传·大唐诗人传-李白</title>
+        <title lang="zh">宗师列传·大宋词人传-周邦彦</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
