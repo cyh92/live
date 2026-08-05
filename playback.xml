@@ -4536,8 +4536,59 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260806080000 +0800" stop="20260807075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260806070000 +0800" stop="20260806080600 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806080600 +0800" stop="20260806083300 +0800">
+        <title lang="zh">《“国宝”时刻》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806083300 +0800" stop="20260806103300 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806103300 +0800" stop="20260806133800 +0800">
+        <title lang="zh">设备检修</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806133800 +0800" stop="20260806145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806145500 +0800" stop="20260806150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806150000 +0800" stop="20260806200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806200000 +0800" stop="20260806204000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260806204000 +0800" stop="20260807020000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807020000 +0800" stop="20260807021900 +0800">
+        <title lang="zh">心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807021900 +0800" stop="20260807022500 +0800">
+        <title lang="zh">走近这片海（精华版）:第9集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807022500 +0800" stop="20260807023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807023000 +0800" stop="20260807030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807030000 +0800" stop="20260807033300 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807033300 +0800" stop="20260807051300 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807051300 +0800" stop="20260807061400 +0800">
+        <title lang="zh">超棒的我们（第二季）:第2集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807061400 +0800" stop="20260807070500 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260807070500 +0800" stop="20260807080000 +0800">
+        <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
@@ -4656,8 +4707,125 @@
     <channel id="海峡卫视">
         <display-name lang="zh">海峡卫视</display-name>
     </channel>
-    <programme channel="海峡卫视" start="20260806080000 +0800" stop="20260807075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="海峡卫视" start="20260806074200 +0800" stop="20260806082500 +0800">
+        <title lang="zh">海峡剧场:长风渡 第14集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806082500 +0800" stop="20260806090700 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806090700 +0800" stop="20260806094900 +0800">
+        <title lang="zh">重播东南军情</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806094900 +0800" stop="20260806103300 +0800">
+        <title lang="zh">重播青春剧场:老舅 第13集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806103300 +0800" stop="20260806111700 +0800">
+        <title lang="zh">重播青春剧场:老舅 第14集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806111700 +0800" stop="20260806120100 +0800">
+        <title lang="zh">重播青春剧场:老舅 第15集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806120100 +0800" stop="20260806122600 +0800">
+        <title lang="zh">重播精品纪录片:千古风流人物第三季 4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806122600 +0800" stop="20260806130800 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806130800 +0800" stop="20260806135000 +0800">
+        <title lang="zh">重播东南军情</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806135000 +0800" stop="20260806140500 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806140500 +0800" stop="20260806144700 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806144700 +0800" stop="20260806152200 +0800">
+        <title lang="zh">重播走近这片海:5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806152200 +0800" stop="20260806155100 +0800">
+        <title lang="zh">重播精品纪录片:千古风流人物第三季 4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806155100 +0800" stop="20260806163100 +0800">
+        <title lang="zh">重播东南军情</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806163100 +0800" stop="20260806170800 +0800">
+        <title lang="zh">重播走近这片海:5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806170800 +0800" stop="20260806175200 +0800">
+        <title lang="zh">时代剧场:无所畏惧之永不放弃 第25集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806175200 +0800" stop="20260806183600 +0800">
+        <title lang="zh">时代剧场:无所畏惧之永不放弃 第26集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806183600 +0800" stop="20260806192300 +0800">
+        <title lang="zh">时代剧场:无所畏惧之永不放弃 第27集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806192300 +0800" stop="20260806200000 +0800">
+        <title lang="zh">重播走近这片海:5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806200000 +0800" stop="20260806203000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806203000 +0800" stop="20260806210500 +0800">
+        <title lang="zh">重播走近这片海:5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806210500 +0800" stop="20260806214600 +0800">
+        <title lang="zh">重播东南军情</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806214600 +0800" stop="20260806222900 +0800">
+        <title lang="zh">家庭剧场:南来北往 第33集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806222900 +0800" stop="20260806231200 +0800">
+        <title lang="zh">家庭剧场:南来北往 第34集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806231200 +0800" stop="20260806235800 +0800">
+        <title lang="zh">家庭剧场:南来北往 第35集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260806235800 +0800" stop="20260807003300 +0800">
+        <title lang="zh">重播走近这片海:5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807003300 +0800" stop="20260807011600 +0800">
+        <title lang="zh">重播海峡剧场:长风渡 第13集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807011600 +0800" stop="20260807020000 +0800">
+        <title lang="zh">重播海峡剧场:长风渡 第14集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807020000 +0800" stop="20260807022600 +0800">
+        <title lang="zh">精品纪录片:千古风流人物第三季 5</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807022600 +0800" stop="20260807024200 +0800">
+        <title lang="zh">山海福建</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807024200 +0800" stop="20260807032600 +0800">
+        <title lang="zh">青春剧场:老舅 第16集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807032600 +0800" stop="20260807041000 +0800">
+        <title lang="zh">青春剧场:老舅 第17集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807041000 +0800" stop="20260807045400 +0800">
+        <title lang="zh">青春剧场:老舅 第18集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807045400 +0800" stop="20260807050000 +0800">
+        <title lang="zh">走近这片海精华版:9</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807050000 +0800" stop="20260807054200 +0800">
+        <title lang="zh">今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807054200 +0800" stop="20260807061000 +0800">
+        <title lang="zh">宝岛，报到！</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807061000 +0800" stop="20260807065300 +0800">
+        <title lang="zh">海峡剧场:长风渡 第15集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807065300 +0800" stop="20260807073800 +0800">
+        <title lang="zh">海峡剧场:长风渡 第16集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807073800 +0800" stop="20260807074400 +0800">
+        <title lang="zh">重播走近这片海精华版:9</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260807074400 +0800" stop="20260807080000 +0800">
+        <title lang="zh">重播山海福建</title>
     </programme>
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
