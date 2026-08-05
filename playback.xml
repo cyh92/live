@@ -3249,8 +3249,101 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260806080000 +0800" stop="20260807075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260806080000 +0800" stop="20260806085500 +0800">
+        <title lang="zh">错位</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806085500 +0800" stop="20260806094400 +0800">
+        <title lang="zh">错位</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806094400 +0800" stop="20260806102900 +0800">
+        <title lang="zh">错位</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806102900 +0800" stop="20260806105800 +0800">
+        <title lang="zh">似是故人来第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806105800 +0800" stop="20260806113500 +0800">
+        <title lang="zh">似是故人来第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806113500 +0800" stop="20260806123300 +0800">
+        <title lang="zh">我在岛屿读书第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806123300 +0800" stop="20260806130600 +0800">
+        <title lang="zh">紫金文化名家第四季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806130600 +0800" stop="20260806133600 +0800">
+        <title lang="zh">紫金文化名家第四季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806133600 +0800" stop="20260806140100 +0800">
+        <title lang="zh">紫金文化名家第四季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806140100 +0800" stop="20260806142900 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806142900 +0800" stop="20260806150000 +0800">
+        <title lang="zh">茶界中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806150000 +0800" stop="20260806150200 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806150200 +0800" stop="20260806152500 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806152500 +0800" stop="20260806161800 +0800">
+        <title lang="zh">我爱古诗词第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806161800 +0800" stop="20260806170000 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806170000 +0800" stop="20260806174400 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806174400 +0800" stop="20260806182800 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806182800 +0800" stop="20260806191300 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806191300 +0800" stop="20260806200000 +0800">
+        <title lang="zh">莲花楼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806200000 +0800" stop="20260806203100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806203100 +0800" stop="20260806222400 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260806222400 +0800" stop="20260807002700 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807002700 +0800" stop="20260807011200 +0800">
+        <title lang="zh">天才基本法</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807011200 +0800" stop="20260807020000 +0800">
+        <title lang="zh">天才基本法</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807020000 +0800" stop="20260807023000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807023000 +0800" stop="20260807030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807030000 +0800" stop="20260807033300 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807033300 +0800" stop="20260807042000 +0800">
+        <title lang="zh">你好1983 第29集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807042000 +0800" stop="20260807050600 +0800">
+        <title lang="zh">你好1983 第30集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807050600 +0800" stop="20260807070000 +0800">
+        <title lang="zh">音乐缘计划2</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807070000 +0800" stop="20260807071700 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260807071700 +0800" stop="20260807080000 +0800">
+        <title lang="zh">错位</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
