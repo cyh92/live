@@ -87,25 +87,25 @@
     <programme channel="CCTV1综合" start="20260811030000 +0800" stop="20260811033955 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811033955 +0800" stop="20260811035930 +0800">
+    <programme channel="CCTV1综合" start="20260811033955 +0800" stop="20260811035935 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811035930 +0800" stop="20260811040300 +0800">
+    <programme channel="CCTV1综合" start="20260811035935 +0800" stop="20260811040300 +0800">
         <title lang="zh">前情提要-江海潮生-第29集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811040300 +0800" stop="20260811045420 +0800">
+    <programme channel="CCTV1综合" start="20260811040300 +0800" stop="20260811045335 +0800">
         <title lang="zh">江海潮生29/30</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811045420 +0800" stop="20260811045620 +0800">
+    <programme channel="CCTV1综合" start="20260811045335 +0800" stop="20260811045705 +0800">
         <title lang="zh">前情提要-江海潮生-30/30</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811045620 +0800" stop="20260811054435 +0800">
+    <programme channel="CCTV1综合" start="20260811045705 +0800" stop="20260811054510 +0800">
         <title lang="zh">江海潮生30/30</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811054435 +0800" stop="20260811055105 +0800">
+    <programme channel="CCTV1综合" start="20260811054510 +0800" stop="20260811055210 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260811055105 +0800" stop="20260811060000 +0800">
+    <programme channel="CCTV1综合" start="20260811055210 +0800" stop="20260811060000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20260811060000 +0800" stop="20260811063515 +0800">
@@ -294,14 +294,14 @@
     <programme channel="CCTV3综艺" start="20260810193205 +0800" stop="20260810210000 +0800">
         <title lang="zh">开门大吉-2025-33</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260810210000 +0800" stop="20260810212305 +0800">
+    <programme channel="CCTV3综艺" start="20260810210000 +0800" stop="20260810212540 +0800">
         <title lang="zh">文化十分-2026-160</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260810212305 +0800" stop="20260810223115 +0800">
+    <programme channel="CCTV3综艺" start="20260810212540 +0800" stop="20260810223545 +0800">
         <title lang="zh">跟着春晚游中国（义乌篇）-2</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260810223115 +0800" stop="20260810230000 +0800">
-        <title lang="zh">综艺喜乐汇-2026-1095 锦绣神州 歌曲集锦 9</title>
+    <programme channel="CCTV3综艺" start="20260810223545 +0800" stop="20260810230000 +0800">
+        <title lang="zh">综艺喜乐汇-2026-1100 锦绣神州 歌曲集锦14</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260810230000 +0800" stop="20260810230400 +0800">
         <title lang="zh">中国文艺报道-2024-4卷饼店老板</title>
@@ -1452,26 +1452,29 @@
     <programme channel="CCTV15音乐" start="20260810092300 +0800" stop="20260810140000 +0800">
         <title lang="zh">再见</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810140000 +0800" stop="20260810150630 +0800">
+    <programme channel="CCTV15音乐" start="20260810140000 +0800" stop="20260810150230 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-324</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810150630 +0800" stop="20260810162200 +0800">
+    <programme channel="CCTV15音乐" start="20260810150230 +0800" stop="20260810161400 +0800">
         <title lang="zh">合唱先锋-2026-4</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810162200 +0800" stop="20260810171230 +0800">
+    <programme channel="CCTV15音乐" start="20260810161400 +0800" stop="20260810170430 +0800">
         <title lang="zh">风华国乐-2026-227</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810171230 +0800" stop="20260810182800 +0800">
+    <programme channel="CCTV15音乐" start="20260810170430 +0800" stop="20260810182000 +0800">
         <title lang="zh">民歌·中国-2026-109金风玉露情歌起3</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810182800 +0800" stop="20260810194130 +0800">
+    <programme channel="CCTV15音乐" start="20260810182000 +0800" stop="20260810193530 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-292</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810194130 +0800" stop="20260810195330 +0800">
-        <title lang="zh">中国节拍-品味古典78</title>
+    <programme channel="CCTV15音乐" start="20260810193530 +0800" stop="20260810200714 +0800">
+        <title lang="zh">CMG夏日歌会-陕西榆林站1/3</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20260810195330 +0800" stop="20260810211100 +0800">
-        <title lang="zh">CCTV音乐厅-中国乡村音乐大会1-健康跃动篇</title>
+    <programme channel="CCTV15音乐" start="20260810200714 +0800" stop="20260810203406 +0800">
+        <title lang="zh">CMG夏日歌会-陕西榆林站2/3</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20260810203406 +0800" stop="20260810211100 +0800">
+        <title lang="zh">CMG夏日歌会-陕西榆林站 3/3</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260810211100 +0800" stop="20260810232630 +0800">
         <title lang="zh">影视留声机-2026-8-经典电影欣赏《刘三姐》</title>
