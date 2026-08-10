@@ -102,10 +102,10 @@
     <programme channel="CCTV1综合" start="20260812040400 +0800" stop="20260812045800 +0800">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260812045800 +0800" stop="20260812055420 +0800">
+    <programme channel="CCTV1综合" start="20260812045800 +0800" stop="20260812055220 +0800">
         <title lang="zh">专题节目-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260812055420 +0800" stop="20260812060000 +0800">
+    <programme channel="CCTV1综合" start="20260812055220 +0800" stop="20260812060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260812060000 +0800" stop="20260812063530 +0800">
@@ -4578,8 +4578,74 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260811080000 +0800" stop="20260812075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260811080000 +0800" stop="20260811091000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811091000 +0800" stop="20260811101800 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811101800 +0800" stop="20260811105600 +0800">
+        <title lang="zh">重播山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811105600 +0800" stop="20260811114700 +0800">
+        <title lang="zh">重播原来是这样</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811114700 +0800" stop="20260811122300 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811122300 +0800" stop="20260811125500 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811125500 +0800" stop="20260811133800 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811133800 +0800" stop="20260811145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811145500 +0800" stop="20260811150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811150000 +0800" stop="20260811200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811200000 +0800" stop="20260811203600 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260811203600 +0800" stop="20260812020400 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812020400 +0800" stop="20260812022400 +0800">
+        <title lang="zh">海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812022400 +0800" stop="20260812023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812023000 +0800" stop="20260812030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812030000 +0800" stop="20260812033300 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812033300 +0800" stop="20260812055800 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812055800 +0800" stop="20260812060700 +0800">
+        <title lang="zh">《“国宝”时刻》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812060700 +0800" stop="20260812070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812070000 +0800" stop="20260812071600 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812071600 +0800" stop="20260812072400 +0800">
+        <title lang="zh">“精彩非洲”非洲视听节目展播:西芒杜2040计划</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812072400 +0800" stop="20260812073100 +0800">
+        <title lang="zh">“精彩非洲”非洲视听节目展播:探索非洲明珠乌干达</title>
+    </programme>
+    <programme channel="东南卫视" start="20260812073100 +0800" stop="20260812080000 +0800">
+        <title lang="zh">“精彩非洲”非洲视听节目展播:千面肯尼亚:加里萨郡</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
