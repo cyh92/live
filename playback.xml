@@ -84,13 +84,13 @@
     <programme channel="CCTV1综合" start="20260816040300 +0800" stop="20260816044800 +0800">
         <title lang="zh">江泽民-9</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260816044800 +0800" stop="20260816054200 +0800">
+    <programme channel="CCTV1综合" start="20260816044800 +0800" stop="20260816054055 +0800">
         <title lang="zh">江泽民-10</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260816054200 +0800" stop="20260816055020 +0800">
+    <programme channel="CCTV1综合" start="20260816054055 +0800" stop="20260816054935 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260816055020 +0800" stop="20260816060000 +0800">
+    <programme channel="CCTV1综合" start="20260816054935 +0800" stop="20260816060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20260816060000 +0800" stop="20260816063515 +0800">
@@ -408,8 +408,14 @@
     <programme channel="CCTV4中文国际" start="20260816014300 +0800" stop="20260816020000 +0800">
         <title lang="zh">平凡匠心-2026-67</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20260816020000 +0800" stop="20260816030000 +0800">
-        <title lang="zh">中国文艺-致敬经典2026-33</title>
+    <programme channel="CCTV4中文国际" start="20260816020000 +0800" stop="20260816022700 +0800">
+        <title lang="zh">国家记忆-2026-30</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260816022700 +0800" stop="20260816025400 +0800">
+        <title lang="zh">国家记忆-2026-31</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20260816025400 +0800" stop="20260816030000 +0800">
+        <title lang="zh">记住乡愁-片段展播-2024-19</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20260816030000 +0800" stop="20260816033000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1588,16 +1594,16 @@
         <title lang="zh">记住乡愁-片段展播-2024-20</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260815170900 +0800" stop="20260815171200 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-21</title>
+        <title lang="zh">记住乡愁-片段展播-2025-1</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260815171200 +0800" stop="20260815171500 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-17</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20260815171500 +0800" stop="20260815180000 +0800">
-        <title lang="zh">远方的家2026-167</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20260815180000 +0800" stop="20260815183000 +0800">
+    <programme channel="CCTV4欧洲" start="20260815171500 +0800" stop="20260815174500 +0800">
         <title lang="zh">国家记忆-2026-89</title>
+    </programme>
+    <programme channel="CCTV4欧洲" start="20260815174500 +0800" stop="20260815183000 +0800">
+        <title lang="zh">远方的家2026-167</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20260815183000 +0800" stop="20260815191500 +0800">
         <title lang="zh">今生有你-（四套）-18/30</title>
@@ -1711,7 +1717,7 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260815130000 +0800" stop="20260815133000 +0800">
-        <title lang="zh">中国文艺-2026-162</title>
+        <title lang="zh">国家记忆-2026-89</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260815133000 +0800" stop="20260815140000 +0800">
         <title lang="zh">新闻联播</title>
@@ -1780,7 +1786,7 @@
         <title lang="zh">海峡两岸-2026-226</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260816023000 +0800" stop="20260816030000 +0800">
-        <title lang="zh">国家记忆-2026-89</title>
+        <title lang="zh">国家记忆-2026-30</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260816030000 +0800" stop="20260816033000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1789,7 +1795,7 @@
         <title lang="zh">今日亚洲</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260816040000 +0800" stop="20260816043000 +0800">
-        <title lang="zh">中国文艺-2026-162</title>
+        <title lang="zh">国家记忆-2026-89</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260816043000 +0800" stop="20260816050000 +0800">
         <title lang="zh">鲁健访谈-2026-33</title>
@@ -1801,7 +1807,7 @@
         <title lang="zh">今日关注</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260816060000 +0800" stop="20260816064500 +0800">
-        <title lang="zh">精彩音乐汇（海外版）-2026-221</title>
+        <title lang="zh">远方的家2026-167</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260816064500 +0800" stop="20260816073000 +0800">
         <title lang="zh">动画城(四套)-2026-218</title>
@@ -3081,8 +3087,101 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260815080000 +0800" stop="20260816075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260815080000 +0800" stop="20260815082500 +0800">
+        <title lang="zh">黄雀</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815082500 +0800" stop="20260815090800 +0800">
+        <title lang="zh">清明上河图密码</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815090800 +0800" stop="20260815095100 +0800">
+        <title lang="zh">清明上河图密码</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815095100 +0800" stop="20260815103300 +0800">
+        <title lang="zh">清明上河图密码</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815103300 +0800" stop="20260815113800 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815113800 +0800" stop="20260815122900 +0800">
+        <title lang="zh">新生万物</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815122900 +0800" stop="20260815132100 +0800">
+        <title lang="zh">百姓的味道</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815132100 +0800" stop="20260815135500 +0800">
+        <title lang="zh">百姓的味道</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815135500 +0800" stop="20260815142300 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815142300 +0800" stop="20260815150000 +0800">
+        <title lang="zh">本草中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815150000 +0800" stop="20260815150100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815150100 +0800" stop="20260815152100 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815152100 +0800" stop="20260815154800 +0800">
+        <title lang="zh">黄金时间改革政策e解读</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815154800 +0800" stop="20260815164000 +0800">
+        <title lang="zh">我爱古诗词第二季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815164000 +0800" stop="20260815171900 +0800">
+        <title lang="zh">你好1983</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815171900 +0800" stop="20260815175900 +0800">
+        <title lang="zh">你好1983</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815175900 +0800" stop="20260815184000 +0800">
+        <title lang="zh">你好1983</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815184000 +0800" stop="20260815192100 +0800">
+        <title lang="zh">你好1983</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815192100 +0800" stop="20260815200000 +0800">
+        <title lang="zh">你好1983</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815200000 +0800" stop="20260815203200 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815203200 +0800" stop="20260815221900 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260815221900 +0800" stop="20260816003400 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816003400 +0800" stop="20260816011700 +0800">
+        <title lang="zh">长相思第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816011700 +0800" stop="20260816020000 +0800">
+        <title lang="zh">长相思第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816020000 +0800" stop="20260816023000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816023000 +0800" stop="20260816030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816030000 +0800" stop="20260816033000 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816033000 +0800" stop="20260816054200 +0800">
+        <title lang="zh">江苏超会玩</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816054200 +0800" stop="20260816062900 +0800">
+        <title lang="zh">羽翼下的乡愁</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816062900 +0800" stop="20260816070000 +0800">
+        <title lang="zh">荔枝追剧手册</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816070000 +0800" stop="20260816071500 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260816071500 +0800" stop="20260816080000 +0800">
+        <title lang="zh">清明上河图密码</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
