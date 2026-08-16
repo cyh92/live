@@ -3168,8 +3168,101 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20260817080000 +0800" stop="20260818075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20260817080000 +0800" stop="20260817082300 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817082300 +0800" stop="20260817090700 +0800">
+        <title lang="zh">清明上河图密码</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817090700 +0800" stop="20260817094900 +0800">
+        <title lang="zh">清明上河图密码</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817094900 +0800" stop="20260817103000 +0800">
+        <title lang="zh">清明上河图密码</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817103000 +0800" stop="20260817112800 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817112800 +0800" stop="20260817122400 +0800">
+        <title lang="zh">新生万物</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817122400 +0800" stop="20260817132400 +0800">
+        <title lang="zh">百姓的味道</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817132400 +0800" stop="20260817135900 +0800">
+        <title lang="zh">百姓的味道</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817135900 +0800" stop="20260817142400 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817142400 +0800" stop="20260817150000 +0800">
+        <title lang="zh">本草中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817150000 +0800" stop="20260817150200 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817150200 +0800" stop="20260817152600 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817152600 +0800" stop="20260817161800 +0800">
+        <title lang="zh">我爱古诗词第二季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817161800 +0800" stop="20260817170100 +0800">
+        <title lang="zh">玫瑰的故事</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817170100 +0800" stop="20260817174400 +0800">
+        <title lang="zh">玫瑰的故事</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817174400 +0800" stop="20260817182800 +0800">
+        <title lang="zh">玫瑰的故事</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817182800 +0800" stop="20260817191400 +0800">
+        <title lang="zh">玫瑰的故事</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817191400 +0800" stop="20260817200000 +0800">
+        <title lang="zh">玫瑰的故事</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817200000 +0800" stop="20260817203100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817203100 +0800" stop="20260817223000 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260817223000 +0800" stop="20260818003100 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818003100 +0800" stop="20260818011500 +0800">
+        <title lang="zh">长相思第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818011500 +0800" stop="20260818020000 +0800">
+        <title lang="zh">长相思第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818020000 +0800" stop="20260818023000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818023000 +0800" stop="20260818030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818030000 +0800" stop="20260818033300 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818033300 +0800" stop="20260818041900 +0800">
+        <title lang="zh">江海潮生 第9集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818041900 +0800" stop="20260818050800 +0800">
+        <title lang="zh">江海潮生 第10集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818050800 +0800" stop="20260818063400 +0800">
+        <title lang="zh">一站到底·少年季第二季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818063400 +0800" stop="20260818070000 +0800">
+        <title lang="zh">打歌2025</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818070000 +0800" stop="20260818071500 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20260818071500 +0800" stop="20260818080000 +0800">
+        <title lang="zh">清明上河图密码</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
