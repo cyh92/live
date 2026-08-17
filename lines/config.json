@@ -1443,25 +1443,16 @@
       "logo": "../logo/{name}.png"
     },
     {
-      "name": "AI线路",
+      "name": "xmbjm线路",
       "type": 0,
-      "url": "https://gh-proxy.com/github.com/xmbjm/IPTV/raw/refs/heads/master/output/user_result.txt",
+      "url": "https://gh-proxy.com/github.com/xmbjm/Collect-IPTV/raw/refs/heads/main/best_sorted.m3u",
       "epg": "https://e.erw.cc/e.xml",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,
       "timeout": 10
     },
     {
-      "name": "线路①",
-      "type": 0,
-      "url": "http://rihou.cc:567/gggg.nzk",
-      "playerType": 2,
-      "ua": "okhttp/3",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.cn/tv/{name}.png"
-    },
-    {
-      "name": "MiGu",
+      "name": "咪咕线路",
       "type": 0,
       "url": "../source/migu.m3u",
       "playerType": 1,
@@ -1476,59 +1467,9 @@
       "url": "../source/fm.txt"
     },
     {
-      "name": "ZBTV",
-      "type": 0,
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "url": "../source/zb.txt"
-    },
-    {
-      "name": "香港",
-      "type": 0,
-      "url": "https://live.hacks.tools/tv/ipv4/categories/hong_kong.m3u",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "../logo/{name}.png",
-      "ua": "okhttp/3",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
-      }
-    },
-    {
-      "name": "澳门",
-      "type": 0,
-      "url": "https://live.hacks.tools/tv/ipv4/categories/macau.m3u",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "../logo/{name}.png",
-      "ua": "okhttp/3",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
-      }
-    },
-    {
-      "name": "台湾",
-      "type": 0,
-      "url": "https://live.hacks.tools/tv/ipv4/categories/taiwan.m3u",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "../logo/{name}.png",
-      "ua": "okhttp/3",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
-      }
-    },
-    {
       "name": "局域网代理源",
       "type": 0,
       "url": "http://192.168.6.1:8081/tv.txt",
-      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
-      "logo": "../logo/{name}.png",
-      "ua": "okhttp/3",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
-      }
-    },
-    {
-      "name": "内网自动获取",
-      "type": 0,
-      "url": "http://192.168.6.1:50085/sub?WnkVivFd=txt",
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
       "logo": "../logo/{name}.png",
       "ua": "okhttp/3",
