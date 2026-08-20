@@ -3321,8 +3321,110 @@
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
     </channel>
-    <programme channel="广东卫视" start="20260821080000 +0800" stop="20260822075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="广东卫视" start="20260821074500 +0800" stop="20260821081000 +0800">
+        <title lang="zh">纪录片:丝路和弦</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821081000 +0800" stop="20260821084000 +0800">
+        <title lang="zh">南粤4K画卷</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821084000 +0800" stop="20260821100600 +0800">
+        <title lang="zh">英雄儿女</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821100600 +0800" stop="20260821130200 +0800">
+        <title lang="zh">重播节目、纪录片</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821130200 +0800" stop="20260821134500 +0800">
+        <title lang="zh">长风渡(38完)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821134500 +0800" stop="20260821143000 +0800">
+        <title lang="zh">三叉戟2(1)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821143000 +0800" stop="20260821145700 +0800">
+        <title lang="zh">广东新闻联播重播</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821145700 +0800" stop="20260821150000 +0800">
+        <title lang="zh">早间天气预报</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821150000 +0800" stop="20260821153000 +0800">
+        <title lang="zh">大美南粤</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821153000 +0800" stop="20260821154300 +0800">
+        <title lang="zh">动画:果蔬宝贝第二季</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821154300 +0800" stop="20260821164200 +0800">
+        <title lang="zh">津门飞鹰(4)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821164200 +0800" stop="20260821173300 +0800">
+        <title lang="zh">津门飞鹰(5)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821173300 +0800" stop="20260821182300 +0800">
+        <title lang="zh">津门飞鹰(6)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821182300 +0800" stop="20260821191500 +0800">
+        <title lang="zh">津门飞鹰(7)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821191500 +0800" stop="20260821194500 +0800">
+        <title lang="zh">见多食广</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821194500 +0800" stop="20260821202400 +0800">
+        <title lang="zh">健康有道</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821202400 +0800" stop="20260821211700 +0800">
+        <title lang="zh">山河同在(34)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821211700 +0800" stop="20260821220500 +0800">
+        <title lang="zh">山河同在(35)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821220500 +0800" stop="20260821225300 +0800">
+        <title lang="zh">山河同在(36)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821225300 +0800" stop="20260821234500 +0800">
+        <title lang="zh">山河同在(37)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260821234500 +0800" stop="20260822003700 +0800">
+        <title lang="zh">山河同在(38)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822003700 +0800" stop="20260822014000 +0800">
+        <title lang="zh">山河同在(39)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822014000 +0800" stop="20260822022300 +0800">
+        <title lang="zh">山河同在(40)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822022300 +0800" stop="20260822023000 +0800">
+        <title lang="zh">广货行天下·每日新品</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822023000 +0800" stop="20260822025600 +0800">
+        <title lang="zh">广东新闻联播</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822025600 +0800" stop="20260822030000 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822030000 +0800" stop="20260822033000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822033000 +0800" stop="20260822042500 +0800">
+        <title lang="zh">逐玉(31)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822042500 +0800" stop="20260822052000 +0800">
+        <title lang="zh">逐玉(32)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822052000 +0800" stop="20260822054500 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822054500 +0800" stop="20260822055600 +0800">
+        <title lang="zh">微短剧:梅关道(5)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822055600 +0800" stop="20260822064300 +0800">
+        <title lang="zh">秋蝉(49完)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822064300 +0800" stop="20260822072700 +0800">
+        <title lang="zh">深潜(1)</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822072700 +0800" stop="20260822075700 +0800">
+        <title lang="zh">南粤4K画卷</title>
+    </programme>
+    <programme channel="广东卫视" start="20260822075700 +0800" stop="20260822081300 +0800">
+        <title lang="zh">纪录片:丝路和弦</title>
     </programme>
     <channel id="北京卫视">
         <display-name lang="zh">北京卫视</display-name>
@@ -4380,8 +4482,62 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260821080000 +0800" stop="20260822075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260821080000 +0800" stop="20260821100200 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821100200 +0800" stop="20260821111000 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821111000 +0800" stop="20260821114500 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821114500 +0800" stop="20260821133800 +0800">
+        <title lang="zh">重播山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821133800 +0800" stop="20260821145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821145500 +0800" stop="20260821150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821150000 +0800" stop="20260821200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821200000 +0800" stop="20260821204000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260821204000 +0800" stop="20260822020400 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822020400 +0800" stop="20260822022400 +0800">
+        <title lang="zh">玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822022400 +0800" stop="20260822023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822023000 +0800" stop="20260822030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822030000 +0800" stop="20260822033000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822033000 +0800" stop="20260822034800 +0800">
+        <title lang="zh">丝路和弦:第3集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822034800 +0800" stop="20260822053100 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822053100 +0800" stop="20260822062900 +0800">
+        <title lang="zh">中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822062900 +0800" stop="20260822072000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822072000 +0800" stop="20260822073500 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260822073500 +0800" stop="20260822080000 +0800">
+        <title lang="zh">重播“闽超”第十一轮 漳州VS宁德（上）</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
@@ -10761,8 +10917,56 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20260821080000 +0800" stop="20260822075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20260821080000 +0800" stop="20260821141000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄九</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260821141000 +0800" stop="20260821160000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄九</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260821160000 +0800" stop="20260821164500 +0800">
+        <title lang="zh">超级飞侠十九</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260821164500 +0800" stop="20260821183500 +0800">
+        <title lang="zh">薇薇猫的日常</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260821183500 +0800" stop="20260821203500 +0800">
+        <title lang="zh">小品一家人之密室大通关二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260821203500 +0800" stop="20260821221000 +0800">
+        <title lang="zh">飞狗莫柯之家有小短腿一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260821221000 +0800" stop="20260822001000 +0800">
+        <title lang="zh">奶龙之搞怪大作战二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822001000 +0800" stop="20260822024000 +0800">
+        <title lang="zh">奶龙搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822024000 +0800" stop="20260822030000 +0800">
+        <title lang="zh">奶龙与小七之大战暴暴龙</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822030000 +0800" stop="20260822033000 +0800">
+        <title lang="zh">哈小浪之山海大王</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822033000 +0800" stop="20260822035900 +0800">
+        <title lang="zh">超级飞侠十九</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822035900 +0800" stop="20260822040200 +0800">
+        <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822040200 +0800" stop="20260822040500 +0800">
+        <title lang="zh">大玩家特搜队-潮玩对对碰咖宝</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822040500 +0800" stop="20260822051800 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之十奇侠大营救</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822051800 +0800" stop="20260822052100 +0800">
+        <title lang="zh">嗨!小喇叭-《超级飞侠之飞鸟特工行动》看片会</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822052100 +0800" stop="20260822052800 +0800">
+        <title lang="zh">嗨！小喇叭-中华故事小课堂</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20260822052800 +0800" stop="20260822080000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之十奇侠大营救</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
