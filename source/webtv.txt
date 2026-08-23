@@ -330,30 +330,28 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 大湾区卫视,video://https://www.xuexi.cn/xxqg.html?id=b3b303acc4294b95bce47806bfee21bb
 
 『卫视官网』,#genre#
-东方卫视,video://https://live.kankanews.com/huikan?id=1
-黑龙江卫视,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 浙江卫视,video://https://www.cztv.com/liveTV
-四川卫视,video://https://www.sctv.com/live/list
 东南卫视,video://http://www.setv.fjtv.net/live/
 东南卫视,video://https://live.fjtv.net/setv/
 海南卫视,video://http://tc.hnntv.cn/zb/28666112.shtml
 内蒙古卫视,video://https://www.nmtv.cn/liveTv
 山东教育卫视,video://https://www.sdetv.com.cn/edu/pc/live/index.html
+黑龙江卫视,video://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 河北卫视,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 山西卫视,video://https://www.sxrtv.com/tv/
 安徽卫视,video://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 贵州卫视,video://https://www.gzstv.com/tv/ch01
-云南卫视,video://https://www.yntv.cn/live.html
+广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
 陕西卫视,video://http://www.sxtvs.com/sxtvs_sxws/index.html
 新疆卫视,video://https://www.xjtvs.com.cn/column/tv/434
 海峡卫视,video://https://live.fjtv.net/hxtv/
 香港卫视,video://https://www.hkstv.tv/live
+兵团卫视,video://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 
-北京卫视,webview://https://www.brtn.cn/btv/btvsy_index
+
 东方卫视,webview://https://live.kankanews.com/huikan?id=1
 黑龙江卫视,webview://https://www.dbw.cn/zhibodan/zhibo_dan/hljws
 浙江卫视,webview://https://www.cztv.com/liveTV
-四川卫视,webview://https://www.sctv.com/live/list
 深圳卫视,webview://https://www.sztv.com.cn/pindao/index.html?liveId=AxeFRth
 东南卫视,webview://https://live.fjtv.net/setv/
 东南卫视,webview://http://www.setv.fjtv.net/live/
@@ -367,24 +365,19 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 山西卫视,webview://https://www.sxrtv.com/tv/
 安徽卫视,webview://https://www.ahtv.cn/folder9000/folder20193?channelIndex=0
 河南卫视,webview://https://static.hntv.tv/kds
-广东卫视,webview://https://www.gdtv.cn/tvChannelDetail/43
 广西卫视,webview://https://tv.gxtv.cn/channel/channelivePlay_e7a7ab7df9fe11e88bcfe41f13b60c62.html
 贵州卫视,webview://https://www.gzstv.com/tv/ch01
-云南卫视,webview://https://www.yntv.cn/live.html
 陕西卫视,webview://http://live.snrtv.com/
-甘肃卫视,webview://https://www.gstv.com.cn/zxc.jhtml
+甘肃卫视,webview://https://www.gstv.com.cn/#tv
 宁夏卫视,webview://https://www.nxtv.com.cn/19/19kds/dsp/
 新疆卫视,webview://https://www.xjtvs.com.cn/column/tv/434
-兵团卫视,webview://https://www.btzx.com.cn/2024new/new_zhibo/index.shtml
 农林卫视,webview://http://live.snrtv.com/nl
 海峡卫视,webview://https://m.miguvideo.com/m/liveDetail/849119120
 三沙卫视,webview://https://www.hnntv.cn/live.html?playType=livePlay&channelId=5&referPage=home
 康巴卫视,webview://https://www.kangbatv.com/zb_22587/
-大湾区卫视,webview://https://m.miguvideo.com/m/liveDetail/608917627
 
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-内蒙古蒙语卫视,http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
 香港卫视,webview://https://www.hkstv.tv/live
 
 4K🌟频道,#genre#
@@ -867,6 +860,7 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 海南文旅,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=6&referPage=home
 三沙卫视,video://https://app.ssws.tv/video/videojs/index?site_id=10001
 海南自贸,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=1&referPage=home
+海南少儿,video://https://www.hnntv.cn/live.html?playType=livePlay&channelId=7&referPage=home
 
 『山✯东』W,#genre#
 山东齐鲁,http://115.29.208.41:34567/sd.php?id=qlpd
