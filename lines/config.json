@@ -1487,12 +1487,15 @@
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0"
       }
     },
-    {
-      "name": "抖音直播",
+     {
+      "name": "ku9",
       "type": 0,
-      "rules": ["document.querySelector('.chatroom_close').click()"],
-      "url": "../source/dy_live.txt"
-    }
+      "playerType": 2,
+      "url": "../source/ku9.txt",
+      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+      "logo": "../logo/{name}.png",
+      "ua": "okhttp/3"
+    },
   ],
   "parses": [
     {
