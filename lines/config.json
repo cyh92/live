@@ -1422,7 +1422,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "../jar/json/乾坤短剧.json"
-    }
+    },
+    {
+    "key": "csp_jlntv",
+    "name": "吉林广播电视台",
+    "type": 3,
+    "api": "js@https://cyh92.github.io/live/js/jlntv.js",
+    "playUrl": "url&&id=jlws",
+    "searchable": 0
+}
+
   ],
   "lives": [
     {
