@@ -1495,7 +1495,7 @@
       "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
       "logo": "../logo/{name}.png",
       "ua": "okhttp/3"
-    },
+    }
   ],
   "parses": [
     {
