@@ -21,12 +21,10 @@ CCTV16-4K,ku9://https://gh-proxy.org/raw.githubusercontent.com/buhanzhe/webSourc
 
 凤凰频道,#genre#
 凤凰中文台,ku9://https://gh-proxy.org/raw.githubusercontent.com/buhanzhe/webSourceM3U8/main/k-web/ku9/js/fenghuang.js?id=1016529
-
-js脚本,#genre#
-吉林卫视,jar://csp_jlntv?url=&id=jlws
-都市频道,jar://csp_jlntv?url=&id=ds
-生活频道,jar://csp_jlntv?url=&id=sh
-影视频道,jar://csp_jlntv?url=&id=ys
-乡村频道,jar://csp_jlntv?url=&id=xc
-综艺·文化频道,jar://csp_jlntv?url=&id=zy
-长春综合,jar://csp_jlntv?url=&id=cc
+北京,#genre#
+北京卫视,ku9://https://cyh92.github.io/live/js/bjtv.js?id=bjws
+北京新闻,ku9://https://cyh92.github.io/live/js/bjtv.js?id=bjxc
+北京都市,ku9://https://cyh92.github.io/live/js/bjtv.js?id=bjds
+北京生活,ku9://https://cyh92.github.io/live/js/bjtv.js?id=bjsh
+北京科教,ku9://https://cyh92.github.io/live/js/bjtv.js?id=bjjy
+北京文艺,ku9://https://cyh92.github.io/live/js/bjtv.js?id=bjgt
