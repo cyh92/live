@@ -1422,7 +1422,158 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "../jar/json/乾坤短剧.json"
-    }
+    },
+        {
+            "key": "七猫短剧",
+            "name": "🐱七猫丨短剧爽看",
+            "type": 3,
+            "jar":"../jar/duanju/9527.jar",
+            "api": "csp_ShortQimao",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "河马短剧",
+            "name": "🦛河马丨短剧爽看",
+            "type": 3,
+            "jar":"../jar/duanju/9527.jar",
+            "api": "csp_ShortHema",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "围观短剧",
+            "name": "🏖️围观丨短剧爽看",
+            "type": 3,
+            "jar":"../jar/duanju/9527.jar",
+            "api": "csp_ShortWeiguan",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "好看短剧",
+            "name": "💞好看丨短剧爽看",
+            "type": 3,
+            "jar":"../jar/duanju/9527.jar",
+            "api": "csp_ShortHaokan",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "星芽短剧",
+            "name": "🌱星芽丨短剧爽看",
+            "type": 3,
+            "jar":"../jar/duanju/9527.jar",
+            "api": "csp_ShortXingya",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "py聚合短剧",
+            "name": "🍑短剧丨聚合短剧",
+            "type": 3,
+            "api":"../jar/duanju/短剧聚合2.py",
+            "changeable": 1
+        },
+        {
+            "name": "🐲漫剧",
+            "key": "MjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "comic_series",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "😈短剧",
+            "key": "DjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "short_play",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "🍭豪堪短剧",
+            "key": "HHkk",
+            "type": 3,
+            "api": "csp_HHkkAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "🛸盒马短剧",
+            "key": "Hema",
+            "type": 3,
+            "api": "csp_HemaAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "🧸拜拜短剧",
+            "key": "Bddj",
+            "type": 3,
+            "api": "csp_BddjAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "🎀围观短剧",
+            "key": "Wgdj",
+            "type": 3,
+            "api": "csp_WgdjAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "🐱喵喵短剧",
+            "key": "Qmdj",
+            "type": 3,
+            "api": "csp_QmdjAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama",
+            "jar": "../jar/duanju/弹幕.jar"
+        },
+        {
+            "name": "⭐星星短剧",
+            "key": "Xydj",
+            "type": 3,
+            "api": "csp_XydjAmns",
+            "playerType": 2,
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama",
+            "jar": "../jar/duanju/弹幕.jar"
+        }
   ],
   "lives": [
     {
