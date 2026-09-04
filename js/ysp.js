@@ -10,7 +10,10 @@ function main(item) {
     };
     
     if (sources[id]) {
-        return { url: sources[id] };
+        return {
+            parse: 0,
+            url: sources[id]
+        };
     }
     
     return { url: 'error: 未找到频道' };
