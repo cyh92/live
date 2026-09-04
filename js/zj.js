@@ -1,1 +1,99 @@
-const _0x4840=['apply','^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}','test','split','forEach','floor','join','zwebl02.cztv.com','MD5','?auth_key=','stringify'];const _0x4227=function(_0x484055,_0x42279a){_0x484055=_0x484055-0x0;let _0x2f7151=_0x4840[_0x484055];return _0x2f7151;};const _0x517ce6=function(){let _0x476894=!![];return function(_0x3232e7,_0x94eae5){const _0x523bdc=_0x476894?function(){if(_0x94eae5){const _0x351846=_0x94eae5[_0x4227('0x0')](_0x3232e7,arguments);_0x94eae5=null;return _0x351846;}}:function(){};_0x476894=![];return _0x523bdc;};}();const _0x5462a7=_0x517ce6(this,function(){const _0x106054=function(){const _0x2487ad=_0x106054['constructor']('return\x20/\x22\x20+\x20this\x20+\x20\x22/')()['compile'](_0x4227('0x1'));return!_0x2487ad[_0x4227('0x2')](_0x5462a7);};return _0x106054();});_0x5462a7();function parseItem(_0x455be1){const _0x1358a4={};if(!_0x455be1)return _0x1358a4;_0x455be1[_0x4227('0x3')]('&')[_0x4227('0x4')](_0xe251ae=>{const [_0x4dfdd7,_0x47d348]=_0xe251ae[_0x4227('0x3')]('=');if(_0x4dfdd7)_0x1358a4[_0x4dfdd7]=_0x47d348;});return _0x1358a4;}function generateUUIDHex32(){const _0x558f57=[];for(let _0x263300=0x0;_0x263300<0x20;_0x263300++){_0x558f57['push'](Math[_0x4227('0x5')](Math['random']()*0x10)['toString'](0x10));}_0x558f57[0xc]='4';_0x558f57[0x10]='a';return _0x558f57[_0x4227('0x6')]('');}function main(_0x447f3e){const {id}=parseItem(_0x447f3e);const _0x289e0d=_0x4227('0x7');const _0x176f1e='/live/channel'+id+'1080Pnew.m3u8';const _0x838a7b=Math['floor'](Date['now']()/0x3e8);const _0xe9f53d=0x0;const _0x546c4e=generateUUIDHex32();const _0x55cf2e='CHWr9VybUeBZE1VB';const _0x31818f=_0x176f1e+'-'+_0x838a7b+'-'+_0x546c4e+'-'+_0xe9f53d+'-'+_0x55cf2e;const _0x514edf=CryptoJS[_0x4227('0x8')](_0x31818f)['toString']();const _0x1a514e='https://'+_0x289e0d+_0x176f1e+_0x4227('0x9')+_0x838a7b+'-'+_0x546c4e+'-'+_0xe9f53d+'-'+_0x514edf;return JSON[_0x4227('0xa')]({'url':_0x1a514e});}
+// 混淆数组 - 存储所有字符串常量
+const STRINGS = [
+    'apply',
+    '^([^\x20]+(\x20+[^\x20]+)+)+[^\x20]}',
+    'test',
+    'split',
+    'forEach',
+    'floor',
+    'join',
+    'zwebl02.cztv.com',
+    'MD5',
+    '?auth_key=',
+    'stringify'
+];
+
+// 字符串索引访问函数
+function getString(index) {
+    return STRINGS[index];
+}
+
+// 反调试/反混淆保护函数（原代码中的自执行函数）
+function antiDebug() {
+    // 这是一个反调试保护，检测函数上下文
+    const check = function() {
+        const fn = check.constructor('return /" + this + "/')();
+        fn.compile(getString(1));
+        return !fn.test(antiDebug);
+    };
+    return check();
+}
+antiDebug();
+
+/**
+ * 解析URL查询字符串
+ * @param {string} query - URL查询字符串
+ * @returns {Object} 解析后的键值对
+ */
+function parseQueryString(query) {
+    const params = {};
+    if (!query) return params;
+    
+    query.split('&').forEach(pair => {
+        const [key, value] = pair.split('=');
+        if (key) {
+            params[key] = value;
+        }
+    });
+    return params;
+}
+
+/**
+ * 生成32位十六进制UUID（部分固定位）
+ * @returns {string} 32位十六进制字符串
+ */
+function generateUUIDHex32() {
+    const chars = [];
+    for (let i = 0; i < 32; i++) {
+        chars.push(Math.floor(Math.random() * 16).toString(16));
+    }
+    // 固定第12位为'4'（UUID v4标识）
+    chars[12] = '4';
+    // 固定第16位为'a'
+    chars[16] = 'a';
+    return chars.join('');
+}
+
+/**
+ * 主函数 - 生成带签名的直播流URL
+ * @param {string} queryString - URL查询字符串（包含id参数）
+ * @returns {string} JSON格式的URL结果
+ */
+function generateLiveUrl(queryString) {
+    // 1. 解析参数获取频道ID
+    const { id } = parseQueryString(queryString);
+    
+    // 2. 配置常量
+    const DOMAIN = 'zwebl02.cztv.com';
+    const CHANNEL_PATH = '/live/channel' + id + '1080Pnew.m3u8';
+    
+    // 3. 生成时间戳（秒）
+    const timestamp = Math.floor(Date.now() / 1000);
+    
+    // 4. 固定参数
+    const zeroParam = 0;
+    const uuid = generateUUIDHex32();
+    const SECRET_KEY = 'CHWr9VybUeBZE1VB';
+    
+    // 5. 构造签名原文: 路径-时间戳-UUID-0-密钥
+    const signRaw = CHANNEL_PATH + '-' + timestamp + '-' + uuid + '-' + zeroParam + '-' + SECRET_KEY;
+    
+    // 6. 计算MD5签名
+    const md5Sign = CryptoJS.MD5(signRaw).toString();
+    
+    // 7. 构造完整URL
+    const fullUrl = 'https://' + DOMAIN + CHANNEL_PATH + '?auth_key=' + timestamp + '-' + uuid + '-' + zeroParam + '-' + md5Sign;
+    
+    // 8. 返回JSON格式结果
+    return JSON.stringify({ url: fullUrl });
+}
