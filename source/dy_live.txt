@@ -1,21 +1,85 @@
-#EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
-#EXTINF:-1 group-title="浙江" tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png", 浙江卫视
-ku9://https://cyh92.github.io/live/js/zj.js?id=01
-#EXTINF:-1 group-title="浙江" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江钱江都市.png", 浙江钱江都市
-ku9://https://cyh92.github.io/live/js/zj.js?id=02
-#EXTINF:-1 group-title="浙江" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江经济生活.png", 浙江经济生活
-ku9://https://cyh92.github.io/live/js/zj.js?id=03
-#EXTINF:-1 group-title="浙江" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科影视.png", 浙江教科影视
-ku9://https://cyh92.github.io/live/js/zj.js?id=04
-#EXTINF:-1 group-title="浙江" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江民生休闲.png", 浙江民生休闲
-ku9://https://cyh92.github.io/live/js/zj.js?id=06
-#EXTINF:-1 group-title="浙江" tvg-name="浙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江新闻.png", 浙江新闻
-ku9://https://cyh92.github.io/live/js/zj.js?id=07
-#EXTINF:-1 group-title="浙江" tvg-name="浙江少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江少儿.png", 浙江少儿
-ku9://https://cyh92.github.io/live/js/zj.js?id=08
-#EXTINF:-1 group-title="浙江" tvg-name="浙江国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江国际.png", 浙江国际
-ku9://https://cyh92.github.io/live/js/zj.js?id=10
-#EXTINF:-1 group-title="浙江" tvg-name="浙江好易购" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江好易购.png", 浙江好易购
-ku9://https://cyh92.github.io/live/js/zj.js?id=11
-#EXTINF:-1 group-title="浙江" tvg-name="之江纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/之江纪录.png", 之江纪录
-ku9://https://cyh92.github.io/live/js/zj.js?id=12
+浙江,#genre#
+ 浙江卫视,ku9://https://cyh92.github.io/live/js/zj.js?id=01
+ 浙江钱江都市,ku9://https://cyh92.github.io/live/js/zj.js?id=02
+ 浙江经济生活,ku9://https://cyh92.github.io/live/js/zj.js?id=03
+ 浙江教科影视,ku9://https://cyh92.github.io/live/js/zj.js?id=04
+ 浙江民生休闲,ku9://https://cyh92.github.io/live/js/zj.js?id=06
+ 浙江新闻,ku9://https://cyh92.github.io/live/js/zj.js?id=07
+ 浙江少儿,ku9://https://cyh92.github.io/live/js/zj.js?id=08
+ 浙江国际,ku9://https://cyh92.github.io/live/js/zj.js?id=10
+ 浙江好易购,ku9://https://cyh92.github.io/live/js/zj.js?id=11
+ 之江纪录,ku9://https://cyh92.github.io/live/js/zj.js?id=12
+央视频,#genre#
+CCTV-1综合,ku9://https://19938.kstore.space/ysp.js?id=cctv1
+CCTV-2财经,ku9://https://19938.kstore.space/ysp.js?id=cctv2
+CCTV-3综艺,ku9://https://19938.kstore.space/ysp.js?id=cctv3
+CCTV-4中文国际,ku9://https://19938.kstore.space/ysp.js?id=cctv4
+CCTV-5体育,ku9://https://19938.kstore.space/ysp.js?id=cctv5
+CCTV-5+体育赛事,ku9://https://19938.kstore.space/ysp.js?id=cctv5p
+CCTV-6电影,ku9://https://19938.kstore.space/ysp.js?id=cctv6
+CCTV-7国防军事,ku9://https://19938.kstore.space/ysp.js?id=cctv7
+CCTV-8电视剧,ku9://https://19938.kstore.space/ysp.js?id=cctv8
+CCTV-9纪录,ku9://https://19938.kstore.space/ysp.js?id=cctv9
+CCTV-10科教,ku9://https://19938.kstore.space/ysp.js?id=cctv10
+CCTV-11戏曲,ku9://https://19938.kstore.space/ysp.js?id=cctv11
+CCTV-12社会与法,ku9://https://19938.kstore.space/ysp.js?id=cctv12
+CCTV-13新闻,ku9://https://19938.kstore.space/ysp.js?id=cctv13
+CCTV-14少儿,ku9://https://19938.kstore.space/ysp.js?id=cctv14
+CCTV-15音乐,ku9://https://19938.kstore.space/ysp.js?id=cctv15
+CCTV-16奥林匹克,ku9://https://19938.kstore.space/ysp.js?id=cctv16
+CCTV-16奥林匹克4K,ku9://https://19938.kstore.space/ysp.js?id=cctv164k
+CCTV-17农业农村,ku9://https://19938.kstore.space/ysp.js?id=cctv17
+CCTV-4K超高清,ku9://https://19938.kstore.space/ysp.js?id=cctv4k
+CCTV-8K超高清,ku9://https://19938.kstore.space/ysp.js?id=cctv8k
+CGTN,ku9://https://19938.kstore.space/ysp.js?id=cgtn
+CGTN法语,ku9://https://19938.kstore.space/ysp.js?id=cgtnfy
+CGTN俄语,ku9://https://19938.kstore.space/ysp.js?id=cgtney
+CGTN阿拉伯语,ku9://https://19938.kstore.space/ysp.js?id=cgtnalby
+CGTN西班牙语,ku9://https://19938.kstore.space/ysp.js?id=cgtnxby
+CGTN纪录国际,ku9://https://19938.kstore.space/ysp.js?id=cgtnwyjl
+CCTV风云剧场,ku9://https://19938.kstore.space/ysp.js?id=cctvfyjc
+CCTV第一剧场,ku9://https://19938.kstore.space/ysp.js?id=cctvdyjc
+CCTV怀旧剧场,ku9://https://19938.kstore.space/ysp.js?id=cctvhjjc
+CCTV世界地理,ku9://https://19938.kstore.space/ysp.js?id=cctvsjdl
+CCTV风云音乐,ku9://https://19938.kstore.space/ysp.js?id=cctvfyyy
+CCTV兵器科技,ku9://https://19938.kstore.space/ysp.js?id=cctvbqkj
+CCTV风云足球,ku9://https://19938.kstore.space/ysp.js?id=cctvfyzq
+CCTV高尔夫网球,ku9://https://19938.kstore.space/ysp.js?id=cctvgeqwq
+CCTV女性时尚,ku9://https://19938.kstore.space/ysp.js?id=cctvnxss
+CCTV央视文化精品,ku9://https://19938.kstore.space/ysp.js?id=cctvyswhjp
+CCTV央视台球,ku9://https://19938.kstore.space/ysp.js?id=cctvystq
+CCTV电视指南,ku9://https://19938.kstore.space/ysp.js?id=cctvdszn
+CCTV卫生健康,ku9://https://19938.kstore.space/ysp.js?id=cctvwsjk
+北京卫视,ku9://https://19938.kstore.space/ysp.js?id=bjws
+江苏卫视,ku9://https://19938.kstore.space/ysp.js?id=jsws
+东方卫视,ku9://https://19938.kstore.space/ysp.js?id=dfws
+浙江卫视,ku9://https://19938.kstore.space/ysp.js?id=zjws
+湖南卫视,ku9://https://19938.kstore.space/ysp.js?id=hnws
+湖北卫视,ku9://https://19938.kstore.space/ysp.js?id=hbws
+广东卫视,ku9://https://19938.kstore.space/ysp.js?id=gdws
+广西卫视,ku9://https://19938.kstore.space/ysp.js?id=gxws
+黑龙江卫视,ku9://https://19938.kstore.space/ysp.js?id=hljws
+湖南卫视2,ku9://https://19938.kstore.space/ysp.js?id=hnws2
+重庆卫视,ku9://https://19938.kstore.space/ysp.js?id=cqws
+深圳卫视,ku9://https://19938.kstore.space/ysp.js?id=szws
+四川卫视,ku9://https://19938.kstore.space/ysp.js?id=scws
+河南卫视,ku9://https://19938.kstore.space/ysp.js?id=henanws
+福建东南卫视,ku9://https://19938.kstore.space/ysp.js?id=fjdnhz
+贵州卫视,ku9://https://19938.kstore.space/ysp.js?id=gzhws
+江西卫视,ku9://https://19938.kstore.space/ysp.js?id=jxws
+辽宁卫视,ku9://https://19938.kstore.space/ysp.js?id=lnws
+安徽卫视,ku9://https://19938.kstore.space/ysp.js?id=ahws
+湖北卫视2,ku9://https://19938.kstore.space/ysp.js?id=hbws2
+山东卫视,ku9://https://19938.kstore.space/ysp.js?id=sdws
+天津卫视,ku9://https://19938.kstore.space/ysp.js?id=tjws
+吉林卫视,ku9://https://19938.kstore.space/ysp.js?id=jlws
+山西卫视,ku9://https://19938.kstore.space/ysp.js?id=shanxiws
+宁夏卫视,ku9://https://19938.kstore.space/ysp.js?id=nxws
+内蒙古卫视,ku9://https://19938.kstore.space/ysp.js?id=nmgws
+云南卫视,ku9://https://19938.kstore.space/ysp.js?id=ynws
+山西卫视2,ku9://https://19938.kstore.space/ysp.js?id=shanxiws2
+青海卫视,ku9://https://19938.kstore.space/ysp.js?id=qhws
+西藏卫视,ku9://https://19938.kstore.space/ysp.js?id=xzws
+中国教育电视台一套,ku9://https://19938.kstore.space/ysp.js?id=cetv1
+广西公共,ku9://https://19938.kstore.space/ysp.js?id=gxpd
+新疆卫视,ku9://https://19938.kstore.space/ysp.js?id=xjws
