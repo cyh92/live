@@ -1,21 +1,21 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
 #EXTINF:-1 group-title="浙江" tvg-name="浙江卫视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江卫视.png", 浙江卫视
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=01
+ku9://https://cyh92.github.io/live/js/zj.js?id=01
 #EXTINF:-1 group-title="浙江" tvg-name="浙江钱江都市" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江钱江都市.png", 浙江钱江都市
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=02
+ku9://https://cyh92.github.io/live/js/zj.js?id=02
 #EXTINF:-1 group-title="浙江" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江经济生活.png", 浙江经济生活
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=03
+ku9://https://cyh92.github.io/live/js/zj.js?id=03
 #EXTINF:-1 group-title="浙江" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江教科影视.png", 浙江教科影视
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=04
+ku9://https://cyh92.github.io/live/js/zj.js?id=04
 #EXTINF:-1 group-title="浙江" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江民生休闲.png", 浙江民生休闲
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=06
+ku9://https://cyh92.github.io/live/js/zj.js?id=06
 #EXTINF:-1 group-title="浙江" tvg-name="浙江新闻" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江新闻.png", 浙江新闻
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=07
+ku9://https://cyh92.github.io/live/js/zj.js?id=07
 #EXTINF:-1 group-title="浙江" tvg-name="浙江少儿" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江少儿.png", 浙江少儿
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=08
+ku9://https://cyh92.github.io/live/js/zj.js?id=08
 #EXTINF:-1 group-title="浙江" tvg-name="浙江国际" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江国际.png", 浙江国际
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=10
+ku9://https://cyh92.github.io/live/js/zj.js?id=10
 #EXTINF:-1 group-title="浙江" tvg-name="浙江好易购" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/浙江好易购.png", 浙江好易购
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=11
+ku9://https://cyh92.github.io/live/js/zj.js?id=11
 #EXTINF:-1 group-title="浙江" tvg-name="之江纪录" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/之江纪录.png", 之江纪录
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/zj.js?id=12
+ku9://https://cyh92.github.io/live/js/zj.js?id=12
