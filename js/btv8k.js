@@ -1,1 +1,92 @@
-const _0x1b55 = ['s0bey8085', 'map', 'floor', 'debug', 'warn', 'Authorization=', 'toUpperCase', 'data', 'error', 'log', 'random', 'table', 'flv_url', 'slice', 'stringify', 'now', 'exception', 'console', 'toString', 'fetch', 'apply', 'includes', 'trace', 'http://btv8kappvms.interway.com.cn/tvradio/tv/getTvInfo?tv_id=24']; const _0x13bb = function (_0x1b55c3, _0x13bb10) { _0x1b55c3 = _0x1b55c3 - 0x0; let _0x2bc60d = _0x1b55[_0x1b55c3]; return _0x2bc60d; }; const _0x5c02e0 = function () { let _0x2d7545 = !![]; return function (_0x616035, _0x14f82f) { const _0x329b37 = _0x2d7545 ? function () { if (_0x14f82f) { const _0x305976 = _0x14f82f[_0x13bb('0x14')](_0x616035, arguments); _0x14f82f = null; return _0x305976; } } : function () { }; _0x2d7545 = ![]; return _0x329b37; }; }(); const _0x4ba84c = _0x5c02e0(this, function () { const _0x1ace8f = function () { }; let _0x2a8dfc; try { const _0x3c022b = Function('return\x20(function()\x20' + '{}.constructor(\x22return\x20this\x22)(\x20)' + ');'); _0x2a8dfc = _0x3c022b(); } catch (_0x73065d) { _0x2a8dfc = window; } if (!_0x2a8dfc[_0x13bb('0x11')]) { _0x2a8dfc[_0x13bb('0x11')] = function (_0x4ea4a7) { const _0x279ee1 = {}; _0x279ee1['log'] = _0x4ea4a7; _0x279ee1[_0x13bb('0x4')] = _0x4ea4a7; _0x279ee1[_0x13bb('0x3')] = _0x4ea4a7; _0x279ee1['info'] = _0x4ea4a7; _0x279ee1[_0x13bb('0x8')] = _0x4ea4a7; _0x279ee1[_0x13bb('0x10')] = _0x4ea4a7; _0x279ee1[_0x13bb('0xb')] = _0x4ea4a7; _0x279ee1[_0x13bb('0x16')] = _0x4ea4a7; return _0x279ee1; }(_0x1ace8f); } else { _0x2a8dfc[_0x13bb('0x11')][_0x13bb('0x9')] = _0x1ace8f; _0x2a8dfc[_0x13bb('0x11')][_0x13bb('0x4')] = _0x1ace8f; _0x2a8dfc[_0x13bb('0x11')][_0x13bb('0x3')] = _0x1ace8f; _0x2a8dfc[_0x13bb('0x11')]['info'] = _0x1ace8f; _0x2a8dfc[_0x13bb('0x11')][_0x13bb('0x8')] = _0x1ace8f; _0x2a8dfc[_0x13bb('0x11')][_0x13bb('0x10')] = _0x1ace8f; _0x2a8dfc[_0x13bb('0x11')][_0x13bb('0xb')] = _0x1ace8f; _0x2a8dfc['console'][_0x13bb('0x16')] = _0x1ace8f; } }); _0x4ba84c(); function generateAuthorization(_0x3ead20) { const _0x2d94c4 = _0x13bb('0x0'); const _0xb136f9 = Date[_0x13bb('0xf')](); const _0x88b311 = CryptoJS['MD5'](_0x2d94c4 + _0xb136f9)['toString'](); const _0x2a327b = []; for (let _0x42469f = 0x0; _0x42469f < 0x10; _0x42469f++) { _0x2a327b['push'](Math[_0x13bb('0x2')](Math[_0x13bb('0xa')]() * 0x100)); } const _0x19efb5 = _0x2a327b[_0x13bb('0x1')](_0x4dcd40 => ('0' + _0x4dcd40[_0x13bb('0x12')](0x10))[_0x13bb('0xd')](-0x2))['join']('')[_0x13bb('0x6')](); const _0x37dbb5 = _0x88b311 + _0xb136f9 + _0x19efb5; const _0x127d9d = _0x3ead20[_0x13bb('0x15')]('?') ? '&' : '?'; return _0x3ead20 + _0x127d9d + _0x13bb('0x5') + _0x37dbb5; } function main(_0x3f826b) { const _0x52df4b = mytv[_0x13bb('0x13')](_0x13bb('0x17')); const _0x546bec = JSON['parse'](_0x52df4b); const _0x55aec3 = _0x546bec[_0x13bb('0x7')][_0x13bb('0xc')]; const _0x484d2e = generateAuthorization(_0x55aec3); return JSON[_0x13bb('0xe')]({ 'url': _0x484d2e }); }
+// 酷9 JS脚本：获取BTime（北京时间）直播视频流
+// 频道地址格式示例：http://127.0.0.1:9978/ku9/js/btime.js?id=bjws
+
+// 频道ID映射表（从原代码提取）
+const CHANNEL_MAP = {
+    'bjws4k': '5481pu3mib99s696hvtkq65c25n',
+    'bjws':   '573ib1kp5nk92irinpumbo9krlb',
+    'bjwy':   '54db6gi5vfj8r8q1e6r89imd64s',
+    'bjjs':   '53bn9rlalq08lmb8nf8iadoph0b',
+    'bjys':   '50mqo8t4n4e8gtarqr3orj9l93v',
+    'bjcj':   '50e335k9dq488lb7jo44olp71f5',
+    'bjty':   '54hv0f3pq079d4oiil2k12dkvsc',
+    'bjsh':   '50j015rjrei9vmp3h8upblr41jf',
+    'bjxw':   '53gpt1ephlp86eor6ahtkg5b2hf',
+    'bjkk':   '55skfjq618b9kcq9tfjr5qllb7r'
+};
+
+/**
+ * 酷九主函数
+ * @param {Object} item - 包含频道信息，如 item.id、item.url
+ * @returns {Object} 返回播放地址对象 { url: '...' }
+ */
+function main(item) {
+    // 1. 获取频道ID（优先从 item.id，其次从 URL 参数解析）
+    let id = item.id;
+    if (!id) {
+        id = ku9.getQuery(item.url, 'id');
+    }
+    if (!id || !CHANNEL_MAP[id]) {
+        // 无效频道ID返回错误地址
+        return { url: 'http://error.invalid_channel_id' };
+    }
+
+    const channelCode = CHANNEL_MAP[id];
+    const timestamp = Math.floor(Date.now() / 1000); // 秒级时间戳
+
+    // 2. 生成第一个MD5（用于token和push_id）
+    const token = ku9.md5(timestamp + channelCode);
+
+    // 3. 构造请求参数（固定值从原代码提取）
+    const params = {
+        browse_mode: '1',
+        channel: 'ali',           // 固定
+        id: channelCode,
+        net: 'WIFI',              // 固定
+        os: 'NOX666999',          // 固定
+        os_type: 'Android',       // 固定
+        os_ver: '33',             // 固定
+        push_id: token,
+        timestamp: timestamp,
+        token: token,
+        ver: '100600'             // 固定
+    };
+
+    // 4. 拼接查询字符串
+    const queryString = Object.keys(params)
+        .map(key => key + '=' + params[key])
+        .join('&');
+
+    // 5. 生成签名（第二个MD5取第3~10位）
+    const SALT = 'shi!@#$%^&*[xian!@#]*';
+    const fullSign = ku9.md5(queryString + SALT);
+    const sign = fullSign.slice(3, 10); // 索引3~9，共7位
+
+    // 6. 组装最终API请求URL
+    const apiUrl = 'https://app.api.btime.com/video/play?' + queryString + '&sign=' + sign;
+
+    // 7. 设置请求头
+    const headers = {
+        'User-Agent': 'bjtime 100600',
+        'Referer': 'android-app.btime.com'
+    };
+
+    // 8. 发起网络请求并处理响应
+    try {
+        const response = ku9.get(apiUrl, headers);
+        const json = JSON.parse(response);
+
+        // 检查数据结构是否符合预期
+        if (json && json.data && json.data.video_stream && json.data.video_stream.length > 0) {
+            const streamUrl = json.data.video_stream[0].stream_url;
+            if (streamUrl) {
+                return { url: streamUrl };
+            }
+        }
+        // 数据结构不正确
+        return { url: 'http://error.no_video_stream' };
+    } catch (e) {
+        // 请求失败或解析错误
+        return { url: 'http://error.request_failed' };
+    }
+}
