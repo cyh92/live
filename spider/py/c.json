@@ -1,0 +1,88 @@
+{
+  "sites": [
+    {
+      "key": "dszb",
+      "name": "电视直播.py",
+      "type": 3,
+      "api": "./电视直播.py"
+    },
+    {
+      "key": "4kys",
+      "name": "4K影视仓.py",
+      "type": 3,
+      "api": "./4K影视仓.py"
+    },
+    {
+      "key": "bjjc",
+      "name": "芭蕉剧场.py",
+      "type": 3,
+      "api": "./芭蕉剧场.py"
+    },
+    {
+      "key": "dbk",
+      "name": "独播库[影视].py",
+      "type": 3,
+      "api": "./独播库[影视].py"
+    },
+    {
+      "key": "gz",
+      "name": "瓜子.py",
+      "type": 3,
+      "api": "./瓜子.py"
+    },
+    {
+      "key": "gy",
+      "name": "观影.py",
+      "type": 3,
+      "api": "./观影.py"
+    },
+    {
+      "key": "hgys",
+      "name": "红果影视.py",
+      "type": 3,
+      "api": "./红果影视.py"
+    },
+    {
+      "key": "jm",
+      "name": "剧迷.py",
+      "type": 3,
+      "api": "./剧迷.py"
+    },
+    {
+      "key": "nmys",
+      "name": "农民影视.py",
+      "type": 3,
+      "api": "./农民影视.py"
+    },
+    {
+      "key": "qnys",
+      "name": "青鸟影视.py",
+      "type": 3,
+      "api": "./青鸟影视.py"
+    },
+    {
+      "key": "gb2",
+      "name": "广播2.py",
+      "type": 3,
+      "api": "./广播2.py"
+    },
+    {
+      "key": "qtbk",
+      "name": "蜻蜓播客[听](1).py",
+      "type": 3,
+      "api": "./蜻蜓播客[听](1).py"
+    },
+    {
+      "key": "yzyy",
+      "name": "影子音乐.py",
+      "type": 3,
+      "api": "./影子音乐.py"
+    },
+    {
+      "key": "yzyy2",
+      "name": "影子音乐 (1).py",
+      "type": 3,
+      "api": "./影子音乐 (1).py"
+    }
+  ]
+}
