@@ -1016,12 +1016,24 @@
       "name": "影子音乐.py",
       "type": 3,
       "api": "../spider/py/影子音乐.py"
+    },   
+    {
+      "key": "mgtv",
+      "name": "芒果.py",
+      "type": 3,
+      "api": "../spider/py/芒果.py"
     },
     {
-      "key": "yzyy2",
-      "name": "影子音乐 (1).py",
+      "key": "ccdjw",
+      "name": "蚕驰短剧网.py",
       "type": 3,
-      "api": "../spider/py/影子音乐 (1).py"
+      "api": "../spider/py/蚕驰短剧网.py"
+    },
+    {
+      "key": "sdysw",
+      "name": "闪电影视.py",
+      "type": 3,
+      "api": "../spider/py/闪电影视.py"
     },
     {
       "key": "csp_Qiyou",
