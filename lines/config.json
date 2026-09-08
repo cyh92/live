@@ -937,6 +937,93 @@
       "api": "csp_XuanFeng"
     },
     {
+      "key": "dszb",
+      "name": "电视直播.py",
+      "type": 3,
+      "api": "../spider/py/电视直播.py"
+    },
+    {
+      "key": "4kys",
+      "name": "4K影视仓.py",
+      "type": 3,
+      "api": "../spider/py/4K影视仓.py"
+    },
+    {
+      "key": "bjjc",
+      "name": "芭蕉剧场.py",
+      "type": 3,
+      "api": "../spider/py/芭蕉剧场.py"
+    },
+    {
+      "key": "dbk",
+      "name": "独播库[影视].py",
+      "type": 3,
+      "api": "../spider/py/独播库[影视].py"
+    },
+    {
+      "key": "gz",
+      "name": "瓜子.py",
+      "type": 3,
+      "api": "../spider/py/瓜子.py"
+    },
+    {
+      "key": "gy",
+      "name": "观影.py",
+      "type": 3,
+      "api": "../spider/py/观影.py"
+    },
+    {
+      "key": "hgys",
+      "name": "红果影视.py",
+      "type": 3,
+      "api": "../spider/py/红果影视.py"
+    },
+    {
+      "key": "jm",
+      "name": "剧迷.py",
+      "type": 3,
+      "api": "../spider/py/剧迷.py",
+      "extend": {
+        "cookie": "cf_clearance=bfjeRcvAYbyJugJgdmh568smTRLxC9HIvTdominT4Fg-1788827865-1.2.1.1-rlyk.SlMBE7wfUFeoojR.a2nSUrojqgGQ0IGJgzN5CwaeztX2ae4Wva4ew4H7LsC_b5swDpXcXeKPYWdX6bm9wTapO1OCF05DGln0ytVhHRgWGb4N2DoQNR.LSI_MPTQeQtyZtBFsDIHgodw785q3sqEtLA8s9wPzoYNgFjKeDKLulueZ3J..9mEuKfoOo_NOTUp9PMVO8uVgoORZj52lJsgJVSnkVoWgCnbYPvEdhmDa5IloN6UvhzAkZiVbbfJ3QgjUOyZULdc2ZT2HfUAiYhAdj.pFZGS5yH2dYN73Yh0eAuhiFdjnfl1nBDTl6GZ5OXSESuCEFyJzR_c04JMe_3kZN_fgmRUWuYOHBtV4iEhVW2nYicDZlhsVUeN6L6SQGcfxmAvvJf4DbEoiFS.1PMsrkn6YvW9EGaebiTkVNV3PbG4Q202NzQ_DeY1bpiUHkLCBr8WUS8wGQfyksWh8hwqDL.373ghIc_UslBBlwnoa1casVO9o13W_Tge5sEpBr0u.0QANscYS0mAbvSb6Q"
+      }
+    },
+    {
+      "key": "nmys",
+      "name": "农民影视.py",
+      "type": 3,
+      "api": "../spider/py/农民影视.py"
+    },
+    {
+      "key": "qnys",
+      "name": "青鸟影视.py",
+      "type": 3,
+      "api": "../spider/py/青鸟影视.py"
+    },
+    {
+      "key": "gb2",
+      "name": "广播2.py",
+      "type": 3,
+      "api": "../spider/py/广播2.py"
+    },
+    {
+      "key": "qtbk",
+      "name": "蜻蜓播客[听](1).py",
+      "type": 3,
+      "api": "../spider/py/蜻蜓播客[听](1).py"
+    },
+    {
+      "key": "yzyy",
+      "name": "影子音乐.py",
+      "type": 3,
+      "api": "../spider/py/影子音乐.py"
+    },
+    {
+      "key": "yzyy2",
+      "name": "影子音乐 (1).py",
+      "type": 3,
+      "api": "../spider/py/影子音乐 (1).py"
+    },
+    {
       "key": "csp_Qiyou",
       "name": "🦌奇优",
       "type": 3,
@@ -1626,6 +1713,11 @@
       "name": "FM",
       "type": 0,
       "url": "../source/fm.txt"
+    },
+    {
+      "name": "广播",
+      "type": 0,
+      "url": "../source/radio.txt"
     },
     {
       "name": "局域网代理源",
