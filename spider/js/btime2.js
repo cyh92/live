@@ -1,54 +1,22 @@
 function main(item) {
-    var usid = "6b79f49eae0d11e79869421735925e22";  // 固定 usid
-    var uri = item.url;
-    var pid = ku9.getQuery(uri, "id");
-    var r = {
-        'url': '',
-        'headers': {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36',
-            'Referer': 'https://www.btime.com/',
-            'Origin': 'https://www.btime.com',
-        },
-        'player': 3
-    };
+    // 原始链接（t 参数会被动态替换）
+    var baseUrl = "https://www.9kds.com/cn/cn_play.php?p=bj&c=1&s=0";
 
-    var cacheKey = 'btime_' + pid;
-    var cachePlayUrl = ku9.getCache(cacheKey);
-    if (cachePlayUrl !== null) {
-        r.url = cachePlayUrl;
-        return JSON.stringify(r);
-    }
+    // 其他固定参数（如果将来需要动态变化，可在此处修改）
+    var sign = "4c2a3f568246bdf4a3a438de6a46c3f7";
 
-    try {
-        var t = Math.round(new Date().getTime() / 1000).toString();
-        var t2 = Math.round(new Date().getTime()).toString();
-        // 使用字符串拼接替代模板字符串
-        var sign = ku9.md5(pid + "151" + t + "TtJSg@2g*$K4PjUH").slice(0, 8);
-        var url = "https://pc.api.btime.com/video/play?from=pc&id=" + pid + "&type_id=151&timestamp=" + t + "&sign=" + sign + "&_=" + t2;
+    // 获取当前时间戳（秒级）
+    var t = Math.round(new Date().getTime() / 1000).toString();
 
-        var headers = {
+    // 拼接新的完整链接
+    var newUrl = baseUrl + "&t=" + t + "&sign=" + sign;
+
+    // 返回酷9要求的标准 JSON 格式
+    return JSON.stringify({
+        url: newUrl,
+        headers: {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            'Referer': 'https://www.btime.com/',
-            'Origin': 'https://www.btime.com',
-            "Cookie": "usid=" + usid + "; lf=1"
-        };
-
-        var res = ku9.get(url, headers);
-        var jsonData = JSON.parse(res);
-        if (!jsonData || !jsonData.data || !jsonData.data.video_stream || !jsonData.data.video_stream[0]) {
-            throw new Error("Invalid response structure");
+            "Referer": "https://www.9kds.com/"
         }
-        var stream_url = jsonData.data.video_stream[0].stream_url;
-        if (!stream_url.startsWith('http')) {
-            // 反转字符串并两次 base64 解码
-            stream_url = ku9.decodeBase64(ku9.decodeBase64(stream_url.split('').reverse().join('')));
-        }
-        // 缓存30分钟（毫秒）
-        ku9.setCache(cacheKey, stream_url, 1800000);
-        r.url = stream_url;
-    } catch (e) {
-        // 出错时返回空地址，避免影响整体
-        r.url = "";
-    }
-    return JSON.stringify(r);
+    });
 }
