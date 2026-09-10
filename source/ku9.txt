@@ -12,8 +12,8 @@ CCTV16-4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=CCTV16_4K&dur=
 
 
 北京,#genre#
-北京卫视,video://https://www.9kds.com/cn/bj.php?ch=1
-北京文艺,video://https://www.9kds.com/cn/bj.php?ch=2
+北京卫视,webview://https://www.9kds.com/cn/bj.php?ch=1
+北京文艺,webview://https://www.9kds.com/cn/bj.php?ch=2
 央视频,#genre#
 CCTV-1高清,ku9://https://cyh92.github.io/live/spider/js/ysp.js?id=cctv1
 CCTV-2高清,ku9://https://cyh92.github.io/live/spider/js/ysp.js?id=cctv2
