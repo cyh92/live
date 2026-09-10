@@ -21,6 +21,7 @@ CCTV-17,webview://https://yangshipin.cn/tv/home?pid=600001810
 CCTV-4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV-8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 
+CCTV-4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -371,14 +372,19 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 香港卫视,webview://https://www.hkstv.tv/live
 
 4K🌟频道,#genre#
-北京卫视4K,http://123.207.224.130:123/beijing/beijing.php?id=bjws4k
+东方卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
+广东卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
+湖南卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
+江苏卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
+四川卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
+山东卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
+深圳卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
+浙江卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
+
 深圳卫视4K,webview://https://www.sztv.com.cn/pindao/index.html?liveId=R77mK1v
 东方卫视4K,webview://https://live.kankanews.com/huikan?id=1
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
 少儿✯频道,#genre#
@@ -405,6 +411,8 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 『港✯澳』V,#genre#
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
+凤凰中文台,ku9://https://cyh92.github.io/live/spider/js/js/fenghuang.js?id=1016529
 
 生活台,http://iptv.4666888.xyz/iptv2A.php?id=11
 20,http://iptv.4666888.xyz/iptv2A.php?id=20
@@ -778,6 +786,14 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 淮北新闻综合,video://https://www.hbnews.net/tv/
 
 『河✯北』V,#genre#
+河北经济生活,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbjjsh
+河北三农频道,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbsn
+河北都市,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbds
+河北影视剧,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbysj
+河北少儿科教,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbse
+河北文旅公共,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbwl
+河北三佳购物,ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbgw
+
 河北经济生活,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 河北经济生活,webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 河北农民频道,video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
@@ -805,6 +821,17 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 邢台城市生活,video://https://www.xttv.com.cn/index/channel/index/id/64.html
 
 『浙✯江』V,#genre#
+浙江卫视,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=01
+浙江钱江都市,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=02
+浙江经济生活,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=03
+浙江教科影视,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=04
+浙江民生休闲,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=06
+浙江新闻,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=07
+浙江少儿,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=08
+浙江国际,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=10
+浙江好易购,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=11
+之江纪录,ku9://https://cyh92.github.io/live/spider/js/zj.js?id=12
+
 浙江钱江,video://https://www.cztv.com/liveTV/102
 浙江经济生活,video://https://www.cztv.com/liveTV/103
 浙江教科影视,video://https://www.cztv.com/liveTV/104
@@ -1171,6 +1198,14 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 
 
 『吉✯林』,#genre#
+吉林卫视,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=jlws
+吉林都市,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=ds
+吉林生活,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=sh
+吉林影视,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=ys
+吉林乡村,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=xc
+吉林综艺文化,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=zy
+长春综合,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=cc
+
 延边朝鲜语综合,webview://https://www.yb983.com/ybtv1/index.html
 延边汉语综合,webview://https://www.yb983.com/ybtv2/index.html
 吉林市综合,video://https://www.jlcgbdstxmt.com/application/tvradio/h5/detail.html?type=tv&id=11
