@@ -21,7 +21,7 @@ CCTV-17,webview://https://yangshipin.cn/tv/home?pid=600001810
 CCTV-4K,webview://https://yangshipin.cn/tv/home?pid=600002264
 CCTV-8K,webview://https://yangshipin.cn/tv/home?pid=600156816
 
-CCTV-4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
+CCTV-4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 
 北京卫视,webview://https://yangshipin.cn/tv/home?pid=600002309
 东方卫视,webview://https://yangshipin.cn/tv/home?pid=600002483
@@ -68,6 +68,7 @@ CETV4,webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca9
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying.m3u8
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 
+重温经典,http://8.138.7.223/tv/cwjd.php
 流金岁月,http://CCTV.sohu.blog/1905.php?t=1&id=LIVEOYY31H24H48NE
 
 『央卫代理』,#genre#
@@ -133,7 +134,6 @@ CHC影迷电影,http://173.208.128.194:82/live/chchd.m3u8?jsbt=1787453321&jsbk=4
 CHC动作电影,http://173.208.128.194:82/live/chcdz.m3u8?jsbt=1787453334&jsbk=9deb8b3d18fce9bf620861113982dd89
 CHC家庭影院,http://173.208.128.194:82/live/chcjt.m3u8?jsbt=1787453347&jsbk=feaa6ea072ecf6d85aff8e7f57c705dc
 
-重温经典,http://8.138.7.223/tv/cwjd.php
 
 『央视官网』,#genre#
 CCTV1,webview://https://tv.CCTV.cn/live/cctv1
@@ -372,14 +372,14 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 香港卫视,webview://https://www.hkstv.tv/live
 
 4K🌟频道,#genre#
-东方卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
-广东卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
-湖南卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
-江苏卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
-四川卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
-山东卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
-深圳卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
-浙江卫视4K,ku9://https://cyh92.github.io/live/spider/js/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
+东方卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
+广东卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
+湖南卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
+江苏卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
+四川卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
+山东卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
+深圳卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
+浙江卫视4K,ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
 
 深圳卫视4K,webview://https://www.sztv.com.cn/pindao/index.html?liveId=R77mK1v
 东方卫视4K,webview://https://live.kankanews.com/huikan?id=1
@@ -412,7 +412,7 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-凤凰中文台,ku9://https://cyh92.github.io/live/spider/js/js/fenghuang.js?id=1016529
+凤凰中文台,ku9://https://cyh92.github.io/live/spider/js/fenghuang.js?id=1016529
 
 生活台,http://iptv.4666888.xyz/iptv2A.php?id=11
 20,http://iptv.4666888.xyz/iptv2A.php?id=20
@@ -729,13 +729,14 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 
 
 『北✯京』V,#genre#
-北京文艺,http://123.207.224.130:123/beijing/beijing.php?id=bjwy
-北京纪实科教,http://123.207.224.130:123/beijing/beijing.php?id=bjjs
-北京影视,http://123.207.224.130:123/beijing/beijing.php?id=bjys
-北京财经,http://123.207.224.130:123/beijing/beijing.php?id=bjcj
-北京生活,http://123.207.224.130:123/beijing/beijing.php?id=bjsh
-北京新闻,http://123.207.224.130:123/beijing/beijing.php?id=bjxw
-卡酷少儿,http://123.207.224.130:123/beijing/beijing.php?id=bjkk
+北京文艺,webview://https://www.9kds.com/cn/bj.php?ch=2
+北京影视,webview://https://www.9kds.com/cn/bj.php?ch=3
+北京纪实科教,webview://https://www.9kds.com/cn/bj.php?ch=4
+北京财经,webview://https://www.9kds.com/cn/bj.php?ch=5
+北京新闻,webview://https://www.9kds.com/cn/bj.php?ch=6
+北京生活,webview://https://www.9kds.com/cn/bj.php?ch=7
+北京体育休闲,webview://https://www.9kds.com/cn/bj.php?ch=8
+卡酷少儿,webview://https://www.9kds.com/cn/bj.php?ch=9
 
 
 顺义综合频道,http://livebjsy.chinamcache.com/live/zb01.m3u8
@@ -1198,13 +1199,13 @@ TVB Plus,http://74.91.26.218:82/live/j2.m3u8
 
 
 『吉✯林』,#genre#
-吉林卫视,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=jlws
-吉林都市,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=ds
-吉林生活,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=sh
-吉林影视,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=ys
-吉林乡村,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=xc
-吉林综艺文化,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=zy
-长春综合,ku9://https://cyh92.github.io/live/spider/js/js/jlntv.js?id=cc
+吉林卫视,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=jlws
+吉林都市,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=ds
+吉林生活,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=sh
+吉林影视,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=ys
+吉林乡村,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=xc
+吉林综艺文化,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=zy
+长春综合,ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=cc
 
 延边朝鲜语综合,webview://https://www.yb983.com/ybtv1/index.html
 延边汉语综合,webview://https://www.yb983.com/ybtv2/index.html
