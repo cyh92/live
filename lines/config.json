@@ -1035,6 +1035,14 @@
       "type": 3,
       "api": "../spider/py/闪电影视.py"
     },
+
+        {
+                  "key": "juzhi",
+                        "name": "橘汁视频.py",
+                              "type": 3,
+                                    "api": "../spider/py/橘汁视频.py"
+        },
+        
     {
       "key": "csp_Qiyou",
       "name": "🦌奇优",
