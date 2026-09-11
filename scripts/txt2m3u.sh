@@ -1,7 +1,6 @@
 #!/bin/bash
 set -e
 
-# 判断参数数量
 if [ $# -ne 2 ]; then
     echo "用法: $0 输入.txt 输出.m3u"
     echo "示例: $0 live.txt live.m3u"
@@ -10,7 +9,7 @@ fi
 
 IN_FILE="$1"
 OUT_FILE="$2"
-#
+
 if [ ! -f "${IN_FILE}" ]; then
     echo "错误：输入文件 ${IN_FILE} 不存在！"
     exit 1
@@ -20,12 +19,29 @@ GLOBAL_ATTR='x-tvg-url="https://cnb.cool/my_team/live/-/git/raw/main/playback.xm
 
 echo "#EXTM3U ${GLOBAL_ATTR}" > "${OUT_FILE}"
 
+# 保存当前分组名称
+current_group=""
+
 while IFS= read -r line; do
     [[ -z "${line}" ]] && continue
-    name=$(echo "$line" | cut -d',' -f1)
-    url=$(echo "$line" | cut -d',' -f2)
-    echo "#EXTINF:-1,${name}" >> "${OUT_FILE}"
-    echo "${url}" >> "${OUT_FILE}"
+    [[ "${line}" == \#* ]] && continue
+
+    col1=$(echo "$line" | cut -d',' -f1)
+    col2=$(echo "$line" | cut -d',' -f2)
+
+    # 判断分组标记行：xxx,#genre#
+    if [[ "${col2}" == "#genre#" ]]; then
+        current_group="${col1}"
+        continue
+    fi
+
+    # 普通频道行
+    ch_name="${col1}"
+    ch_url="${col2}"
+
+    # 拼接EXTINF，带上分组
+    echo "#EXTINF:-1 group-title=\"${current_group}\",${ch_name}" >> "${OUT_FILE}"
+    echo "${ch_url}" >> "${OUT_FILE}"
 done < "${IN_FILE}"
 
 echo "✅ 转换完成：${OUT_FILE}"
