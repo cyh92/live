@@ -10,7 +10,7 @@ fi
 
 IN_FILE="$1"
 OUT_FILE="$2"
-
+#
 if [ ! -f "${IN_FILE}" ]; then
     echo "错误：输入文件 ${IN_FILE} 不存在！"
     exit 1
