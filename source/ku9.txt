@@ -159,3 +159,23 @@ CCTV-卫生健康,http://bztv.tvbus.cc:8081/cdnlive/wsjk.m3u8
 
 Demo,#genre#
 示例,ku9://https://cyh92.github.io/live/spider/js/demo.js
+陕西,#genre#
+陕西卫视,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=star
+陕西新闻资讯,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=1
+陕西都市青春,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=2
+陕西家庭生活,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=3
+陕西影视娱乐,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=5
+陕西公共,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=7
+陕西农林卫视,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=nl
+陕西乐家购物,ku9://https://cyh92.github.io/live/spider/js/snrtv.js?id=11
+江苏,#genre#
+江苏卫视,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsws
+江苏城市,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jscs
+江苏综艺,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jszy
+江苏影视,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsys
+江苏新闻,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsxw
+江苏教育,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsjy
+江苏体育,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsty
+江苏国际,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsgj
+优漫卡通,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=ymkt
+江苏卫视4K,ku9://https://cyh92.github.io/live/spider/js/jstv.js?id=jsws4k
