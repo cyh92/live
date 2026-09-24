@@ -1,138 +1,123 @@
-// 酷9 JS 脚本 - 陕西网络广播电视台（snrtv）直播代理
-// 使用方式：http://your-server/ku9/js/snrtv.js?id=star
-// 支持频道：star / 1 / 2 / 3 / 5 / 7 / nl / 11
+// 酷9 JS脚本：陕西广电（SNRTV）直播流
+// 频道地址格式示例：http://127.0.0.1:9978/ku9/js/snrtv.js?id=star
 
+// ========== 配置常量 ==========
+const STREAM_JS = 'http://toutiao.cnwest.com/static/v1/stream.js';
+const UA = 'Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36';
+const REFERER = 'http://m.snrtv.com/';
+
+// 频道 ID → hash 映射（从原 programGuides.js 提取）
+const VIDEO_HASH_MAP = {
+    'star': 8,   // 陕西卫视
+    '1':    1,
+    '2':    2,
+    '3':    3,
+    '5':    5,
+    '7':    7,
+    'nl':   9,   // 农林卫视
+    '11':   11
+};
+
+/**
+ * 从 stream.js 中提取 sTV/sRadio 并解密出 JSON
+ * 官网算法：key = sTV 前16字符, iv = sRadio 前16字符, 密文 = sTV 第16字符起
+ * @param {string} js - stream.js 文件内容
+ * @returns {Object} 解密后的频道列表 JSON
+ */
+function decryptStreamJs(js) {
+    const tvMatch = js.match(/var\s+sTV\s*=\s*"([^"]+)"/);
+    const radioMatch = js.match(/var\s+sRadio\s*=\s*"([^"]+)"/);
+    if (!tvMatch || !radioMatch) {
+        throw new Error('未找到 sTV/sRadio');
+    }
+
+    const sTV = tvMatch[1];
+    const sRadio = radioMatch[1];
+
+    // key = sTV 前16字符, iv = sRadio 前16字符, 密文 = sTV 第16字符起
+    const key = sTV.substring(0, 16);
+    const iv = sRadio.substring(0, 16);
+    const cipherBase64 = sTV.substring(16);
+
+    // 使用酷9内置 AES 解密（ZeroPadding）
+    // 参数：密文(Base64), 算法, 密钥, 输入类型(0=Base64), IV
+    let decrypted = ku9.opensslDecrypt(cipherBase64, 'AES-128-CBC', key, 0, iv);
+
+    // 去除尾部空字节（ZeroPadding 手动处理）
+    decrypted = decrypted.replace(/\0+$/, '');
+
+    // 截取 JSON 部分
+    const start = decrypted.indexOf('{');
+    const end = decrypted.lastIndexOf('}');
+    if (start === -1 || end === -1) {
+        throw new Error('解密结果非 JSON');
+    }
+
+    return JSON.parse(decrypted.substring(start, end + 1));
+}
+
+/**
+ * 酷9主函数
+ * @param {Object} item - 包含频道信息，如 item.id、item.url
+ * @returns {Object} 返回播放地址对象 { url, headers }
+ */
 function main(item) {
-    var uri = item.url;
+    // 1. 获取频道 ID（优先 item.id，其次 URL 参数 id）
+    let chId = item.id;
+    if (!chId) {
+        chId = ku9.getQuery(item.url, 'id');
+    }
+    if (!chId) {
+        chId = 'star';
+    }
+    try {
+        chId = decodeURIComponent(chId);
+    } catch (e) {}
 
-    // 从 URL 中提取频道 ID，默认为 "star"
-    var chId = 'star';
-    if (uri) {
-        var q = ku9.getQuery(uri, "id");
-        if (q) {
-            chId = q;
-        } else {
-            // 兼容路径形式 /snrtv/star
-            var segs = uri.split('/');
-            var last = segs[segs.length - 1];
-            if (last && last.indexOf('.') === -1) {
-                chId = last;
-            }
-        }
+    // 2. 映射到目标 hash 值
+    const targetNum = VIDEO_HASH_MAP[chId] || 8;
+
+    // 3. 获取 stream.js 内容
+    let jsContent;
+    try {
+        jsContent = ku9.get(STREAM_JS, {
+            'User-Agent': UA,
+            'Referer': REFERER
+        });
+    } catch (e) {
+        return { url: 'http://error.fetch_stream_js_failed' };
     }
 
-    // 频道号映射（与官网 programGuides.js 一致）
-    var videoHashMap = {
-        'star': 8,
-        '1':    1,
-        '2':    2,
-        '3':    3,
-        '5':    5,
-        '7':    7,
-        'nl':   9,
-        '11':   11
-    };
-    var targetNum = videoHashMap[chId] || 8;
-
-    // 获取频道列表（带缓存）
-    var tvList = loadTvList();
-    if (!tvList) {
-        return JSON.stringify({ url: '', error: '获取频道列表失败' });
+    // 4. 解密并解析频道列表
+    let tvList;
+    try {
+        tvList = decryptStreamJs(jsContent);
+    } catch (e) {
+        return { url: 'http://error.decrypt_failed' };
     }
 
-    // 查找目标频道
-    var found = null;
+    // 5. 根据 targetNum 查找对应的流地址
+    let found = null;
     if (Array.isArray(tvList)) {
-        for (var i = 0; i < tvList.length; i++) {
-            var it = tvList[i];
-            if (String(it.num || it.id || it.channel) === String(targetNum)) {
-                found = it;
-                break;
-            }
-        }
+        found = tvList.find(function(it) {
+            return String(it.num || it.id || it.channel) === String(targetNum);
+        });
     } else if (typeof tvList === 'object') {
         found = tvList[String(targetNum)] || tvList[chId];
     }
 
     if (!found) {
-        return JSON.stringify({ url: '', error: '未找到频道: ' + chId });
+        return { url: 'http://error.channel_not_found' };
     }
 
-    var m3u8 = found.m3u8 || found.url || found.src;
+    const m3u8 = found.m3u8 || found.url || found.src;
     if (!m3u8) {
-        return JSON.stringify({ url: '', error: '未找到播放地址' });
+        return { url: 'http://error.no_stream_url' };
     }
 
-    return JSON.stringify({
+    // 6. 返回播放地址（带请求头）
+    return {
         url: m3u8,
-        headers: {
-            'User-Agent': 'okhttp/3.12.11',
-            'Referer': 'http://m.snrtv.com/'
-        }
-    });
-}
-
-// ===== 获取并解密频道列表 =====
-function loadTvList() {
-    var CACHE_KEY = 'snrtv_tvlist';
-    var STREAM_JS = 'http://toutiao.cnwest.com/static/v1/stream.js';
-
-    // 1. 尝试从缓存读取
-    var cached = ku9.getCache(CACHE_KEY);
-    if (cached) {
-        try {
-            return JSON.parse(cached);
-        } catch (e) {
-            // 缓存损坏，继续重新获取
-        }
-    }
-
-    // 2. 请求 stream.js
-    var js = ku9.get(STREAM_JS, {
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36',
-        'Referer': 'http://m.snrtv.com/'
-    });
-
-    if (!js) return null;
-
-    // 3. 提取 sTV / sRadio
-    var tvMatch = js.match(/var\s+sTV\s*=\s*"([^"]+)"/);
-    var radioMatch = js.match(/var\s+sRadio\s*=\s*"([^"]+)"/);
-    if (!tvMatch || !radioMatch) return null;
-
-    var sTV = tvMatch[1];
-    var sRadio = radioMatch[1];
-
-    // 4. 解密：key = sTV 前16字符，iv = sRadio 前16字符，密文 = sTV 第16字符起
-    var key = sTV.substring(0, 16);
-    var iv = sRadio.substring(0, 16);
-    var cipher = sTV.substring(16);
-
-    var jsonStr;
-    try {
-        // ku9.opensslDecrypt(key, iv, type, data)
-        // 官网使用 ZeroPadding，这里解密后需去除尾部 \0
-        jsonStr = ku9.opensslDecrypt(key, iv, 'AES-128-CBC', cipher);
-        // 去除尾部空字节（ZeroPadding 残留）
-        jsonStr = jsonStr.replace(/\0+$/, '');
-    } catch (e) {
-        return null;
-    }
-
-    // 5. 提取 JSON 部分
-    var start = jsonStr.indexOf('{');
-    var end = jsonStr.lastIndexOf('}');
-    if (start === -1 || end === -1) return null;
-
-    var data;
-    try {
-        data = JSON.parse(jsonStr.substring(start, end + 1));
-    } catch (e) {
-        return null;
-    }
-
-    // 6. 写入缓存（30 分钟）
-    ku9.setCache(CACHE_KEY, JSON.stringify(data), 1800000);
-
-    return data;
+        headers: { 'User-Agent': 'okhttp/3.12.11' }
+    };
 }

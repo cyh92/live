@@ -1,67 +1,85 @@
-// 酷9 JS 脚本 - 江苏电视台直播代理
-// 使用方式：http://your-server/ku9/js/jstv.js?id=jsws
-// 支持频道：jsws / jscs / jszy / jsys / jsxw / jsjy / jsty / jsgj / ymkt / jsws4k
+// 酷9 JS脚本：江苏电视台直播流（JSTV）
+// 频道地址格式示例：http://127.0.0.1:9978/ku9/js/jstv.js?id=jsws
 
+// ========== 配置常量 ==========
+const SECRET_KEY = 'tJanAHkyGtaifaQG4dWe';
+const REFERER = 'https://live.jstv.com/';
+const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+
+// 频道 ID 映射表（简写 → 实际频道标识）
+const CHANNEL_MAP = {
+    'jsws':   'jswspro',    // 江苏卫视
+    'jscs':   'jscspro',    // 江苏城市
+    'jszy':   'jszypro',    // 江苏综艺
+    'jsys':   'jsyspro',    // 江苏影视
+    'jsxw':   'jsxwpro',    // 江苏新闻
+    'jsjy':   'jsjypro',    // 江苏教育
+    'jsty':   'jsxxpro',    // 江苏体育（休闲）
+    'jsgj':   'jsgjpro',    // 江苏国际
+    'ymkt':   'ymktpro',    // 优漫卡通
+    'jsws4k': 'jsws4kpro'   // 江苏卫视4K
+};
+
+/**
+ * 构建带签名的 m3u8 播放地址
+ * @param {string} chId - 频道简写 ID
+ * @returns {Object} { channelKey, url }
+ */
+function buildUrl(chId) {
+    const channelKey = CHANNEL_MAP[chId] || CHANNEL_MAP['jsws'];
+
+    // 签名时间：当前时间 + 180 秒（有效期 3 分钟）
+    const txTime = Math.floor(Date.now() / 1000) + 180;
+    const txTimeHex = txTime.toString(16);
+
+    // 使用酷9内置 MD5 计算签名
+    const txSecret = ku9.md5(SECRET_KEY + channelKey + txTimeHex);
+
+    return {
+        channelKey: channelKey,
+        url: 'https://litchi-play-encrypted-site.jstv.com/applive/' +
+             channelKey + '.m3u8?txSecret=' + txSecret + '&txTime=' + txTimeHex
+    };
+}
+
+/**
+ * 酷9主函数
+ * @param {Object} item - 包含频道信息，如 item.id、item.url
+ * @returns {Object} 返回播放地址对象 { url: '...', headers: {...} }
+ */
 function main(item) {
-    var SECRET_KEY = 'tJanAHkyGtaifaQG4dWe';
-    var REFERER = 'https://live.jstv.com/';
-    var UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+    // 1. 获取频道 ID
+    //    优先顺序：item.id → URL 参数 id → URL 参数 url → 默认 jsws
+    let chId = item.id;
+    if (!chId) {
+        chId = ku9.getQuery(item.url, 'id');
+    }
+    if (!chId) {
+        chId = ku9.getQuery(item.url, 'url');
+    }
+    if (!chId) {
+        chId = 'jsws';
+    }
+    // URL 解码（防止传入时被编码）
+    try {
+        chId = decodeURIComponent(chId);
+    } catch (e) {}
 
-    var CHANNEL_MAP = {
-        'jsws': 'jswspro',
-        'jscs': 'jscspro',
-        'jszy': 'jszypro',
-        'jsys': 'jsyspro',
-        'jsxw': 'jsxwpro',
-        'jsjy': 'jsjypro',
-        'jsty': 'jsxxpro',
-        'jsgj': 'jsgjpro',
-        'ymkt': 'ymktpro',
-        'jsws4k': 'jsws4kpro'
+    // 2. 生成带签名的播放地址
+    const result = buildUrl(chId);
+    const m3u8Url = result.url;
+
+    // 3. 设置请求头（JSTV 必须带 Referer 才能播放）
+    const headers = {
+        'Referer': REFERER,
+        'User-Agent': UA
     };
 
-    // 解析频道 ID
-    var chId = 'jsws';
-    var uri = item.url;
-    if (uri) {
-        // 优先从 ?id= 获取
-        var idParam = ku9.getQuery(uri, "id");
-        if (idParam) {
-            chId = idParam;
-        } else {
-            // 兼容 ?url= 参数
-            var urlParam = ku9.getQuery(uri, "url");
-            if (urlParam) {
-                chId = urlParam;
-            } else {
-                // 兼容路径最后一段，如 /jstv.js/jsws
-                var segs = uri.split('/');
-                var last = segs[segs.length - 1];
-                if (last && last.indexOf('.') === -1) {
-                    chId = last;
-                }
-            }
-        }
-    }
-
-    // 获取 channelKey
-    var channelKey = CHANNEL_MAP[chId] || CHANNEL_MAP['jsws'];
-
-    // 生成签名
-    var txTime = Math.floor(new Date().getTime() / 1000) + 180;
-    var txTimeHex = txTime.toString(16);
-    var signStr = SECRET_KEY + channelKey + txTimeHex;
-    var txSecret = ku9.md5(signStr);
-
-    // 拼接最终 m3u8 地址
-    var m3u8Url = 'https://litchi-play-encrypted-site.jstv.com/applive/' + channelKey + '.m3u8?txSecret=' + txSecret + '&txTime=' + txTimeHex;
-
-    // 返回酷9标准格式
-    return JSON.stringify({
+    // 4. 返回给酷9播放器
+    //    player: 0 表示系统解码（如播放异常可改为 1=ijk 或 3=exo）
+    return {
         url: m3u8Url,
-        headers: {
-            'Referer': REFERER,
-            'User-Agent': UA
-        }
-    });
+        headers: headers,
+        player: 0
+    };
 }
