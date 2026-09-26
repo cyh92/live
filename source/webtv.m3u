@@ -42,7 +42,7 @@ webview://https://yangshipin.cn/tv/home?pid=600002264
 #EXTINF:-1 group-title="『央卫视频』",CCTV-8K
 webview://https://yangshipin.cn/tv/home?pid=600156816
 #EXTINF:-1 group-title="『央卫视频』",CCTV-4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=CCTV_4K&dur=10.001&offset=162424040
 #EXTINF:-1 group-title="『央卫视频』",北京卫视
 webview://https://yangshipin.cn/tv/home?pid=600002309
 #EXTINF:-1 group-title="『央卫视频』",东方卫视
@@ -128,7 +128,7 @@ https://t.freetv.fun/live/chcjia-ting-ying-yuan.m3u8
 #EXTINF:-1 group-title="『央卫视频』",重温经典
 http://8.138.7.223/tv/cwjd.php
 #EXTINF:-1 group-title="『央卫视频』",重温经典
-ku9://https://cyh92.github.io/live/spider/js/cwjd.js
+js://https://cyh92.github.io/live/spider/js/cwjd.js
 #EXTINF:-1 group-title="『央卫视频』",流金岁月
 http://CCTV.sohu.blog/1905.php?t=1&id=LIVEOYY31H24H48NE
 #EXTINF:-1 group-title="『央视官网』",CCTV1
@@ -580,21 +580,21 @@ https://srs.iyb983.cn/video/CYS/index.m3u8
 #EXTINF:-1 group-title="『卫视官网』",香港卫视
 webview://https://www.hkstv.tv/live
 #EXTINF:-1 group-title="4K🌟频道",东方卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=dfws4K&dur=10.0066&offset=175802900
 #EXTINF:-1 group-title="4K🌟频道",广东卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=gdws4K&dur=10.001&offset=175896974
 #EXTINF:-1 group-title="4K🌟频道",湖南卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=hnws4K&dur=10.0066&offset=175789332
 #EXTINF:-1 group-title="4K🌟频道",江苏卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=jsws4K&dur=10.025&offset=175470420
 #EXTINF:-1 group-title="4K🌟频道",四川卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=scws4K&dur=10.032&offset=175363868
 #EXTINF:-1 group-title="4K🌟频道",山东卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=sdws4K&dur=10.0105&offset=175728436
 #EXTINF:-1 group-title="4K🌟频道",深圳卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=szws4K&dur=10.005&offset=175081932
 #EXTINF:-1 group-title="4K🌟频道",浙江卫视4K
-ku9://https://cyh92.github.io/live/spider/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
+js://https://cyh92.github.io/live/spider/js/hnyx.js?id=zjws4K&dur=10.0105&offset=175728140
 #EXTINF:-1 group-title="4K🌟频道",深圳卫视4K
 webview://https://www.sztv.com.cn/pindao/index.html?liveId=R77mK1v
 #EXTINF:-1 group-title="4K🌟频道",东方卫视4K
@@ -1252,19 +1252,19 @@ webview://http://www.wuhubtv.com/folder1194/#
 #EXTINF:-1 group-title="『安✯徽』V",淮北新闻综合
 video://https://www.hbnews.net/tv/
 #EXTINF:-1 group-title="『河✯北』V",河北经济生活
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbjjsh
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbjjsh
 #EXTINF:-1 group-title="『河✯北』V",河北三农频道
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbsn
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbsn
 #EXTINF:-1 group-title="『河✯北』V",河北都市
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbds
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbds
 #EXTINF:-1 group-title="『河✯北』V",河北影视剧
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbysj
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbysj
 #EXTINF:-1 group-title="『河✯北』V",河北少儿科教
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbse
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbse
 #EXTINF:-1 group-title="『河✯北』V",河北文旅公共
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbwl
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbwl
 #EXTINF:-1 group-title="『河✯北』V",河北三佳购物
-ku9://https://cyh92.github.io/live/spider/js/河北.js?id=hbgw
+js://https://cyh92.github.io/live/spider/js/河北.js?id=hbgw
 #EXTINF:-1 group-title="『河✯北』V",河北经济生活
 video://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 #EXTINF:-1 group-title="『河✯北』V",河北经济生活
@@ -1316,25 +1316,25 @@ video://http://app.hsrtv.cn/web/teletv/tv_content_4.html
 #EXTINF:-1 group-title="『河✯北』V",邢台城市生活
 video://https://www.xttv.com.cn/index/channel/index/id/64.html
 #EXTINF:-1 group-title="『浙✯江』V",浙江卫视
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=01
+js://https://cyh92.github.io/live/spider/js/zj.js?id=01
 #EXTINF:-1 group-title="『浙✯江』V",浙江钱江都市
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=02
+js://https://cyh92.github.io/live/spider/js/zj.js?id=02
 #EXTINF:-1 group-title="『浙✯江』V",浙江经济生活
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=03
+js://https://cyh92.github.io/live/spider/js/zj.js?id=03
 #EXTINF:-1 group-title="『浙✯江』V",浙江教科影视
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=04
+js://https://cyh92.github.io/live/spider/js/zj.js?id=04
 #EXTINF:-1 group-title="『浙✯江』V",浙江民生休闲
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=06
+js://https://cyh92.github.io/live/spider/js/zj.js?id=06
 #EXTINF:-1 group-title="『浙✯江』V",浙江新闻
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=07
+js://https://cyh92.github.io/live/spider/js/zj.js?id=07
 #EXTINF:-1 group-title="『浙✯江』V",浙江少儿
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=08
+js://https://cyh92.github.io/live/spider/js/zj.js?id=08
 #EXTINF:-1 group-title="『浙✯江』V",浙江国际
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=10
+js://https://cyh92.github.io/live/spider/js/zj.js?id=10
 #EXTINF:-1 group-title="『浙✯江』V",浙江好易购
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=11
+js://https://cyh92.github.io/live/spider/js/zj.js?id=11
 #EXTINF:-1 group-title="『浙✯江』V",之江纪录
-ku9://https://cyh92.github.io/live/spider/js/zj.js?id=12
+js://https://cyh92.github.io/live/spider/js/zj.js?id=12
 #EXTINF:-1 group-title="『浙✯江』V",浙江钱江
 video://https://www.cztv.com/liveTV/102
 #EXTINF:-1 group-title="『浙✯江』V",浙江经济生活
@@ -2016,19 +2016,19 @@ video://https://www.hrbtv.net/folder79/folder87/
 #EXTINF:-1 group-title="『黑龙江』",哈尔滨影视
 webview://https://www.hrbtv.net/folder79/folder87/
 #EXTINF:-1 group-title="『吉✯林』",吉林卫视
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=jlws
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=jlws
 #EXTINF:-1 group-title="『吉✯林』",吉林都市
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=ds
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=ds
 #EXTINF:-1 group-title="『吉✯林』",吉林生活
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=sh
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=sh
 #EXTINF:-1 group-title="『吉✯林』",吉林影视
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=ys
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=ys
 #EXTINF:-1 group-title="『吉✯林』",吉林乡村
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=xc
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=xc
 #EXTINF:-1 group-title="『吉✯林』",吉林综艺文化
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=zy
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=zy
 #EXTINF:-1 group-title="『吉✯林』",长春综合
-ku9://https://cyh92.github.io/live/spider/js/jlntv.js?id=cc
+js://https://cyh92.github.io/live/spider/js/jlntv.js?id=cc
 #EXTINF:-1 group-title="『吉✯林』",延边朝鲜语综合
 webview://https://www.yb983.com/ybtv1/index.html
 #EXTINF:-1 group-title="『吉✯林』",延边汉语综合
