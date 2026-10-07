@@ -1,27 +1,27 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-ysp-live (FongMi/TV Python Spider 版)
+ysp-live (远程 URL + query 参数 无状态版)
 
-央视频全频道直播取流, 双协议:
+央视频全频道直播代理, 双协议:
 - JCE PidTimeShift (jacc.ysp.cctv.cn): 主协议, 时移转直播
 - bkliveinfo (bkliveinfo.ysp.cctv.cn + cKey): 备用, JCE 返回坏域名时自动切换
 
-在 FongMi/TV (Python 版 APK) 中作为爬虫加载, 只提供直播分类与直链。
-不需要 HTTP 服务、后台刷新线程或 4K 后端二进制。
+无状态设计: 每次请求现拉一次上游 m3u8, 转绝对 URL 后透传给播放器,
+分片由播放器直连央视 CDN, 本机不跑视频流量。
 
-FongMi 配置示例:
-    {
-      "sites": [
-        { "key":"ysp", "name":"央视频直播", "type":3, "api":"./ysp-live.py",
-          "searchable":0, "quickSearch":0, "filterable":0 }
-      ],
-      "lives": [
-        { "name":"央视频", "url":"./ysp-live.py", "type":3 }
-      ]
-    }
+路由:
+    /ysp-live.py                  -> 频道列表网页
+    /ysp-live.py?id=cctv1         -> cctv1 的 m3u8
+    /ysp-live.py?list=1           -> 全部频道聚合 m3u
 
-本地调试: python ysp-live.py cctv1
+部署:
+    gunicorn -w 2 -b 0.0.0.0:8767 'ysp-live:application'
+    python ysp-live.py --stateless 8767
+    CGI: 放到 cgi-bin 并 chmod +x
+
+本地调试:
+    python ysp-live.py cctv1
 """
 
 import base64
@@ -32,6 +32,7 @@ import random
 import re
 import struct
 import sys
+import threading
 import time
 import urllib.parse
 import urllib.request
@@ -317,6 +318,33 @@ def bk_playurls(channel_id, live_pid, defn='fhd'):
     return urls
 
 
+def fetch_abs_playlist(url, depth=0):
+    """拉 m3u8 并把相对路径转绝对 URL; master playlist 会跟随一层。"""
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'qqlive', 'Referer': 'https://live.cctv.cn/',
+        'Accept': 'application/vnd.apple.mpegurl,application/json,*/*'})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        text = r.read().decode('utf-8', 'replace')
+        final = r.geturl()
+    if depth < 2:
+        lines = text.splitlines()
+        for i, ln in enumerate(lines):
+            if ln.strip().startswith('#EXT-X-STREAM-INF'):
+                for j in range(i + 1, len(lines)):
+                    s = lines[j].strip()
+                    if s and not s.startswith('#'):
+                        return fetch_abs_playlist(urllib.parse.urljoin(final, s), depth + 1)
+                break
+    out = []
+    for ln in text.splitlines():
+        s = ln.strip()
+        if s and not s.startswith('#'):
+            out.append(urllib.parse.urljoin(final, s))
+        else:
+            out.append(ln)
+    return '\n'.join(out)
+
+
 # ================================================================ 频道表
 
 CHANNELS = [
@@ -388,146 +416,223 @@ CHANNELS = [
 CHANNEL_MAP = {c[0]: {'slug': c[0], 'name': c[1], 'sid': c[2], 'pid': c[3], 'defn': c[4]}
                for c in CHANNELS}
 
-# 已知 JCE 返回坏域名的频道, 直接走 bkliveinfo
+# 已知 JCE 返回坏域名的频道, 直接走 bkliveinfo, 省掉首次切换等待
 FORCE_BK = {'cctv11', 'cctv12', 'cctv14', 'cctv15', 'cctv16', 'cctv164k',
             'cctv17', 'cctv4k', 'cctvfyjc', 'cctvdyjc', 'cctvhjjc'}
 
 # 运行时模式记录: slug -> 'jce' | 'bk'
 _CHANNEL_MODE = {}
 
+# 无状态取流的进程内缓存: slug -> (expire_ts, playlist_text)
+_PL_CACHE = {}
+_PL_CACHE_TTL = 5
+_PL_CACHE_LOCK = threading.Lock()
+
 WINDOW = 300  # JCE 时移窗口秒数
 UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
       'AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36')
 
 
-def resolve_url(slug):
-    """取一路频道的 m3u8 直链, 优先 JCE, 坏域名自动切 bkliveinfo。"""
-    ch = CHANNEL_MAP[slug]
-    mode = _CHANNEL_MODE.get(slug) or ('bk' if slug in FORCE_BK else 'jce')
+# ================================================================ 无状态取流
+
+def _fetch_jce_playlist(ch):
     now = int(time.time())
-    if mode == 'jce':
+    m3u8_url = jce_timeshift_url(ch['pid'], ch['sid'], now - WINDOW, now, ch['defn'])
+    return fetch_abs_playlist(m3u8_url)
+
+
+def _fetch_bk_playlist(ch):
+    urls = bk_playurls(ch['sid'], ch['pid'], ch['defn'])
+    last_err = None
+    for u in urls:
         try:
-            return jce_timeshift_url(ch['pid'], ch['sid'], now - WINDOW, now, ch['defn'])
+            pl = fetch_abs_playlist(u)
+            if '#EXTM3U' in pl:
+                return pl
+        except Exception as e:
+            last_err = e
+    raise RuntimeError('bklive 全部地址失败: %s' % last_err)
+
+
+def fetch_channel_playlist(slug):
+    """无状态：按频道模式拉一次 m3u8，带 5s 进程内缓存。"""
+    ch = CHANNEL_MAP[slug]
+    now = time.time()
+    with _PL_CACHE_LOCK:
+        item = _PL_CACHE.get(slug)
+        if item and item[0] > now:
+            return item[1]
+
+    mode = _CHANNEL_MODE.get(slug) or ('bk' if slug in FORCE_BK else 'jce')
+    if mode == 'bk':
+        pl = _fetch_bk_playlist(ch)
+    else:
+        try:
+            pl = _fetch_jce_playlist(ch)
         except DeadHostError:
             _CHANNEL_MODE[slug] = 'bk'
-    urls = bk_playurls(ch['sid'], ch['pid'], ch['defn'])
-    if not urls:
-        raise RuntimeError('no urls from bkliveinfo')
-    return urls[0]
+            pl = _fetch_bk_playlist(ch)
+
+    with _PL_CACHE_LOCK:
+        _PL_CACHE[slug] = (now + _PL_CACHE_TTL, pl)
+    return pl
 
 
-# ================================================================ FongMi Spider
+# ================================================================ WSGI 应用
 
-try:
-    from base.spider import Spider as BaseSpider  # type: ignore
-except ImportError:
-    class BaseSpider:  # 本地调试兜底
-        pass
-
-
-_GROUPS = [
-    ('cctv',  '央视'),
-    ('cgtn',  'CGTN'),
-    ('local', '地方卫视'),
-    ('pay',   '数字付费'),
-]
-
-_PAY_SLUGS = {'cctvfyjc', 'cctvdyjc', 'cctvhjjc'}
-
-# 播放时附带 header, 有些播放器拉 CCTV CDN 需要 Referer
-_PLAY_HEADER = json.dumps({
-    'User-Agent': UA,
-    'Referer': 'https://live.cctv.cn/',
-})
+def _wsgi_base(environ, path):
+    host = environ.get('HTTP_HOST') or environ.get('SERVER_NAME', 'localhost')
+    scheme = environ.get('wsgi.url_scheme') or \
+             ('https' if environ.get('HTTPS') == 'on' else 'http')
+    return '%s://%s%s' % (scheme, host, path)
 
 
-def _in_group(tid, slug):
-    if tid == 'cctv':
-        return slug.startswith('cctv') and slug not in _PAY_SLUGS
-    if tid == 'cgtn':
-        return slug.startswith('cgtn')
-    if tid == 'pay':
-        return slug in _PAY_SLUGS
-    if tid == 'local':
-        return not slug.startswith(('cctv', 'cgtn'))
-    return False
+def _index_html(base):
+    items = []
+    for slug, name, _s, _p, _d in CHANNELS:
+        items.append('<li><a href="%s?id=%s">%s</a> '
+                     '<span>?id=%s</span></li>' % (base, slug, name, slug))
+    return ('<!DOCTYPE html><html><head><meta charset="utf-8">'
+            '<meta name="viewport" content="width=device-width,initial-scale=1">'
+            '<title>央视频全频道直播</title>'
+            '<style>body{font-family:-apple-system,Helvetica,Arial,sans-serif;'
+            'max-width:720px;margin:0 auto;padding:20px;}'
+            'li{margin:6px 0;}span{color:#888;font-size:12px;margin-left:8px;}</style>'
+            '</head><body>'
+            '<h2>央视频全频道直播 (%d 路)</h2>'
+            '<p>订阅: <a href="%s?list=1">%s?list=1</a></p>'
+            '<ul>%s</ul></body></html>'
+            % (len(items), base, base, ''.join(items)))
 
 
-class Spider(BaseSpider):
+def wsgi_app(environ, start_response):
+    path = environ.get('PATH_INFO') or '/'
+    params = urllib.parse.parse_qs(environ.get('QUERY_STRING', ''),
+                                   keep_blank_values=True)
+    base = _wsgi_base(environ, path)
 
-    def init(self, extend=''):
-        """extend 可传 JSON 字符串, 本实现不使用。"""
-        pass
+    def resp(code, body, ctype='text/plain; charset=utf-8'):
+        if isinstance(body, str):
+            body = body.encode('utf-8')
+        reason = {200: 'OK', 404: 'Not Found',
+                  503: 'Service Unavailable'}.get(code, 'OK')
+        start_response('%d %s' % (code, reason), [
+            ('Content-Type', ctype),
+            ('Content-Length', str(len(body))),
+            ('Access-Control-Allow-Origin', '*'),
+            ('Cache-Control', 'no-cache'),
+        ])
+        return [body]
 
-    def homeContent(self, filter):
-        """返回直播分组, FongMi 用来渲染左侧分类栏。"""
-        return {
-            'class': [{'type_id': tid, 'type_name': name} for tid, name in _GROUPS]
-        }
+    slug = (params.get('id') or [None])[0]
 
-    def homeVideoContent(self):
-        return {'list': []}
+    if params.get('list'):
+        lines = ['#EXTM3U']
+        for s, name, _s, _p, _d in CHANNELS:
+            lines.append('#EXTINF:-1,%s' % name)
+            lines.append('%s?id=%s' % (base, s))
+        return resp(200, '\n'.join(lines) + '\n',
+                    'application/vnd.apple.mpegurl')
 
-    def categoryContent(self, tid, pg, filter, extend):
-        """按分组返回频道列表, 播放地址写在 vod_play_url 里。"""
-        items = []
-        for slug, name, _sid, _pid, _defn in CHANNELS:
-            if not _in_group(tid, slug):
-                continue
-            try:
-                url = resolve_url(slug)
-            except Exception:
-                url = ''          # 取流失败就留空, 播放时再重试
-            items.append({
-                'vod_id': slug,
-                'vod_name': name,
-                'vod_pic': '',
-                'vod_content': name,
-                'vod_play_from': '央视频',
-                'vod_play_url': '%s$%s' % (name, url),
-            })
-        return {'list': items, 'page': 1, 'pagecount': 1,
-                'limit': len(items), 'total': len(items)}
+    if not slug:
+        return resp(200, _index_html(base), 'text/html; charset=utf-8')
 
-    def detailContent(self, ids):
-        return {'list': []}
+    if slug not in CHANNEL_MAP:
+        return resp(404, '未知频道: %s\n' % slug)
 
-    def searchContent(self, key, quick, pg='1'):
-        # 直播不需要搜索, 但仍实现以便部分版本不报错
-        return {'list': []}
-
-    def playerContent(self, flag, id, vipFlags):
-        """id 为 slug; 播放时再取一次地址, 保证新鲜。"""
-        slug = id
-        try:
-            url = resolve_url(slug)
-        except Exception as e:
-            return {'parse': 0, 'url': '', 'header': '',
-                    'msg': 'resolve failed: %s' % e}
-        return {
-            'parse': 0,
-            'playUrl': '',
-            'url': url,
-            'header': _PLAY_HEADER,
-        }
-
-    def localProxy(self, param):
-        # 不实现本地代理, 直接让播放器拉央视 CDN
-        return None
+    try:
+        pl = fetch_channel_playlist(slug)
+        return resp(200, pl, 'application/vnd.apple.mpegurl')
+    except Exception as e:
+        return resp(503, '拉取失败: %s: %s\n' % (type(e).__name__, e))
 
 
-# ================================================================ 本地调试入口
+# gunicorn/uwsgi/mod_wsgi 默认查找的名字
+application = wsgi_app
 
-if __name__ == '__main__':
-    if len(sys.argv) > 1:
+
+# ================================================================ CGI 入口
+
+def run_cgi():
+    env = {
+        'REQUEST_METHOD': os.environ.get('REQUEST_METHOD', 'GET'),
+        'PATH_INFO': os.environ.get('PATH_INFO', '/'),
+        'QUERY_STRING': os.environ.get('QUERY_STRING', ''),
+        'HTTP_HOST': os.environ.get('HTTP_HOST', 'localhost'),
+        'SERVER_NAME': os.environ.get('SERVER_NAME', 'localhost'),
+        'wsgi.url_scheme': 'https' if os.environ.get('HTTPS') == 'on' else 'http',
+    }
+    captured = []
+
+    def start_response(status, headers):
+        captured.append((status, headers))
+
+    body = b''.join(wsgi_app(env, start_response))
+    status, headers = captured[0]
+    out = sys.stdout
+    out.write('Status: %s\r\n' % status)
+    for k, v in headers:
+        out.write('%s: %s\r\n' % (k, v))
+    out.write('\r\n')
+    out.flush()
+    # 二进制安全写出
+    buf = getattr(out, 'buffer', None)
+    if buf is not None:
+        buf.write(body)
+        buf.flush()
+    else:
+        out.write(body.decode('utf-8', 'replace'))
+        out.flush()
+
+
+# ================================================================ 命令行入口
+
+def main():
+    # CGI 环境自动切换
+    if os.environ.get('GATEWAY_INTERFACE', '').startswith('CGI/'):
+        run_cgi()
+        return
+
+    if len(sys.argv) > 1 and not sys.argv[1].startswith('-'):
         slug = sys.argv[1]
         if slug == '--list':
-            for tid, name in _GROUPS:
-                print('== %s (%s) ==' % (name, tid))
-                for s, n, _a, _b, _c in CHANNELS:
-                    if _in_group(tid, s):
-                        print('  %-12s %s' % (s, n))
-        else:
-            print(resolve_url(slug))
-    else:
-        print(__doc__)
+            for s, n, _a, _b, _c in CHANNELS:
+                print('%-12s %s' % (s, n))
+            return
+        if slug not in CHANNEL_MAP:
+            print('未知频道: %s' % slug, file=sys.stderr)
+            sys.exit(1)
+        print(fetch_channel_playlist(slug))
+        return
+
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument('port', nargs='?', type=int, default=8767)
+    ap.add_argument('--stateless', action='store_true',
+                    help='无状态模式: 仅支持 ?id=xxx')
+    args = ap.parse_args()
+
+    if args.stateless:
+        from wsgiref.simple_server import make_server
+        srv = make_server('0.0.0.0', args.port, wsgi_app)
+        print('[ysp-live] 无状态模式启动, 监听 %d' % args.port, flush=True)
+        print('[ysp-live] 列表: http://localhost:%d/?list=1' % args.port, flush=True)
+        print('[ysp-live] 单频道: http://localhost:%d/?id=cctv1' % args.port, flush=True)
+        try:
+            srv.serve_forever()
+        except KeyboardInterrupt:
+            pass
+        return
+
+    print('用法:', file=sys.stderr)
+    print('  python ysp-live.py --stateless [port]   # 无状态 HTTP 服务',
+          file=sys.stderr)
+    print('  python ysp-live.py cctv1                # 命令行取一路 m3u8',
+          file=sys.stderr)
+    print('  gunicorn -w 2 -b 0.0.0.0:8767 '
+          "'ysp-live:application'", file=sys.stderr)
+    sys.exit(2)
+
+
+if __name__ == '__main__':
+    main()
