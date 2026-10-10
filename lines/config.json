@@ -1338,15 +1338,6 @@
             }
         },
         {
-            "key": "黄豆短剧",
-            "name": "黄豆短剧",
-            "type": 3,
-            "api": "../spider/py/黄豆短剧.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
-        {
             "key": "✨毒舌短剧✨",
             "name": "⭐️毒舌短剧",
             "type": 3,
