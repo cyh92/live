@@ -3168,8 +3168,101 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20261012080000 +0800" stop="20261013075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20261012080000 +0800" stop="20261012084200 +0800">
+        <title lang="zh">早春晴朗</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012084200 +0800" stop="20261012092800 +0800">
+        <title lang="zh">早春晴朗</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012092800 +0800" stop="20261012101300 +0800">
+        <title lang="zh">早春晴朗</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012101300 +0800" stop="20261012110800 +0800">
+        <title lang="zh">子夜外卖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012110800 +0800" stop="20261012120500 +0800">
+        <title lang="zh">我在岛屿读书第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012120500 +0800" stop="20261012125900 +0800">
+        <title lang="zh">我在岛屿读书第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012125900 +0800" stop="20261012132500 +0800">
+        <title lang="zh">紫金文化名家</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012132500 +0800" stop="20261012135200 +0800">
+        <title lang="zh">紫金文化名家</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012135200 +0800" stop="20261012140200 +0800">
+        <title lang="zh">紫金文化名家</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012140200 +0800" stop="20261012143000 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012143000 +0800" stop="20261012150000 +0800">
+        <title lang="zh">茶界中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012150000 +0800" stop="20261012150100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012150100 +0800" stop="20261012152600 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012152600 +0800" stop="20261012161700 +0800">
+        <title lang="zh">我爱古诗词第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012161700 +0800" stop="20261012165900 +0800">
+        <title lang="zh">追捕者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012165900 +0800" stop="20261012174400 +0800">
+        <title lang="zh">追捕者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012174400 +0800" stop="20261012182700 +0800">
+        <title lang="zh">追捕者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012182700 +0800" stop="20261012191400 +0800">
+        <title lang="zh">追捕者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012191400 +0800" stop="20261012200000 +0800">
+        <title lang="zh">追捕者</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012200000 +0800" stop="20261012203200 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012203200 +0800" stop="20261012222500 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261012222500 +0800" stop="20261013002800 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013002800 +0800" stop="20261013011300 +0800">
+        <title lang="zh">夜色正浓</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013011300 +0800" stop="20261013020000 +0800">
+        <title lang="zh">夜色正浓</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013020000 +0800" stop="20261013023000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013023000 +0800" stop="20261013030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013030000 +0800" stop="20261013033200 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013033200 +0800" stop="20261013042100 +0800">
+        <title lang="zh">冬城猎凶 第3集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013042100 +0800" stop="20261013050800 +0800">
+        <title lang="zh">冬城猎凶 第4集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013050800 +0800" stop="20261013063500 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013063500 +0800" stop="20261013071600 +0800">
+        <title lang="zh">遵义三日第2集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261013071600 +0800" stop="20261013080000 +0800">
+        <title lang="zh">早春晴朗</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
