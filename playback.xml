@@ -93,22 +93,22 @@
     <programme channel="CCTV1综合" start="20261015030000 +0800" stop="20261015033855 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261015033855 +0800" stop="20261015040130 +0800">
+    <programme channel="CCTV1综合" start="20261015033855 +0800" stop="20261015040010 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261015040130 +0800" stop="20261015040400 +0800">
+    <programme channel="CCTV1综合" start="20261015040010 +0800" stop="20261015040400 +0800">
         <title lang="zh">前情提要-伟大的长征-11/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261015040400 +0800" stop="20261015045435 +0800">
+    <programme channel="CCTV1综合" start="20261015040400 +0800" stop="20261015045525 +0800">
         <title lang="zh">伟大的长征11/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261015045435 +0800" stop="20261015045805 +0800">
+    <programme channel="CCTV1综合" start="20261015045525 +0800" stop="20261015045835 +0800">
         <title lang="zh">前情提要-伟大的长征-12/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261015045805 +0800" stop="20261015054755 +0800">
+    <programme channel="CCTV1综合" start="20261015045835 +0800" stop="20261015054745 +0800">
         <title lang="zh">伟大的长征12/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261015054755 +0800" stop="20261015060000 +0800">
+    <programme channel="CCTV1综合" start="20261015054745 +0800" stop="20261015060000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20261015060000 +0800" stop="20261015063550 +0800">
@@ -1432,7 +1432,7 @@
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-446</title>
     </programme>
     <programme channel="CCTV15音乐" start="20261014150700 +0800" stop="20261014154630 +0800">
-        <title lang="zh">中国音乐电视-2026-12-万物声动 山河回响（精编3）</title>
+        <title lang="zh">乐游天下-2026-27 丹枫歌万里1</title>
     </programme>
     <programme channel="CCTV15音乐" start="20261014154630 +0800" stop="20261014165100 +0800">
         <title lang="zh">合唱先锋-2026-7-我们的和声2</title>
