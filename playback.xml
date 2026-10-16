@@ -93,14 +93,14 @@
     <programme channel="CCTV1综合" start="20261018033925 +0800" stop="20261018040600 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261018040600 +0800" stop="20261018045710 +0800">
+    <programme channel="CCTV1综合" start="20261018040600 +0800" stop="20261018045825 +0800">
         <title lang="zh">伟大远征-3</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261018045710 +0800" stop="20261018045955 +0800">
+    <programme channel="CCTV1综合" start="20261018045825 +0800" stop="20261018050115 +0800">
         <title lang="zh">前情提要-伟大的长征-第15集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261018045955 +0800" stop="20261018060000 +0800">
-        <title lang="zh">伟大的长征15/60</title>
+    <programme channel="CCTV1综合" start="20261018050115 +0800" stop="20261018060000 +0800">
+        <title lang="zh">伟大的长征第15集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261018060000 +0800" stop="20261018063605 +0800">
         <title lang="zh">晚间新闻</title>
@@ -486,14 +486,14 @@
     <programme channel="CCTV5体育" start="20261018002500 +0800" stop="20261018003000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261018003000 +0800" stop="20261018023000 +0800">
-        <title lang="zh">2026年ATP1000男子网球大师赛上海站-半决赛</title>
+    <programme channel="CCTV5体育" start="20261018003000 +0800" stop="20261018010000 +0800">
+        <title lang="zh">2026/2027西班牙足球甲级联赛-第8轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261018023000 +0800" stop="20261018030000 +0800">
-        <title lang="zh">体育新闻</title>
+    <programme channel="CCTV5体育" start="20261018010000 +0800" stop="20261018030000 +0800">
+        <title lang="zh">2026年武汉网球公开赛-单打半决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20261018030000 +0800" stop="20261018033000 +0800">
-        <title lang="zh">2026/2027西班牙足球甲级联赛-第8轮集锦（4K）</title>
+        <title lang="zh">体育新闻</title>
     </programme>
     <programme channel="CCTV5体育" start="20261018033000 +0800" stop="20261018053000 +0800">
         <title lang="zh">2026/2027赛季中国男子篮球职业联赛-第1轮（浙江浙商证券-山西汾酒）</title>
@@ -820,13 +820,13 @@
         <title lang="zh">本集提要-蒸蒸日上-第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261018033000 +0800" stop="20261018042540 +0800">
-        <title lang="zh">蒸蒸日上15/22</title>
+        <title lang="zh">蒸蒸日上第15集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261018042540 +0800" stop="20261018043040 +0800">
         <title lang="zh">本集提要-蒸蒸日上-第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261018043040 +0800" stop="20261018052440 +0800">
-        <title lang="zh">蒸蒸日上16/22</title>
+        <title lang="zh">蒸蒸日上第16集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261018052440 +0800" stop="20261018052940 +0800">
         <title lang="zh">本集提要-嫁金钗-第3集</title>
@@ -4344,8 +4344,71 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20261017080000 +0800" stop="20261018075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20261017080000 +0800" stop="20261017081300 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017081300 +0800" stop="20261017091300 +0800">
+        <title lang="zh">大儒朱熹:第2集</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017091300 +0800" stop="20261017095600 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017095600 +0800" stop="20261017120300 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017120300 +0800" stop="20261017123500 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017123500 +0800" stop="20261017130700 +0800">
+        <title lang="zh">重播山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017130700 +0800" stop="20261017133800 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017133800 +0800" stop="20261017145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017145500 +0800" stop="20261017150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017150000 +0800" stop="20261017200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017200000 +0800" stop="20261017203900 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261017203900 +0800" stop="20261018020500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018020500 +0800" stop="20261018022500 +0800">
+        <title lang="zh">向海图强</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018022500 +0800" stop="20261018023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018023000 +0800" stop="20261018030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018030000 +0800" stop="20261018033400 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018033400 +0800" stop="20261018033500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018033500 +0800" stop="20261018060700 +0800">
+        <title lang="zh">直播：兴业银行2026年福建省城市足球联赛甲级组决赛 厦门VS福州</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018060700 +0800" stop="20261018070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018070000 +0800" stop="20261018071000 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018071000 +0800" stop="20261018075500 +0800">
+        <title lang="zh">东南军情</title>
+    </programme>
+    <programme channel="东南卫视" start="20261018075500 +0800" stop="20261018080000 +0800">
+        <title lang="zh">大儒朱熹:第3集</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
@@ -4461,8 +4524,104 @@
     <channel id="海峡卫视">
         <display-name lang="zh">海峡卫视</display-name>
     </channel>
-    <programme channel="海峡卫视" start="20261017080000 +0800" stop="20261018075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="海峡卫视" start="20261017073200 +0800" stop="20261017085000 +0800">
+        <title lang="zh">海峡剧场:淬火年代 第16集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017085000 +0800" stop="20261017093200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017093200 +0800" stop="20261017095800 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017095800 +0800" stop="20261017104500 +0800">
+        <title lang="zh">重播青春剧场:归队 第21集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017104500 +0800" stop="20261017113200 +0800">
+        <title lang="zh">重播青春剧场:归队 第22集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017113200 +0800" stop="20261017122000 +0800">
+        <title lang="zh">重播青春剧场:归队 第23集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017122000 +0800" stop="20261017130200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017130200 +0800" stop="20261017131800 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017131800 +0800" stop="20261017140000 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017140000 +0800" stop="20261017142400 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017142400 +0800" stop="20261017143300 +0800">
+        <title lang="zh">重播早餐中国第四季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017143300 +0800" stop="20261017152000 +0800">
+        <title lang="zh">时代剧场:浴血荣光 第23集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017152000 +0800" stop="20261017160600 +0800">
+        <title lang="zh">时代剧场:浴血荣光 第24集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017160600 +0800" stop="20261017165400 +0800">
+        <title lang="zh">时代剧场:浴血荣光 第25集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017165400 +0800" stop="20261017174200 +0800">
+        <title lang="zh">大儒朱熹:第三集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017174200 +0800" stop="20261017183100 +0800">
+        <title lang="zh">大儒朱熹:第四集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017183100 +0800" stop="20261017192900 +0800">
+        <title lang="zh">万里长征第一步—纪念红军长征90周年全省大中小学同上一堂思政课</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017192900 +0800" stop="20261017200000 +0800">
+        <title lang="zh">文化闽江——开讲:10</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017200000 +0800" stop="20261017203000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017203000 +0800" stop="20261017211400 +0800">
+        <title lang="zh">家庭剧场:好好的时光 第28集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017211400 +0800" stop="20261017215800 +0800">
+        <title lang="zh">家庭剧场:好好的时光 第29集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017215800 +0800" stop="20261017224200 +0800">
+        <title lang="zh">家庭剧场:好好的时光 第30集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017224200 +0800" stop="20261017225700 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017225700 +0800" stop="20261017234000 +0800">
+        <title lang="zh">重播海峡剧场:淬火年代 第15集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261017234000 +0800" stop="20261018002400 +0800">
+        <title lang="zh">重播海峡剧场:淬火年代 第16集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018002400 +0800" stop="20261018004000 +0800">
+        <title lang="zh">潜行天下</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018004000 +0800" stop="20261018012600 +0800">
+        <title lang="zh">青春剧场:归队 第24集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018012600 +0800" stop="20261018021300 +0800">
+        <title lang="zh">青春剧场:归队 第25集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018021300 +0800" stop="20261018030000 +0800">
+        <title lang="zh">青春剧场:归队 第26集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018030000 +0800" stop="20261018060000 +0800">
+        <title lang="zh">直播：兴业银行 2026年福建省城市足球联赛 甲级组总决赛厦门VS福州</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018060000 +0800" stop="20261018064200 +0800">
+        <title lang="zh">今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018064200 +0800" stop="20261018073900 +0800">
+        <title lang="zh">超棒的我们第二季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261018073900 +0800" stop="20261018093000 +0800">
+        <title lang="zh">海峡剧场:淬火年代 第17集</title>
     </programme>
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
