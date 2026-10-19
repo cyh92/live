@@ -1048,6 +1048,144 @@
             "api": "../spider/py/FreeOK.py"
         },
         {
+        "key": "hongguoduanju",
+        "name": "红果短剧最终版.py",
+        "type": 3,
+        "api": "../spider/py/红果短剧最终版.py"
+        },
+        {
+            "key": "hongguoduanju",
+            "name": "红果短剧[短](1).py",
+            "type": 3,
+            "api": "../spider/py/红果短剧[短](1).py"
+        },
+        {
+            "key": "feiniuyingshi",
+            "name": "[影]飞牛影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]飞牛影视.py"
+        },
+        {
+            "key": "douhuayingshi",
+            "name": "[影]豆花影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]豆花影视.py"
+        },
+        {
+            "key": "jiuduanju",
+            "name": "[影]第九短剧.py",
+            "type": 3,
+            "api": "../spider/py/[影]第九短剧.py"
+        },
+        {
+            "key": "zhuiying",
+            "name": "[影]追影.py",
+            "type": 3,
+            "api": "../spider/py/[影]追影.py"
+        },
+        {
+            "key": "diekayingshi",
+            "name": "[影]蝶卡影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]蝶卡影视.py"
+        },
+        {
+            "key": "qingwayingshi",
+            "name": "[影]青蛙影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]青蛙影视.py"
+        },
+        {
+            "key": "duanjucaiceshi",
+            "name": "短剧采集测试.py",
+            "type": 3,
+            "api": "../spider/py/短剧采集测试.py"
+        },
+        {
+            "key": "feikuaitv",
+            "name": "[影]飞快TV.py",
+            "type": 3,
+            "api": "../spider/py/[影]飞快TV.py"
+        },
+        {
+            "key": "susou",
+            "name": "[影]速搜.py",
+            "type": 3,
+            "api": "../spider/py/[影]速搜.py"
+        },
+        {
+            "key": "shijueyingyuan",
+            "name": "[影]视觉影院.py",
+            "type": 3,
+            "api": "../spider/py/[影]视觉影院.py"
+        },
+        {
+            "key": "zhuiguangyingshi",
+            "name": "[影]追光影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]追光影视.py"
+        },
+        {
+            "key": "liangziduanju",
+            "name": "量子短剧.py",
+            "type": 3,
+            "api": "../spider/py/量子短剧.py"
+        },
+        {
+            "key": "daishuyingshi",
+            "name": "[影]袋鼠影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]袋鼠影视.py"
+        },
+        {
+            "key": "xiguashipin",
+            "name": "[影]西瓜视频.py",
+            "type": 3,
+            "api": "../spider/py/[影]西瓜视频.py"
+        },
+        {
+            "key": "guanfengyingshi",
+            "name": "[影]观风影视.py",
+            "type": 3,
+            "api": "../spider/py/[影]观风影视.py"
+        },
+        {
+            "key": "chabeihu",
+            "name": "[影]茶杯狐.py",
+            "type": 3,
+            "api": "../spider/py/[影]茶杯狐.py"
+        },
+        {
+            "key": "hanxiaoquan",
+            "name": "[影]韩小圈.py",
+            "type": 3,
+            "api": "../spider/py/[影]韩小圈.py"
+        },
+        {
+            "key": "caijijuhe",
+            "name": "[影]采集聚合.py",
+            "type": 3,
+            "api": "../spider/py/[影]采集聚合.py"
+        },
+        {
+            "key": "moxiaoying",
+            "name": "[影]莫小影.py",
+            "type": 3,
+            "api": "../spider/py/[影]莫小影.py"
+        },
+        {
+            "key": "mangguotv",
+            "name": "[影]芒果TV.py",
+            "type": 3,
+            "api": "../spider/py/[影]芒果TV.py"
+        },
+        {
+            "key": "feifanziyuan",
+            "name": "[影]非凡资源.py",
+            "type": 3,
+            "api": "../spider/py/[影]非凡资源.py"
+        },
+        {
             "key": "csp_Qiyou",
             "name": "🦌奇优",
             "type": 3,
