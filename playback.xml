@@ -96,16 +96,16 @@
     <programme channel="CCTV1综合" start="20261022033925 +0800" stop="20261022040600 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261022040600 +0800" stop="20261022045740 +0800">
+    <programme channel="CCTV1综合" start="20261022040600 +0800" stop="20261022045800 +0800">
         <title lang="zh">伟大远征-7</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261022045740 +0800" stop="20261022050110 +0800">
+    <programme channel="CCTV1综合" start="20261022045800 +0800" stop="20261022050105 +0800">
         <title lang="zh">前情提要-伟大的长征-第19集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261022050110 +0800" stop="20261022055005 +0800">
+    <programme channel="CCTV1综合" start="20261022050105 +0800" stop="20261022054915 +0800">
         <title lang="zh">伟大的长征19/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261022055005 +0800" stop="20261022060000 +0800">
+    <programme channel="CCTV1综合" start="20261022054915 +0800" stop="20261022060000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20261022060000 +0800" stop="20261022063605 +0800">
@@ -585,31 +585,31 @@
     <programme channel="CCTV6电影" start="20261021124949 +0800" stop="20261021150123 +0800">
         <title lang="zh">唐探1900</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021150123 +0800" stop="20261021152908 +0800">
+    <programme channel="CCTV6电影" start="20261021150123 +0800" stop="20261021152508 +0800">
         <title lang="zh">我和我的家乡：北京好人</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021152908 +0800" stop="20261021170215 +0800">
+    <programme channel="CCTV6电影" start="20261021152508 +0800" stop="20261021165815 +0800">
         <title lang="zh">铜马铁燕传奇</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021170215 +0800" stop="20261021185347 +0800">
+    <programme channel="CCTV6电影" start="20261021165815 +0800" stop="20261021184947 +0800">
         <title lang="zh">勇士（2016）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021185347 +0800" stop="20261021204017 +0800">
+    <programme channel="CCTV6电影" start="20261021184947 +0800" stop="20261021203617 +0800">
         <title lang="zh">枪响烧锅镇</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021204017 +0800" stop="20261021204522 +0800">
+    <programme channel="CCTV6电影" start="20261021203617 +0800" stop="20261021204122 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021204522 +0800" stop="20261021223455 +0800">
+    <programme channel="CCTV6电影" start="20261021204122 +0800" stop="20261021223055 +0800">
         <title lang="zh">战火归途</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261021223455 +0800" stop="20261022002449 +0800">
+    <programme channel="CCTV6电影" start="20261021223055 +0800" stop="20261022002119 +0800">
         <title lang="zh">最后的警察</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261022002449 +0800" stop="20261022021817 +0800">
+    <programme channel="CCTV6电影" start="20261022002119 +0800" stop="20261022021517 +0800">
         <title lang="zh">王牌</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261022021817 +0800" stop="20261022041540 +0800">
+    <programme channel="CCTV6电影" start="20261022021517 +0800" stop="20261022041540 +0800">
         <title lang="zh">天宝</title>
     </programme>
     <programme channel="CCTV6电影" start="20261022041540 +0800" stop="20261022060000 +0800">
@@ -3141,8 +3141,86 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20261021080000 +0800" stop="20261022075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20261021080000 +0800" stop="20261021090000 +0800">
+        <title lang="zh">爱你</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021090000 +0800" stop="20261021130000 +0800">
+        <title lang="zh">设备检修</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021130000 +0800" stop="20261021133000 +0800">
+        <title lang="zh">紫金文化名家第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021133000 +0800" stop="20261021135900 +0800">
+        <title lang="zh">紫金文化名家第四季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021135900 +0800" stop="20261021142500 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021142500 +0800" stop="20261021150000 +0800">
+        <title lang="zh">本草中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021150000 +0800" stop="20261021150300 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021150300 +0800" stop="20261021152400 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021152400 +0800" stop="20261021161800 +0800">
+        <title lang="zh">我爱古诗词第一季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021161800 +0800" stop="20261021170800 +0800">
+        <title lang="zh">冰雨火</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021170800 +0800" stop="20261021175800 +0800">
+        <title lang="zh">冰雨火</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021175800 +0800" stop="20261021200000 +0800">
+        <title lang="zh">银荔大剧秀</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021200000 +0800" stop="20261021203200 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021203200 +0800" stop="20261021221000 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261021221000 +0800" stop="20261022002200 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022002200 +0800" stop="20261022011100 +0800">
+        <title lang="zh">年少有为</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022011100 +0800" stop="20261022020000 +0800">
+        <title lang="zh">年少有为</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022020000 +0800" stop="20261022023000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022023000 +0800" stop="20261022030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022030000 +0800" stop="20261022033200 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022033200 +0800" stop="20261022042000 +0800">
+        <title lang="zh">冬城猎凶 第15集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022042000 +0800" stop="20261022050700 +0800">
+        <title lang="zh">冬城猎凶 第16集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022050700 +0800" stop="20261022060200 +0800">
+        <title lang="zh">荔枝追剧手册</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022060200 +0800" stop="20261022070000 +0800">
+        <title lang="zh">一个外国人亲历的长征</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022070000 +0800" stop="20261022071500 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022071500 +0800" stop="20261022074500 +0800">
+        <title lang="zh">树说中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261022074500 +0800" stop="20261022080000 +0800">
+        <title lang="zh">爱你</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
