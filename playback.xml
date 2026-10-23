@@ -90,22 +90,22 @@
     <programme channel="CCTV1综合" start="20261025030000 +0800" stop="20261025033825 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261025033825 +0800" stop="20261025035935 +0800">
+    <programme channel="CCTV1综合" start="20261025033825 +0800" stop="20261025040015 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261025035935 +0800" stop="20261025040300 +0800">
+    <programme channel="CCTV1综合" start="20261025040015 +0800" stop="20261025040300 +0800">
         <title lang="zh">前情提要-伟大的长征-第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261025040300 +0800" stop="20261025045305 +0800">
-        <title lang="zh">伟大的长征22/60</title>
+    <programme channel="CCTV1综合" start="20261025040300 +0800" stop="20261025045455 +0800">
+        <title lang="zh">伟大的长征第22集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261025045305 +0800" stop="20261025045745 +0800">
+    <programme channel="CCTV1综合" start="20261025045455 +0800" stop="20261025045745 +0800">
         <title lang="zh">前情提要-伟大的长征-第23集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261025045745 +0800" stop="20261025055005 +0800">
-        <title lang="zh">伟大的长征23/60</title>
+    <programme channel="CCTV1综合" start="20261025045745 +0800" stop="20261025055010 +0800">
+        <title lang="zh">伟大的长征第23集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261025055005 +0800" stop="20261025060000 +0800">
+    <programme channel="CCTV1综合" start="20261025055010 +0800" stop="20261025060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20261025060000 +0800" stop="20261025063550 +0800">
@@ -258,10 +258,10 @@
     <programme channel="CCTV3综艺" start="20261024142410 +0800" stop="20261024144510 +0800">
         <title lang="zh">文化十分-2026-214</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261024144510 +0800" stop="20261024160600 +0800">
+    <programme channel="CCTV3综艺" start="20261024144510 +0800" stop="20261024160500 +0800">
         <title lang="zh">你好时光（第二季）-7</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261024160600 +0800" stop="20261024171410 +0800">
+    <programme channel="CCTV3综艺" start="20261024160500 +0800" stop="20261024171410 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-462</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261024171410 +0800" stop="20261024184650 +0800">
@@ -273,25 +273,25 @@
     <programme channel="CCTV3综艺" start="20261024201945 +0800" stop="20261024212830 +0800">
         <title lang="zh">国音正青春-2</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261024212830 +0800" stop="20261024223745 +0800">
+    <programme channel="CCTV3综艺" start="20261024212830 +0800" stop="20261024223605 +0800">
         <title lang="zh">新花路放—最美的心愿之旅-8</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261024223745 +0800" stop="20261024231845 +0800">
+    <programme channel="CCTV3综艺" start="20261024223605 +0800" stop="20261024231705 +0800">
         <title lang="zh">纪念中国工农红军长征胜利90周年电视文艺晚会-上</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261024231845 +0800" stop="20261024235445 +0800">
+    <programme channel="CCTV3综艺" start="20261024231705 +0800" stop="20261024235305 +0800">
         <title lang="zh">纪念中国工农红军长征胜利90周年电视文艺晚会-中</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261024235445 +0800" stop="20261025002040 +0800">
+    <programme channel="CCTV3综艺" start="20261024235305 +0800" stop="20261025001930 +0800">
         <title lang="zh">纪念中国工农红军长征胜利90周年电视文艺晚会-下</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261025002040 +0800" stop="20261025010115 +0800">
+    <programme channel="CCTV3综艺" start="20261025001930 +0800" stop="20261025010030 +0800">
         <title lang="zh">综艺喜乐汇-2026-1382 多彩少年 9</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261025010115 +0800" stop="20261025020415 +0800">
+    <programme channel="CCTV3综艺" start="20261025010030 +0800" stop="20261025020330 +0800">
         <title lang="zh">综艺喜乐汇-2026-541</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261025020415 +0800" stop="20261025033000 +0800">
+    <programme channel="CCTV3综艺" start="20261025020330 +0800" stop="20261025033000 +0800">
         <title lang="zh">越战越勇-2026-27</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261025033000 +0800" stop="20261025045330 +0800">
@@ -4608,8 +4608,128 @@
     <channel id="海峡卫视">
         <display-name lang="zh">海峡卫视</display-name>
     </channel>
-    <programme channel="海峡卫视" start="20261024080000 +0800" stop="20261025075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="海峡卫视" start="20261024080000 +0800" stop="20261024084200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024084200 +0800" stop="20261024090600 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024090600 +0800" stop="20261024092300 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024092300 +0800" stop="20261024094800 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024094800 +0800" stop="20261024101300 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024101300 +0800" stop="20261024102200 +0800">
+        <title lang="zh">重播早餐中国第五季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024102200 +0800" stop="20261024110600 +0800">
+        <title lang="zh">重播青春剧场:骄阳似我 第8集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024110600 +0800" stop="20261024115000 +0800">
+        <title lang="zh">重播青春剧场:骄阳似我 第9集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024115000 +0800" stop="20261024123400 +0800">
+        <title lang="zh">重播青春剧场:骄阳似我 第10集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024123400 +0800" stop="20261024125900 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024125900 +0800" stop="20261024134100 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024134100 +0800" stop="20261024140700 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024140700 +0800" stop="20261024143200 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024143200 +0800" stop="20261024145700 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024145700 +0800" stop="20261024154100 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024154100 +0800" stop="20261024160600 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024160600 +0800" stop="20261024163200 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024163200 +0800" stop="20261024164700 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024164700 +0800" stop="20261024165500 +0800">
+        <title lang="zh">重播早餐中国第五季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024165500 +0800" stop="20261024173900 +0800">
+        <title lang="zh">时代剧场:一路朝阳 第4集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024173900 +0800" stop="20261024182300 +0800">
+        <title lang="zh">时代剧场:一路朝阳 第5集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024182300 +0800" stop="20261024190700 +0800">
+        <title lang="zh">时代剧场:一路朝阳 第6集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024190700 +0800" stop="20261024191400 +0800">
+        <title lang="zh">重播早餐中国第五季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024191400 +0800" stop="20261024193900 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024193900 +0800" stop="20261024200000 +0800">
+        <title lang="zh">重播高看一眼.海上福建</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024200000 +0800" stop="20261024203100 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024203100 +0800" stop="20261024211400 +0800">
+        <title lang="zh">家庭剧场:承欢记 第9集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024211400 +0800" stop="20261024215700 +0800">
+        <title lang="zh">家庭剧场:承欢记 第10集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024215700 +0800" stop="20261024224100 +0800">
+        <title lang="zh">家庭剧场:承欢记 第11集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261024224100 +0800" stop="20261025003200 +0800">
+        <title lang="zh">重播：兴业银行 2026年福建省城市足球联赛 第十九轮赛事 三明VS漳州</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025003200 +0800" stop="20261025005700 +0800">
+        <title lang="zh">精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025005700 +0800" stop="20261025011300 +0800">
+        <title lang="zh">潜行天下</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025011300 +0800" stop="20261025015600 +0800">
+        <title lang="zh">青春剧场:骄阳似我 第11集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025015600 +0800" stop="20261025023900 +0800">
+        <title lang="zh">青春剧场:骄阳似我 第12集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025023900 +0800" stop="20261025032300 +0800">
+        <title lang="zh">青春剧场:骄阳似我 第13集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025032300 +0800" stop="20261025041200 +0800">
+        <title lang="zh">台湾1945:第一集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025041200 +0800" stop="20261025050000 +0800">
+        <title lang="zh">台湾1945:第二集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025050000 +0800" stop="20261025054200 +0800">
+        <title lang="zh">今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025054200 +0800" stop="20261025064100 +0800">
+        <title lang="zh">超棒的我们第二季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025064100 +0800" stop="20261025072400 +0800">
+        <title lang="zh">海峡剧场:淬火年代 第31集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261025072400 +0800" stop="20261025080700 +0800">
+        <title lang="zh">海峡剧场:淬火年代 第32集</title>
     </programme>
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
