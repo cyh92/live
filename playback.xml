@@ -283,7 +283,7 @@
         <title lang="zh">开门大吉-2026-29</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261026032700 +0800" stop="20261026033000 +0800">
-        <title lang="zh">第二届丝路之星国际音乐大赛-6  先导片</title>
+        <title lang="zh">第二届丝路之星国际音乐大赛-6 先导片</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261026033000 +0800" stop="20261026052315 +0800">
         <title lang="zh">第二届丝路之星国际音乐大赛-6</title>
@@ -1417,7 +1417,7 @@
         <title lang="zh">中国节拍-品味古典82</title>
     </programme>
     <programme channel="CCTV15音乐" start="20261026032700 +0800" stop="20261026033000 +0800">
-        <title lang="zh">第二届丝路之星国际音乐大赛-6  先导片</title>
+        <title lang="zh">第二届丝路之星国际音乐大赛-6 先导片</title>
     </programme>
     <programme channel="CCTV15音乐" start="20261026033000 +0800" stop="20261026052715 +0800">
         <title lang="zh">第二届丝路之星国际音乐大赛-6</title>
@@ -3096,8 +3096,101 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20261025080000 +0800" stop="20261026075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20261025080000 +0800" stop="20261025081400 +0800">
+        <title lang="zh">长征二十夜</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025081400 +0800" stop="20261025082900 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025082900 +0800" stop="20261025090500 +0800">
+        <title lang="zh">树说中国 第4集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025090500 +0800" stop="20261025095100 +0800">
+        <title lang="zh">爱上特种兵</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025095100 +0800" stop="20261025103700 +0800">
+        <title lang="zh">爱上特种兵</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025103700 +0800" stop="20261025112900 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025112900 +0800" stop="20261025121800 +0800">
+        <title lang="zh">子夜外卖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025121800 +0800" stop="20261025130700 +0800">
+        <title lang="zh">子夜外卖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025130700 +0800" stop="20261025133700 +0800">
+        <title lang="zh">紫金文化名家第四季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025133700 +0800" stop="20261025141100 +0800">
+        <title lang="zh">酒美中国</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025141100 +0800" stop="20261025143700 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025143700 +0800" stop="20261025150000 +0800">
+        <title lang="zh">江南文脉</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025150000 +0800" stop="20261025150300 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025150300 +0800" stop="20261025152300 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025152300 +0800" stop="20261025154300 +0800">
+        <title lang="zh">艺江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025154300 +0800" stop="20261025163900 +0800">
+        <title lang="zh">我爱古诗词第二季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025163900 +0800" stop="20261025170500 +0800">
+        <title lang="zh">舍不得的丽江</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025170500 +0800" stop="20261025180000 +0800">
+        <title lang="zh">冰雨火</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025180000 +0800" stop="20261025200000 +0800">
+        <title lang="zh">银荔大剧秀</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025200000 +0800" stop="20261025203100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025203100 +0800" stop="20261025221700 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025221700 +0800" stop="20261025234200 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261025234200 +0800" stop="20261026001100 +0800">
+        <title lang="zh">热荔微剧场</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026001100 +0800" stop="20261026014700 +0800">
+        <title lang="zh">江苏省“老兵永远跟党走”宣讲报告会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026014700 +0800" stop="20261026021600 +0800">
+        <title lang="zh">时代问答</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026021600 +0800" stop="20261026023000 +0800">
+        <title lang="zh">领航新时代</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026023000 +0800" stop="20261026030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026030000 +0800" stop="20261026033300 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026033300 +0800" stop="20261026042100 +0800">
+        <title lang="zh">冬城猎凶 第19集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026042100 +0800" stop="20261026050600 +0800">
+        <title lang="zh">冬城猎凶 第20集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026050600 +0800" stop="20261026064900 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261026064900 +0800" stop="20261026080000 +0800">
+        <title lang="zh">非诚勿扰复播</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
