@@ -3966,8 +3966,62 @@
     <channel id="大湾区卫视">
         <display-name lang="zh">大湾区卫视</display-name>
     </channel>
-    <programme channel="大湾区卫视" start="20261026080000 +0800" stop="20261027075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="大湾区卫视" start="20261026075000 +0800" stop="20261026083000 +0800">
+        <title lang="zh">笑口组</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026083000 +0800" stop="20261026092300 +0800">
+        <title lang="zh">湾区文化坊</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026092300 +0800" stop="20261026100000 +0800">
+        <title lang="zh">我爱返寻味</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026100000 +0800" stop="20261026105500 +0800">
+        <title lang="zh">湾区最新闻</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026105500 +0800" stop="20261026140500 +0800">
+        <title lang="zh">72家房客</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026140500 +0800" stop="20261026143000 +0800">
+        <title lang="zh">我爱返寻味</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026143000 +0800" stop="20261026152300 +0800">
+        <title lang="zh">湾区文化坊</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026152300 +0800" stop="20261026161200 +0800">
+        <title lang="zh">城事特搜——超级大湾区(重播)</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026161200 +0800" stop="20261026172500 +0800">
+        <title lang="zh">短剧连环炮:72家房客</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026172500 +0800" stop="20261026183500 +0800">
+        <title lang="zh">每日运动派</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026183500 +0800" stop="20261026224000 +0800">
+        <title lang="zh">短剧连环炮:72家房客</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026224000 +0800" stop="20261026232500 +0800">
+        <title lang="zh">养生节目</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261026232500 +0800" stop="20261027023000 +0800">
+        <title lang="zh">短剧连环炮:72家房客</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261027023000 +0800" stop="20261027024000 +0800">
+        <title lang="zh">笑口组</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261027024000 +0800" stop="20261027033000 +0800">
+        <title lang="zh">城事特搜</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261027033000 +0800" stop="20261027040000 +0800">
+        <title lang="zh">我爱返寻味</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261027040000 +0800" stop="20261027050000 +0800">
+        <title lang="zh">湾区最新闻</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261027050000 +0800" stop="20261027075000 +0800">
+        <title lang="zh">72家房客</title>
+    </programme>
+    <programme channel="大湾区卫视" start="20261027075000 +0800" stop="20261027083000 +0800">
+        <title lang="zh">纪录/在路上</title>
     </programme>
     <channel id="湖北卫视">
         <display-name lang="zh">湖北卫视</display-name>
