@@ -90,22 +90,22 @@
     <programme channel="CCTV1综合" start="20261027030000 +0800" stop="20261027033855 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261027033855 +0800" stop="20261027040025 +0800">
+    <programme channel="CCTV1综合" start="20261027033855 +0800" stop="20261027040055 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261027040025 +0800" stop="20261027040400 +0800">
+    <programme channel="CCTV1综合" start="20261027040055 +0800" stop="20261027040400 +0800">
         <title lang="zh">前情提要-伟大的长征-第26集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261027040400 +0800" stop="20261027045620 +0800">
+    <programme channel="CCTV1综合" start="20261027040400 +0800" stop="20261027045540 +0800">
         <title lang="zh">伟大的长征26/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261027045620 +0800" stop="20261027045850 +0800">
+    <programme channel="CCTV1综合" start="20261027045540 +0800" stop="20261027045905 +0800">
         <title lang="zh">前情提要-伟大的长征-第27集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261027045850 +0800" stop="20261027055240 +0800">
+    <programme channel="CCTV1综合" start="20261027045905 +0800" stop="20261027055145 +0800">
         <title lang="zh">伟大的长征27/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261027055240 +0800" stop="20261027060000 +0800">
+    <programme channel="CCTV1综合" start="20261027055145 +0800" stop="20261027060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20261027060000 +0800" stop="20261027063550 +0800">
@@ -273,20 +273,17 @@
     <programme channel="CCTV3综艺" start="20261026192755 +0800" stop="20261026210000 +0800">
         <title lang="zh">开门大吉-2026-29</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261026210000 +0800" stop="20261026212615 +0800">
+    <programme channel="CCTV3综艺" start="20261026210000 +0800" stop="20261026212810 +0800">
         <title lang="zh">文化十分-2026-215</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261026212615 +0800" stop="20261026225550 +0800">
+    <programme channel="CCTV3综艺" start="20261026212810 +0800" stop="20261026230005 +0800">
         <title lang="zh">你好时光（第二季）-8</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261026225550 +0800" stop="20261026233245 +0800">
-        <title lang="zh">综艺喜乐汇-2026-1378 多彩少年 5</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20261026233245 +0800" stop="20261027010500 +0800">
+    <programme channel="CCTV3综艺" start="20261026230005 +0800" stop="20261027002930 +0800">
         <title lang="zh">全民畅舞-26</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261027010500 +0800" stop="20261027020745 +0800">
-        <title lang="zh">综艺喜乐汇-2026-1116</title>
+    <programme channel="CCTV3综艺" start="20261027002930 +0800" stop="20261027020745 +0800">
+        <title lang="zh">银龄欣风采-1</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261027020745 +0800" stop="20261027033000 +0800">
         <title lang="zh">越战越勇-2026-26</title>
@@ -693,20 +690,20 @@
     <programme channel="CCTV7国防军事" start="20261026195330 +0800" stop="20261026200000 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-精武之歌（强军精武红四连）</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20261026200000 +0800" stop="20261026203630 +0800">
+    <programme channel="CCTV7国防军事" start="20261026200000 +0800" stop="20261026203300 +0800">
         <title lang="zh">正午国防军事</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20261026203630 +0800" stop="20261026210830 +0800">
+    <programme channel="CCTV7国防军事" start="20261026203300 +0800" stop="20261026205700 +0800">
+        <title lang="zh">制胜-1</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20261026205700 +0800" stop="20261026212530 +0800">
+        <title lang="zh">制胜-2</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20261026212530 +0800" stop="20261026215800 +0800">
         <title lang="zh">防务新观察-2026-298</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20261026210830 +0800" stop="20261026214230 +0800">
+    <programme channel="CCTV7国防军事" start="20261026215800 +0800" stop="20261026223500 +0800">
         <title lang="zh">兵器面面观-环球兵器大事件-2026-43</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20261026214230 +0800" stop="20261026220730 +0800">
-        <title lang="zh">兵器面面观-2026-212</title>
-    </programme>
-    <programme channel="CCTV7国防军事" start="20261026220730 +0800" stop="20261026223500 +0800">
-        <title lang="zh">军事纪录-2026-207</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20261026223500 +0800" stop="20261026232530 +0800">
         <title lang="zh">五星剧场-我们的河山17/36</title>
@@ -1428,49 +1425,49 @@
     <programme channel="CCTV15音乐" start="20261026092715 +0800" stop="20261026140000 +0800">
         <title lang="zh">再见</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026140000 +0800" stop="20261026150600 +0800">
+    <programme channel="CCTV15音乐" start="20261026140000 +0800" stop="20261026150800 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-608</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026150600 +0800" stop="20261026162330 +0800">
+    <programme channel="CCTV15音乐" start="20261026150800 +0800" stop="20261026162530 +0800">
         <title lang="zh">CCTV音乐厅-中国乡村音乐大会1-健康跃动篇</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026162330 +0800" stop="20261026173900 +0800">
+    <programme channel="CCTV15音乐" start="20261026162530 +0800" stop="20261026174100 +0800">
         <title lang="zh">全球中文音乐榜上榜-2025-11(歌曲精编1)</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026173900 +0800" stop="20261026181830 +0800">
+    <programme channel="CCTV15音乐" start="20261026174100 +0800" stop="20261026182030 +0800">
         <title lang="zh">风华国乐-2026-309</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026181830 +0800" stop="20261026193400 +0800">
+    <programme channel="CCTV15音乐" start="20261026182030 +0800" stop="20261026193500 +0800">
+        <title lang="zh">国音正青春-1</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20261026193500 +0800" stop="20261026205030 +0800">
         <title lang="zh">民歌·中国-2026-145山水有乡音11</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026193400 +0800" stop="20261026204930 +0800">
-        <title lang="zh">精彩音乐汇-我的爱对你说-2026-603</title>
-    </programme>
-    <programme channel="CCTV15音乐" start="20261026204930 +0800" stop="20261026220100 +0800">
+    <programme channel="CCTV15音乐" start="20261026205030 +0800" stop="20261026220200 +0800">
         <title lang="zh">神采正飞扬-中国郎之夜2026-1（纯享版）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026220100 +0800" stop="20261026235130 +0800">
+    <programme channel="CCTV15音乐" start="20261026220200 +0800" stop="20261026235230 +0800">
         <title lang="zh">影视留声机-2026-7-经典电影欣赏《阿诗玛》</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261026235130 +0800" stop="20261027005900 +0800">
+    <programme channel="CCTV15音乐" start="20261026235230 +0800" stop="20261027010000 +0800">
         <title lang="zh">风华国乐-2026-299绿野漫弹-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261027005900 +0800" stop="20261027021430 +0800">
-        <title lang="zh">民歌·中国-2026-143霜落秋山歌满坡</title>
+    <programme channel="CCTV15音乐" start="20261027010000 +0800" stop="20261027021430 +0800">
+        <title lang="zh">国音正青春-1</title>
     </programme>
     <programme channel="CCTV15音乐" start="20261027021430 +0800" stop="20261027033000 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-609</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261027033000 +0800" stop="20261027044530 +0800">
-        <title lang="zh">中国节拍-品味古典6</title>
+    <programme channel="CCTV15音乐" start="20261027033000 +0800" stop="20261027041250 +0800">
+        <title lang="zh">中国音乐电视-万物声动2025-12</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261027044530 +0800" stop="20261027064530 +0800">
+    <programme channel="CCTV15音乐" start="20261027041250 +0800" stop="20261027061250 +0800">
         <title lang="zh">第二届丝路之星国际音乐大赛-6</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261027064530 +0800" stop="20261027074500 +0800">
+    <programme channel="CCTV15音乐" start="20261027061250 +0800" stop="20261027071220 +0800">
         <title lang="zh">CCTV音乐厅-2026-175-“东方乐韵”民族管弦乐系列音乐会（4）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261027074500 +0800" stop="20261027075900 +0800">
+    <programme channel="CCTV15音乐" start="20261027071220 +0800" stop="20261027075900 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-441</title>
     </programme>
     <channel id="CCTV17农业农村">
