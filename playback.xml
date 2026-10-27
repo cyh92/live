@@ -99,22 +99,22 @@
     <programme channel="CCTV1综合" start="20261029030000 +0800" stop="20261029033955 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261029033955 +0800" stop="20261029040110 +0800">
+    <programme channel="CCTV1综合" start="20261029033955 +0800" stop="20261029040225 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261029040110 +0800" stop="20261029040500 +0800">
+    <programme channel="CCTV1综合" start="20261029040225 +0800" stop="20261029040500 +0800">
         <title lang="zh">前情提要-伟大的长征-第30集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261029040500 +0800" stop="20261029045650 +0800">
+    <programme channel="CCTV1综合" start="20261029040500 +0800" stop="20261029045625 +0800">
         <title lang="zh">伟大的长征30/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261029045650 +0800" stop="20261029050020 +0800">
+    <programme channel="CCTV1综合" start="20261029045625 +0800" stop="20261029050020 +0800">
         <title lang="zh">前情提要-伟大的长征-第31集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261029050020 +0800" stop="20261029055340 +0800">
+    <programme channel="CCTV1综合" start="20261029050020 +0800" stop="20261029055230 +0800">
         <title lang="zh">伟大的长征31/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261029055340 +0800" stop="20261029060000 +0800">
+    <programme channel="CCTV1综合" start="20261029055230 +0800" stop="20261029060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20261029060000 +0800" stop="20261029063550 +0800">
@@ -288,17 +288,14 @@
     <programme channel="CCTV3综艺" start="20261028192705 +0800" stop="20261028210000 +0800">
         <title lang="zh">越战越勇-2026-39</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261028210000 +0800" stop="20261028212325 +0800">
+    <programme channel="CCTV3综艺" start="20261028210000 +0800" stop="20261028212740 +0800">
         <title lang="zh">文化十分-2026-217</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261028212325 +0800" stop="20261028225205 +0800">
+    <programme channel="CCTV3综艺" start="20261028212740 +0800" stop="20261028225635 +0800">
         <title lang="zh">你好时光（第二季）-3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20261028225205 +0800" stop="20261028232730 +0800">
+    <programme channel="CCTV3综艺" start="20261028225635 +0800" stop="20261028233315 +0800">
         <title lang="zh">综艺喜乐汇-2026-1379 多彩少年 6</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20261028232730 +0800" stop="20261028233315 +0800">
-        <title lang="zh">综艺喜乐汇-2026-1032 咏春</title>
     </programme>
     <programme channel="CCTV3综艺" start="20261028233315 +0800" stop="20261029004935 +0800">
         <title lang="zh">跟着春晚游中国（义乌篇）-2</title>
