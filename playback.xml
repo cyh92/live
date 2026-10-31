@@ -87,19 +87,19 @@
     <programme channel="CCTV1综合" start="20261102040010 +0800" stop="20261102040300 +0800">
         <title lang="zh">前情提要-伟大的长征-第38集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261102040300 +0800" stop="20261102045300 +0800">
+    <programme channel="CCTV1综合" start="20261102040300 +0800" stop="20261102045355 +0800">
         <title lang="zh">伟大的长征第38集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261102045300 +0800" stop="20261102045550 +0800">
+    <programme channel="CCTV1综合" start="20261102045355 +0800" stop="20261102045645 +0800">
         <title lang="zh">前情提要-伟大的长征-第39集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261102045550 +0800" stop="20261102054445 +0800">
+    <programme channel="CCTV1综合" start="20261102045645 +0800" stop="20261102054540 +0800">
         <title lang="zh">伟大的长征第39集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261102054445 +0800" stop="20261102055255 +0800">
+    <programme channel="CCTV1综合" start="20261102054540 +0800" stop="20261102055150 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261102055255 +0800" stop="20261102060000 +0800">
+    <programme channel="CCTV1综合" start="20261102055150 +0800" stop="20261102060000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1综合" start="20261102060000 +0800" stop="20261102063545 +0800">
@@ -2823,8 +2823,110 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20261101080000 +0800" stop="20261102075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20261101080000 +0800" stop="20261101084800 +0800">
+        <title lang="zh">爱上特种兵</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101084800 +0800" stop="20261101094300 +0800">
+        <title lang="zh">爱上特种兵</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101094300 +0800" stop="20261101103000 +0800">
+        <title lang="zh">爱上特种兵</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101103000 +0800" stop="20261101112100 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101112100 +0800" stop="20261101122400 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101122400 +0800" stop="20261101132500 +0800">
+        <title lang="zh">启航！大运河</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101132500 +0800" stop="20261101135000 +0800">
+        <title lang="zh">诗画江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101135000 +0800" stop="20261101140500 +0800">
+        <title lang="zh">诗画江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101140500 +0800" stop="20261101143100 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101143100 +0800" stop="20261101150000 +0800">
+        <title lang="zh">江南文脉</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101150000 +0800" stop="20261101150300 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101150300 +0800" stop="20261101152300 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101152300 +0800" stop="20261101154300 +0800">
+        <title lang="zh">艺江南</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101154300 +0800" stop="20261101163500 +0800">
+        <title lang="zh">我爱古诗词第三季</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101163500 +0800" stop="20261101170200 +0800">
+        <title lang="zh">舍不得的丽江</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101170200 +0800" stop="20261101180000 +0800">
+        <title lang="zh">冰雨火</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101180000 +0800" stop="20261101200000 +0800">
+        <title lang="zh">银荔大剧秀</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101200000 +0800" stop="20261101203100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101203100 +0800" stop="20261101222700 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101222700 +0800" stop="20261101235600 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261101235600 +0800" stop="20261102002300 +0800">
+        <title lang="zh">齿轮上的时空糖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102002300 +0800" stop="20261102010300 +0800">
+        <title lang="zh">年少有为</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102010300 +0800" stop="20261102014700 +0800">
+        <title lang="zh">年少有为</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102014700 +0800" stop="20261102021600 +0800">
+        <title lang="zh">时代问答</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102021600 +0800" stop="20261102023000 +0800">
+        <title lang="zh">领航新时代</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102023000 +0800" stop="20261102030000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102030000 +0800" stop="20261102033100 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102033100 +0800" stop="20261102035000 +0800">
+        <title lang="zh">余红旧事 第16集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102035000 +0800" stop="20261102041100 +0800">
+        <title lang="zh">余红旧事 第17集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102041100 +0800" stop="20261102043100 +0800">
+        <title lang="zh">余红旧事 第18集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102043100 +0800" stop="20261102045400 +0800">
+        <title lang="zh">余红旧事 第19集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102045400 +0800" stop="20261102061500 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102061500 +0800" stop="20261102073600 +0800">
+        <title lang="zh">非诚勿扰复播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102073600 +0800" stop="20261102075300 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20261102075300 +0800" stop="20261102080000 +0800">
+        <title lang="zh">爱上特种兵</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
