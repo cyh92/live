@@ -99,19 +99,19 @@
     <programme channel="CCTV1综合" start="20261106030000 +0800" stop="20261106033910 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261106033910 +0800" stop="20261106040140 +0800">
+    <programme channel="CCTV1综合" start="20261106033910 +0800" stop="20261106040150 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261106040140 +0800" stop="20261106040600 +0800">
+    <programme channel="CCTV1综合" start="20261106040150 +0800" stop="20261106040600 +0800">
         <title lang="zh">前情提要-伟大的长征-46/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261106040600 +0800" stop="20261106045820 +0800">
+    <programme channel="CCTV1综合" start="20261106040600 +0800" stop="20261106045755 +0800">
         <title lang="zh">伟大的长征46/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261106045820 +0800" stop="20261106050050 +0800">
+    <programme channel="CCTV1综合" start="20261106045755 +0800" stop="20261106050115 +0800">
         <title lang="zh">前情提要-伟大的长征-47/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261106050050 +0800" stop="20261106060000 +0800">
+    <programme channel="CCTV1综合" start="20261106050115 +0800" stop="20261106060000 +0800">
         <title lang="zh">伟大的长征47/60</title>
     </programme>
     <programme channel="CCTV1综合" start="20261106060000 +0800" stop="20261106063600 +0800">
@@ -4518,8 +4518,83 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20261105080000 +0800" stop="20261106075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20261105080000 +0800" stop="20261105080900 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105080900 +0800" stop="20261105084200 +0800">
+        <title lang="zh">重播风从海上来</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105084200 +0800" stop="20261105092200 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105092200 +0800" stop="20261105095900 +0800">
+        <title lang="zh">重播原来是这样</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105095900 +0800" stop="20261105103100 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105103100 +0800" stop="20261105133800 +0800">
+        <title lang="zh">设备检修</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105133800 +0800" stop="20261105145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105145500 +0800" stop="20261105150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105150000 +0800" stop="20261105164000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105164000 +0800" stop="20261105164700 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105164700 +0800" stop="20261105200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105200000 +0800" stop="20261105203900 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261105203900 +0800" stop="20261106020400 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106020400 +0800" stop="20261106022400 +0800">
+        <title lang="zh">向往的大海</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106022400 +0800" stop="20261106023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106023000 +0800" stop="20261106030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106030000 +0800" stop="20261106033800 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106033800 +0800" stop="20261106043000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106043000 +0800" stop="20261106053100 +0800">
+        <title lang="zh">《自然公开课》第二季:第2期</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106053100 +0800" stop="20261106054300 +0800">
+        <title lang="zh">《自然公开课》第二季 课外课:第2期</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106054300 +0800" stop="20261106060200 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106060200 +0800" stop="20261106060800 +0800">
+        <title lang="zh">《“国宝”时刻》:第2集</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106060800 +0800" stop="20261106070000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106070000 +0800" stop="20261106071700 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106071700 +0800" stop="20261106072900 +0800">
+        <title lang="zh">珍藏叙长征:第8集</title>
+    </programme>
+    <programme channel="东南卫视" start="20261106072900 +0800" stop="20261106080000 +0800">
+        <title lang="zh">树说中国:第四集《古榕树下的烟火味》</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
