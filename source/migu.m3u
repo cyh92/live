@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://cnb.cool/my_team/live/-/git/raw/main/playback.xml,https://cyh92.github.io/live/playback.xml,gh-proxy.com/https://raw.githubusercontent.com/cyh92/live/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
-http://pull-hls-f11.douyinliving.com/media/stream-120374283106779986.m3u8?expire=1794349590&sign=a5d6738e2c0b5ead3367c45861e896d3&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026110406263042D181549179161F92CD-vpHcIH
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
 http://mgsp-zhy-bk.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=e11b4935c32d6d3aa8435e744633b113&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261104065439&Channel_ID=0116_2600034600-99000-201600010041269&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=221.210.223.5&SecurityKey=20261104065439&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=a99e4fda5923b44c3622c129bb5aef02&encrypt=e9ceed0750d0a099cebce8f755a48bc5
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/057/821/202204010054_1626677671392_H32_1080.webp" group-title="央视频道",CCTV1综合
 http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=ce047922f8c785ef3b4a7d079eaac22f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261104065548&Channel_ID=0116_2600034600-99000-201600010046137&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=221.210.223.158&SecurityKey=20261104065548&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=803f4d8442066f75fdc4bf6f181041e9&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31b1cffbf5176ec627d2152bde33fa7f
@@ -79,6 +77,8 @@ http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?m
 http://play.kankanlive.com/live/1698423397390920.m3u8
 #EXTINF:-1 tvg-id="CCTV5+体育赛事" tvg-name="CCTV5+体育赛事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/516/288/202204010048_1626679712843_H32_1080.webp" group-title="央视频道",CCTV5+体育赛事
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=178a73d071a1a78409c7ce91ac62a9ba&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20261104070709&Channel_ID=0116_2600034600-99000-201600010049737&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=36.212.181.244&SecurityKey=20261104070709&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=WX-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=8b739c8f162a969a8adf027aa38145aa&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3ff3100dc0084e600d8ea6319c2fb43e
+#EXTINF:-1 tvg-id="CCTV10科教" tvg-name="CCTV10科教" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/212/874/202204010054_1626677767922_H32_1080.webp" group-title="央视频道",CCTV10科教
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=6d0cec33d7dc2dabccf50c3527b421a5&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20261104090937&Channel_ID=0116_2600034600-99000-201600010032492&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=119.39.185.34&SecurityKey=20261104090937&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=6d8b69ba1a5cbd347b205b5bc064234a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d588e0df979109cdc516d39e0eb14ffb
 #EXTINF:-1 tvg-id="CCTV11戏曲" tvg-name="CCTV11戏曲" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/988/610/202204010054_1626677922732_H32_1080.webp" group-title="央视频道",CCTV11戏曲
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20261104063926&Channel_ID=0116_2600034600-99000-201600010005381&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=125.211.195.106&SecurityKey=20261104063926&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c024b42e700438a71ea24c1e91422d64&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=055205dd47530de51d262435898e3bc5
 #EXTINF:-1 tvg-id="CCTV12社会与法" tvg-name="CCTV12社会与法" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/627/202204010053_1626678108629_H32_1080.webp" group-title="央视频道",CCTV12社会与法
@@ -93,6 +93,8 @@ http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msi
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20261104063851&Channel_ID=0116_2600034600-99000-201600010093190&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=125.211.195.105&SecurityKey=20261104063851&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1b1c86c6956d83d4efb5650bcd3e64e9&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38fd9180c8eef056f173adb40bc50f90
 #EXTINF:-1 tvg-id="CCTV15音乐" tvg-name="CCTV15音乐" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/628/202204010054_1626678245130_H32_1080.webp" group-title="央视频道",CCTV15音乐
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261104063808&Channel_ID=0116_2600034600-99000-201600010074666&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=125.211.195.104&SecurityKey=20261104063808&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fc82ec16d13cd15102f86ba6ee464cab&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=81f3106b78c23b15e039022ea27c63fb
+#EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视频道",CCTV17农业农村
+http://pull-f3.douyincdn.com/media/stream-120375002104070828.m3u8?auth_key=1794357489-0-0-f8234c6b27e594c2238636c62c1b282a&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261104090809FE3298869F8C3B5F6638-dIlllZ
 #EXTINF:-1 tvg-id="CCTV17农业农村" tvg-name="CCTV17农业农村" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5501/083/631/202204010052_1626678428060_H32_1080.webp" group-title="央视频道",CCTV17农业农村
 http://mgsp-yx-bk.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/51/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20261104063736&Channel_ID=0116_2600034600-99000-201600010061159&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=163.125.186.79&SecurityKey=20261104063736&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=1f026bfc4ff4411e2e7bffead64d80ad&encrypt=eb69b7c16181512805312e4b1324c71c
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="卫视频道",湖南卫视
@@ -171,12 +173,12 @@ https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubT
 http://mgsp-yx-bk.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=cfbc0f2f5172e90f64e1be4e8180240f&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20261104062925&Channel_ID=0116_2600034600-99000-201600010060682&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=163.125.186.79&SecurityKey=20261104062925&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&encrypt=38dbc118e1bfd30c8ec9f7b49028d428&mtv_session=e17e9665d1cd6edcef4bcbb8c037f15b&HlsSubType=1&HlsProfileId=1&nphaid=0
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/192/202607201552_1784533969668_H32_1080.webp" group-title="卫视频道",兵团卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="" group-title="广东地区",广东民生
+http://183.11.239.36:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="" group-title="广东地区",广东移动
 http://183.234.143.5:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="" group-title="广东地区",广东移动
 http://183.11.239.36:808/hls/14/index.m3u8
-#EXTINF:-1 tvg-id="广东现代教育" tvg-name="广东现代教育" tvg-logo="" group-title="广东地区",广东现代教育
-http://183.239.226.235:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东嘉佳卡通" tvg-name="广东嘉佳卡通" tvg-logo="" group-title="广东地区",广东嘉佳卡通
 http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="" group-title="广东地区",广东少儿
@@ -189,8 +191,6 @@ http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 #EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="" group-title="广东地区",广东影视
 http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="" group-title="广东地区",广东经济科教
-http://218.13.170.98:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="" group-title="广东地区",广东4K超高清
 http://183.11.239.36:808/hls/9/index.m3u8
 #EXTINF:-1 tvg-id="广州番禺" tvg-name="广州番禺" tvg-logo="" group-title="广东地区",广州番禺
@@ -587,8 +587,6 @@ http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8
 #EXTINF:-1 tvg-id="泸州3" tvg-name="泸州3" tvg-logo="" group-title="四川地区",泸州3
 http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
-#EXTINF:-1 tvg-id="黑水综合" tvg-name="黑水综合" tvg-logo="" group-title="四川地区",黑水综合
-http://live.schstv.com:90/live/xwzh.m3u8
 #EXTINF:-1 tvg-id="金川综合" tvg-name="金川综合" tvg-logo="" group-title="四川地区",金川综合
 http://live.jinchuanrmt.com:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-id="金川综合" tvg-name="金川综合" tvg-logo="" group-title="四川地区",金川综合
@@ -631,6 +629,10 @@ https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="邯郸科教" tvg-name="邯郸科教" tvg-logo="" group-title="河北地区",邯郸科教
 https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="衡水新闻综合" tvg-name="衡水新闻综合" tvg-logo="" group-title="河北地区",衡水新闻综合
+http://hls.hsrtv.cn/live/hshstv1.m3u8
+#EXTINF:-1 tvg-id="衡水公共" tvg-name="衡水公共" tvg-logo="" group-title="河北地区",衡水公共
+http://hls.hsrtv.cn/live/hshstv2.m3u8
 #EXTINF:-1 tvg-id="邢台综合" tvg-name="邢台综合" tvg-logo="" group-title="河北地区",邢台综合
 http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="邢台综合" tvg-name="邢台综合" tvg-logo="" group-title="河北地区",邢台综合
@@ -653,8 +655,8 @@ https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8
 http://jwcdnqx.hebyun.com.cn/live/qxtvlive1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="福建地区",海峡卫视
 https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
-#EXTINF:-1 tvg-id="福州新闻综合" tvg-name="福州新闻综合" tvg-logo="" group-title="福建地区",福州新闻综合
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 tvg-id="福州生活" tvg-name="福州生活" tvg-logo="" group-title="福建地区",福州生活
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="漳浦综合" tvg-name="漳浦综合" tvg-logo="" group-title="福建地区",漳浦综合
 http://183.250.71.80:8090/hls/0/index.m3u8
 #EXTINF:-1 tvg-id="云霄综合" tvg-name="云霄综合" tvg-logo="" group-title="福建地区",云霄综合
@@ -699,6 +701,8 @@ http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
 http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
 #EXTINF:-1 tvg-id="舞钢综合" tvg-name="舞钢综合" tvg-logo="" group-title="河南地区",舞钢综合
 http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+#EXTINF:-1 tvg-id="鹤壁新闻" tvg-name="鹤壁新闻" tvg-logo="" group-title="河南地区",鹤壁新闻
+http://pili-live-hls.hebitv.com/hebi/hbtv.m3u8
 #EXTINF:-1 tvg-id="灵宝新闻综合" tvg-name="灵宝新闻综合" tvg-logo="" group-title="河南地区",灵宝新闻综合
 http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
 #EXTINF:-1 tvg-id="淮滨综合" tvg-name="淮滨综合" tvg-logo="" group-title="河南地区",淮滨综合
@@ -805,6 +809,10 @@ http://59.175.226.142:280/gb28181/xwzh.flv
 https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 tvg-id="宜昌旅游生活" tvg-name="宜昌旅游生活" tvg-logo="" group-title="湖北地区",宜昌旅游生活
 https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+#EXTINF:-1 tvg-id="菏泽1" tvg-name="菏泽1" tvg-logo="" group-title="山东地区",菏泽1
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="菏泽2" tvg-name="菏泽2" tvg-logo="" group-title="山东地区",菏泽2
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="烟台新闻" tvg-name="烟台新闻" tvg-logo="" group-title="山东地区",烟台新闻
 http://live.yantaitv.cn/live/212803c257394d429606a0815d20e3ce/710c510f5a5441cb8fc062e2dd3e1a76.m3u8
 #EXTINF:-1 tvg-id="烟台公共" tvg-name="烟台公共" tvg-logo="" group-title="山东地区",烟台公共
@@ -823,6 +831,8 @@ https://f3jok3az.live.sxmty.com/live/hls/ebaa2bf2e7f94dc79d4e642ac76d2415/0d9736
 http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
 #EXTINF:-1 tvg-id="万荣综合" tvg-name="万荣综合" tvg-logo="" group-title="山西地区",万荣综合
 http://60.222.246.220:19433/hls1.m3u8
+#EXTINF:-1 tvg-id="津南电视台" tvg-name="津南电视台" tvg-logo="" group-title="天津地区",津南电视台
+http://play.jinnantv.top/live/JNTV1.m3u8
 #EXTINF:-1 tvg-id="嘉峪关综合" tvg-name="嘉峪关综合" tvg-logo="" group-title="甘肃地区",嘉峪关综合
 https://play.kankanlive.com/live/1658978094528926.m3u8
 #EXTINF:-1 tvg-id="嘉峪关公共" tvg-name="嘉峪关公共" tvg-logo="" group-title="甘肃地区",嘉峪关公共
@@ -902,8 +912,6 @@ https://play.kankanlive.com/live/1680577080200944.m3u8
 #EXTINF:-1 tvg-id="秦安电视台" tvg-name="秦安电视台" tvg-logo="" group-title="甘肃地区",秦安电视台
 http://play.kankanlive.com/live/1680577080200944.flv
 #EXTINF:-1 tvg-id="CCTV1超清" tvg-name="CCTV1超清" tvg-logo="" group-title="超清频道",CCTV1超清
-http://pull-hls-f11.douyinliving.com/media/stream-120374283106779986.m3u8?expire=1794349590&sign=a5d6738e2c0b5ead3367c45861e896d3&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026110406263042D181549179161F92CD-vpHcIH
-#EXTINF:-1 tvg-id="CCTV1超清" tvg-name="CCTV1超清" tvg-logo="" group-title="超清频道",CCTV1超清
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=b4398423ba1772c946e4b085e6de4df1&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261104065310&Channel_ID=0116_2600034600-99000-201600010060539&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=60.15.54.251&SecurityKey=20261104065310&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=7ef7b76312f6bea7f5c1bbb6e516a127&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b42096de1795aa552043f4739d585ccc
 #EXTINF:-1 tvg-id="CCTV2超清" tvg-name="CCTV2超清" tvg-logo="" group-title="超清频道",CCTV2超清
 http://pull-hls-f11.douyincdn.com/media/stream-120222380172772012.m3u8?expire=1793935312&sign=f89d3d212907bc50963a6244429a5ec0&exp_hrchy=w1&major_anchor_level=common&arch_hrchy=w1&t_id=037-20261030112152D848FC8E5155D0D58B8B-kLkZhk
@@ -925,6 +933,8 @@ http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/01.m3u8?
 http://mgsp-yx-bk.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20261104064310&Channel_ID=0116_2600034600-99000-201600010094595&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=163.125.186.79&SecurityKey=20261104064310&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&encrypt=1f694910a391fcbf0672ec01c48100aa&mtv_session=76ef6b4d626e4437cf4718010f2690f3&HlsSubType=1&HlsProfileId=1&nphaid=0
 #EXTINF:-1 tvg-id="CCTV9超清" tvg-name="CCTV9超清" tvg-logo="" group-title="超清频道",CCTV9超清
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20261104064137&Channel_ID=0116_2600034600-99000-201600010002722&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=125.211.195.110&SecurityKey=20261104064137&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=8e3eced90789b673ef3211fe9ca9bb1e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f52ed51a6864e7e386c92d1f623b97ac
+#EXTINF:-1 tvg-id="CCTV10超清" tvg-name="CCTV10超清" tvg-logo="" group-title="超清频道",CCTV10超清
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=6d0cec33d7dc2dabccf50c3527b421a5&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20261104090937&Channel_ID=0116_2600034600-99000-201600010032492&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=119.39.185.34&SecurityKey=20261104090937&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=6d8b69ba1a5cbd347b205b5bc064234a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d588e0df979109cdc516d39e0eb14ffb
 #EXTINF:-1 tvg-id="CCTV11超清" tvg-name="CCTV11超清" tvg-logo="" group-title="超清频道",CCTV11超清
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20261104063926&Channel_ID=0116_2600034600-99000-201600010005381&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=125.211.195.106&SecurityKey=20261104063926&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=c024b42e700438a71ea24c1e91422d64&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=055205dd47530de51d262435898e3bc5
 #EXTINF:-1 tvg-id="CCTV12超清" tvg-name="CCTV12超清" tvg-logo="" group-title="超清频道",CCTV12超清
@@ -939,6 +949,8 @@ http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msi
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20261104063851&Channel_ID=0116_2600034600-99000-201600010093190&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=125.211.195.105&SecurityKey=20261104063851&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1b1c86c6956d83d4efb5650bcd3e64e9&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38fd9180c8eef056f173adb40bc50f90
 #EXTINF:-1 tvg-id="CCTV15超清" tvg-name="CCTV15超清" tvg-logo="" group-title="超清频道",CCTV15超清
 http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20261104063808&Channel_ID=0116_2600034600-99000-201600010074666&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=125.211.195.104&SecurityKey=20261104063808&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=fc82ec16d13cd15102f86ba6ee464cab&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=81f3106b78c23b15e039022ea27c63fb
+#EXTINF:-1 tvg-id="CCTV17超清" tvg-name="CCTV17超清" tvg-logo="" group-title="超清频道",CCTV17超清
+http://pull-f3.douyincdn.com/media/stream-120375002104070828.m3u8?auth_key=1794357489-0-0-f8234c6b27e594c2238636c62c1b282a&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-20261104090809FE3298869F8C3B5F6638-dIlllZ
 #EXTINF:-1 tvg-id="CCTV17超清" tvg-name="CCTV17超清" tvg-logo="" group-title="超清频道",CCTV17超清
 http://mgsp-yx-bk.live.miguvideo.com:8088/migu/kailu/20200324/cctv17hd/51/01.m3u8?msisdn=7b829fead72e1ddac6f12994b36bc7b7&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20261104063736&Channel_ID=0116_2600034600-99000-201600010061159&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=163.125.186.79&SecurityKey=20261104063736&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=1f026bfc4ff4411e2e7bffead64d80ad&encrypt=eb69b7c16181512805312e4b1324c71c
 #EXTINF:-1 tvg-id="CCTV5+超清" tvg-name="CCTV5+超清" tvg-logo="" group-title="超清频道",CCTV5+超清
@@ -1009,5 +1021,7 @@ http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02O
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="超清频道",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
-#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-11-4 15:17:58
-http://pull-hls-f11.douyinliving.com/media/stream-120374283106779986.m3u8?expire=1794349590&sign=a5d6738e2c0b5ead3367c45861e896d3&arch_hrchy=s2&s_anchor=1&major_anchor_level=vip&t_id=037-2026110406263042D181549179161F92CD-vpHcIH
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="超清频道",浙江卫视4K
+https://bd-xwl.cztv.com/live/channel4k2160p.m3u8
+#EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="央视频道",更新日期: 2026-11-4 17:10:13
+http://mgsp-zhy-bk.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=e11b4935c32d6d3aa8435e744633b113&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20261104065439&Channel_ID=0116_2600034600-99000-201600010041269&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=221.210.223.5&SecurityKey=20261104065439&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.10.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&mtv_session=a99e4fda5923b44c3622c129bb5aef02&encrypt=e9ceed0750d0a099cebce8f755a48bc5
