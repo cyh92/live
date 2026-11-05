@@ -93,22 +93,22 @@
     <programme channel="CCTV1综合" start="20261107030000 +0800" stop="20261107033925 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107033925 +0800" stop="20261107040040 +0800">
+    <programme channel="CCTV1综合" start="20261107033925 +0800" stop="20261107040050 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107040040 +0800" stop="20261107040400 +0800">
+    <programme channel="CCTV1综合" start="20261107040050 +0800" stop="20261107040400 +0800">
         <title lang="zh">前情提要-伟大的长征-第48集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107040400 +0800" stop="20261107045600 +0800">
+    <programme channel="CCTV1综合" start="20261107040400 +0800" stop="20261107045420 +0800">
         <title lang="zh">伟大的长征48/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107045600 +0800" stop="20261107045930 +0800">
+    <programme channel="CCTV1综合" start="20261107045420 +0800" stop="20261107045745 +0800">
         <title lang="zh">前情提要-伟大的长征-第49集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107045930 +0800" stop="20261107055235 +0800">
+    <programme channel="CCTV1综合" start="20261107045745 +0800" stop="20261107055140 +0800">
         <title lang="zh">伟大的长征49/60</title>
     </programme>
-    <programme channel="CCTV1综合" start="20261107055235 +0800" stop="20261107060000 +0800">
+    <programme channel="CCTV1综合" start="20261107055140 +0800" stop="20261107060000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20261107060000 +0800" stop="20261107063530 +0800">
@@ -11808,8 +11808,47 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20261106080000 +0800" stop="20261107075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20261106080000 +0800" stop="20261106140300 +0800">
+        <title lang="zh">喜羊羊与灰太狼之遨游神秘洋</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261106140300 +0800" stop="20261106161300 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261106161300 +0800" stop="20261106171600 +0800">
+        <title lang="zh">疯狂小糖</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261106171600 +0800" stop="20261106191700 +0800">
+        <title lang="zh">超级飞侠(十九)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261106191700 +0800" stop="20261106221100 +0800">
+        <title lang="zh">奶龙之搞怪大作战二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261106221100 +0800" stop="20261107000800 +0800">
+        <title lang="zh">奇妙萌可之魔法甜心</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107000800 +0800" stop="20261107004300 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107004300 +0800" stop="20261107023500 +0800">
+        <title lang="zh">奶龙搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107023500 +0800" stop="20261107025900 +0800">
+        <title lang="zh">超级飞侠之奇芯宝藏二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107025900 +0800" stop="20261107033400 +0800">
+        <title lang="zh">超级飞侠(二十)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107033400 +0800" stop="20261107034500 +0800">
+        <title lang="zh">咖宝车神之星卫战队(上)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107034500 +0800" stop="20261107050900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之决战次时代</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107050900 +0800" stop="20261107051200 +0800">
+        <title lang="zh">嗨!小喇叭-运动会开幕式(二)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261107051200 +0800" stop="20261107080000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之决战次时代</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
