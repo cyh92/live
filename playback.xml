@@ -91,13 +91,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20261115040040 +0800" stop="20261115040300 +0800">
-        <title lang="zh">前情提要-伟大的长征-58/60</title>
+        <title lang="zh">前情提要-伟大的长征-第58集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261115040300 +0800" stop="20261115045415 +0800">
         <title lang="zh">伟大的长征第58集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261115045415 +0800" stop="20261115045635 +0800">
-        <title lang="zh">前情提要-伟大的长征-59/60</title>
+        <title lang="zh">前情提要-伟大的长征-第59集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261115045635 +0800" stop="20261115054800 +0800">
         <title lang="zh">伟大的长征第59集</title>
@@ -853,13 +853,13 @@
         <title lang="zh">本集提要-谷雨-第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261115033000 +0800" stop="20261115042540 +0800">
-        <title lang="zh">谷雨19/30</title>
+        <title lang="zh">谷雨第19集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261115042540 +0800" stop="20261115043040 +0800">
         <title lang="zh">本集提要-谷雨-第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261115043040 +0800" stop="20261115052710 +0800">
-        <title lang="zh">谷雨20/30</title>
+        <title lang="zh">谷雨第20集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261115052710 +0800" stop="20261115053210 +0800">
         <title lang="zh">本集提要-小城大事-第10集</title>
@@ -1419,16 +1419,16 @@
     <programme channel="CCTV15音乐" start="20261115022230 +0800" stop="20261115033000 +0800">
         <title lang="zh">风华国乐-2026-299绿野漫弹-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261115033000 +0800" stop="20261115050530 +0800">
-        <title lang="zh">中国音乐电视-2026-5-山河回响 声动音乐会</title>
+    <programme channel="CCTV15音乐" start="20261115033000 +0800" stop="20261115045730 +0800">
+        <title lang="zh">中国音乐电视-2026-15-山河回响 声动音乐会（精编）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261115050530 +0800" stop="20261115062100 +0800">
+    <programme channel="CCTV15音乐" start="20261115045730 +0800" stop="20261115061300 +0800">
         <title lang="zh">中国节拍-品味古典68</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261115062100 +0800" stop="20261115072030 +0800">
+    <programme channel="CCTV15音乐" start="20261115061300 +0800" stop="20261115071230 +0800">
         <title lang="zh">CCTV音乐厅-2026-193-“时代交响”系列音乐会（二）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261115072030 +0800" stop="20261115075900 +0800">
+    <programme channel="CCTV15音乐" start="20261115071230 +0800" stop="20261115075900 +0800">
         <title lang="zh">精彩音乐汇-2026-627</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -11436,8 +11436,71 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20261114080000 +0800" stop="20261115075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20261114080000 +0800" stop="20261114140000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄七</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114140000 +0800" stop="20261114161000 +0800">
+        <title lang="zh">奶龙之搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114161000 +0800" stop="20261114171600 +0800">
+        <title lang="zh">超级飞侠之奇芯宝藏二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114171600 +0800" stop="20261114172600 +0800">
+        <title lang="zh">嗨!小喇叭之少年大本营</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114172600 +0800" stop="20261114190400 +0800">
+        <title lang="zh">奶龙搞怪大作战二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114190400 +0800" stop="20261114190700 +0800">
+        <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114190700 +0800" stop="20261114200000 +0800">
+        <title lang="zh">奶龙搞怪大作战二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114200000 +0800" stop="20261114221000 +0800">
+        <title lang="zh">奇妙萌可之闪耀流星</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114221000 +0800" stop="20261114225500 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114225500 +0800" stop="20261114230400 +0800">
+        <title lang="zh">嘉佳全能星之穿粤小探险家</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114230400 +0800" stop="20261114231000 +0800">
+        <title lang="zh">嘉佳全能星-2026遇见中华诗词之美</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261114231000 +0800" stop="20261115000800 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115000800 +0800" stop="20261115023000 +0800">
+        <title lang="zh">奶龙搞怪大作战二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115023000 +0800" stop="20261115025500 +0800">
+        <title lang="zh">超级飞侠之奇芯宝藏二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115025500 +0800" stop="20261115033000 +0800">
+        <title lang="zh">超级飞侠之奇芯宝藏一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115033000 +0800" stop="20261115034500 +0800">
+        <title lang="zh">咖宝车神之星卫战队上</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115034500 +0800" stop="20261115035800 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之二奇趣外星客</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115035800 +0800" stop="20261115041000 +0800">
+        <title lang="zh">《红领巾爱广东》第二季</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115041000 +0800" stop="20261115043500 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之二奇趣外星客</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115043500 +0800" stop="20261115050000 +0800">
+        <title lang="zh">迪迪和科学爷爷一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115050000 +0800" stop="20261115061000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之二奇趣外星客</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261115061000 +0800" stop="20261115080000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之发明大作战二</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
