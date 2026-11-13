@@ -4425,8 +4425,68 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20261114080000 +0800" stop="20261115075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20261114080000 +0800" stop="20261114092800 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114092800 +0800" stop="20261114103600 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114103600 +0800" stop="20261114113100 +0800">
+        <title lang="zh">重播走近这片海:第3集</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114113100 +0800" stop="20261114120300 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114120300 +0800" stop="20261114133800 +0800">
+        <title lang="zh">重播山海福建</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114133800 +0800" stop="20261114145500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114145500 +0800" stop="20261114150000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114150000 +0800" stop="20261114200000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114200000 +0800" stop="20261114203500 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114203500 +0800" stop="20261114204700 +0800">
+        <title lang="zh">天涯共此诗:第1集</title>
+    </programme>
+    <programme channel="东南卫视" start="20261114204700 +0800" stop="20261115021000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115021000 +0800" stop="20261115022400 +0800">
+        <title lang="zh">天涯共此诗:第2集</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115022400 +0800" stop="20261115023000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115023000 +0800" stop="20261115030000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115030000 +0800" stop="20261115033300 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115033300 +0800" stop="20261115052200 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115052200 +0800" stop="20261115055900 +0800">
+        <title lang="zh">朋友别见外:第8期</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115055900 +0800" stop="20261115061100 +0800">
+        <title lang="zh">《悦读·家》（第八季）:第8期</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115061100 +0800" stop="20261115070100 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115070100 +0800" stop="20261115071700 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20261115071700 +0800" stop="20261115080000 +0800">
+        <title lang="zh">第二十五届“汉语桥”世界大学生中文比赛总决赛（上）</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
@@ -4542,8 +4602,137 @@
     <channel id="海峡卫视">
         <display-name lang="zh">海峡卫视</display-name>
     </channel>
-    <programme channel="海峡卫视" start="20261114080000 +0800" stop="20261115075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="海峡卫视" start="20261114080000 +0800" stop="20261114084200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114084200 +0800" stop="20261114090600 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114090600 +0800" stop="20261114091500 +0800">
+        <title lang="zh">重播早餐中国第五季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114091500 +0800" stop="20261114094000 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114094000 +0800" stop="20261114100500 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114100500 +0800" stop="20261114102200 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114102200 +0800" stop="20261114110600 +0800">
+        <title lang="zh">重播青春剧场:无忧渡 第5集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114110600 +0800" stop="20261114115000 +0800">
+        <title lang="zh">重播青春剧场:无忧渡 第6集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114115000 +0800" stop="20261114123400 +0800">
+        <title lang="zh">重播青春剧场:无忧渡 第7集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114123400 +0800" stop="20261114125900 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114125900 +0800" stop="20261114134100 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114134100 +0800" stop="20261114140500 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114140500 +0800" stop="20261114142200 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114142200 +0800" stop="20261114150400 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114150400 +0800" stop="20261114152800 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114152800 +0800" stop="20261114154300 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114154300 +0800" stop="20261114161100 +0800">
+        <title lang="zh">重播精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114161100 +0800" stop="20261114161800 +0800">
+        <title lang="zh">重播早餐中国第五季</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114161800 +0800" stop="20261114173300 +0800">
+        <title lang="zh">重播第25届汉语桥世界大学生中文比赛半决赛</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114173300 +0800" stop="20261114181700 +0800">
+        <title lang="zh">时代剧场:白色城堡 第31集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114181700 +0800" stop="20261114190100 +0800">
+        <title lang="zh">时代剧场:白色城堡 第32集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114190100 +0800" stop="20261114194500 +0800">
+        <title lang="zh">时代剧场:白色城堡 第33集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114194500 +0800" stop="20261114200000 +0800">
+        <title lang="zh">重播心中有片海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114200000 +0800" stop="20261114203000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114203000 +0800" stop="20261114205400 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114205400 +0800" stop="20261114210900 +0800">
+        <title lang="zh">福建一百吃</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114210900 +0800" stop="20261114212600 +0800">
+        <title lang="zh">福建一百吃</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114212600 +0800" stop="20261114221000 +0800">
+        <title lang="zh">家庭剧场:小巷人家 第35集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114221000 +0800" stop="20261114225400 +0800">
+        <title lang="zh">家庭剧场:小巷人家 第36集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114225400 +0800" stop="20261114233800 +0800">
+        <title lang="zh">家庭剧场:小巷人家 第37集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114233800 +0800" stop="20261114235300 +0800">
+        <title lang="zh">重播福建一百吃</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261114235300 +0800" stop="20261115001000 +0800">
+        <title lang="zh">重播福建一百吃</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115001000 +0800" stop="20261115003500 +0800">
+        <title lang="zh">精品纪录片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115003500 +0800" stop="20261115005100 +0800">
+        <title lang="zh">福建一百吃:1</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115005100 +0800" stop="20261115013500 +0800">
+        <title lang="zh">青春剧场:无忧渡 第8集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115013500 +0800" stop="20261115021900 +0800">
+        <title lang="zh">青春剧场:无忧渡 第9集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115021900 +0800" stop="20261115030300 +0800">
+        <title lang="zh">青春剧场:无忧渡 第10集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115030300 +0800" stop="20261115031000 +0800">
+        <title lang="zh">第二十五届“汉语桥”世界大学生中文比赛全球总决赛先导片</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115031000 +0800" stop="20261115050000 +0800">
+        <title lang="zh">第25届汉语桥世界大学生中文比赛总决赛</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115050000 +0800" stop="20261115054200 +0800">
+        <title lang="zh">今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115054200 +0800" stop="20261115062600 +0800">
+        <title lang="zh">自然公开课2</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115062600 +0800" stop="20261115063700 +0800">
+        <title lang="zh">自然公开课2:课外课</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115063700 +0800" stop="20261115072000 +0800">
+        <title lang="zh">海峡剧场:大生意人 第1集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20261115072000 +0800" stop="20261115080400 +0800">
+        <title lang="zh">海峡剧场:大生意人 第2集</title>
     </programme>
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
