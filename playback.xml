@@ -12438,7 +12438,43 @@
     <channel id="梨园频道">
         <display-name lang="zh">梨园频道</display-name>
     </channel>
-    <programme channel="梨园频道" start="20261115080000 +0800" stop="20261116075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="梨园频道" start="20261115074000 +0800" stop="20261115080500 +0800">
+        <title lang="zh">唱段欣赏</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115080500 +0800" stop="20261115102600 +0800">
+        <title lang="zh">丝弦:比干挖心</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115102600 +0800" stop="20261115124000 +0800">
+        <title lang="zh">豫剧:抬花轿-耿荣,杨红霞</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115124000 +0800" stop="20261115145400 +0800">
+        <title lang="zh">曲剧:阿Q与孔乙己-杨帅学</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115145400 +0800" stop="20261115170800 +0800">
+        <title lang="zh">豫剧:抬花轿-耿荣,杨红霞</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115170800 +0800" stop="20261115192300 +0800">
+        <title lang="zh">丝弦:比干挖心</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115192300 +0800" stop="20261115205300 +0800">
+        <title lang="zh">阴阳配</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115205300 +0800" stop="20261115233700 +0800">
+        <title lang="zh">曲剧:阿Q与孔乙己-杨帅学</title>
+    </programme>
+    <programme channel="梨园频道" start="20261115233700 +0800" stop="20261116015200 +0800">
+        <title lang="zh">豫剧:杜甫大河之子</title>
+    </programme>
+    <programme channel="梨园频道" start="20261116015200 +0800" stop="20261116024200 +0800">
+        <title lang="zh">唱段欣赏</title>
+    </programme>
+    <programme channel="梨园频道" start="20261116024200 +0800" stop="20261116052600 +0800">
+        <title lang="zh">豫剧:五更惊雷-袁国营</title>
+    </programme>
+    <programme channel="梨园频道" start="20261116052600 +0800" stop="20261116074000 +0800">
+        <title lang="zh">豫剧:穆桂英挂帅-马金凤</title>
+    </programme>
+    <programme channel="梨园频道" start="20261116074000 +0800" stop="20261116080500 +0800">
+        <title lang="zh">唱段欣赏</title>
     </programme>
 </tv>
