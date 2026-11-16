@@ -3309,8 +3309,107 @@
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
     </channel>
-    <programme channel="广东卫视" start="20261117080000 +0800" stop="20261118075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="广东卫视" start="20261117072600 +0800" stop="20261117081300 +0800">
+        <title lang="zh">暗夜与黎明(34)</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117081300 +0800" stop="20261117142000 +0800">
+        <title lang="zh">纪录片</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117142000 +0800" stop="20261117143000 +0800">
+        <title lang="zh">天涯共此诗</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117143000 +0800" stop="20261117145700 +0800">
+        <title lang="zh">广东新闻联播重播</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117145700 +0800" stop="20261117150000 +0800">
+        <title lang="zh">早间天气预报</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117150000 +0800" stop="20261117153000 +0800">
+        <title lang="zh">大美南粤</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117153000 +0800" stop="20261117170000 +0800">
+        <title lang="zh">闪亮的APEC之旅</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117170000 +0800" stop="20261117173000 +0800">
+        <title lang="zh">APEC在广东·特别报道</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117173000 +0800" stop="20261117180000 +0800">
+        <title lang="zh">鲜味中国</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117180000 +0800" stop="20261117183000 +0800">
+        <title lang="zh">APEC在广东·权威访谈</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117183000 +0800" stop="20261117190000 +0800">
+        <title lang="zh">红树林</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117190000 +0800" stop="20261117193000 +0800">
+        <title lang="zh">四海潮味</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117193000 +0800" stop="20261117200000 +0800">
+        <title lang="zh">思想耀岭南</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117200000 +0800" stop="20261117210000 +0800">
+        <title lang="zh">午间新闻</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117210000 +0800" stop="20261117220000 +0800">
+        <title lang="zh">广济沧海</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117220000 +0800" stop="20261117223000 +0800">
+        <title lang="zh">APEC在广东·特别报道</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117223000 +0800" stop="20261117230000 +0800">
+        <title lang="zh">闪亮的APEC之旅</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117230000 +0800" stop="20261117233000 +0800">
+        <title lang="zh">APEC在广东·特别报道</title>
+    </programme>
+    <programme channel="广东卫视" start="20261117233000 +0800" stop="20261118000000 +0800">
+        <title lang="zh">闪亮的APEC之旅</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118000000 +0800" stop="20261118005000 +0800">
+        <title lang="zh">中华白海豚</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118005000 +0800" stop="20261118015000 +0800">
+        <title lang="zh">老广的味道</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118015000 +0800" stop="20261118021500 +0800">
+        <title lang="zh">思想耀岭南</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118021500 +0800" stop="20261118023000 +0800">
+        <title lang="zh">天涯共此诗</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118023000 +0800" stop="20261118030000 +0800">
+        <title lang="zh">广东新闻联播</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118030000 +0800" stop="20261118033000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118033000 +0800" stop="20261118040300 +0800">
+        <title lang="zh">APEC在广东·权威访谈</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118040300 +0800" stop="20261118044200 +0800">
+        <title lang="zh">闪亮的APEC之旅</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118044200 +0800" stop="20261118050000 +0800">
+        <title lang="zh">思想耀岭南</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118050000 +0800" stop="20261118060000 +0800">
+        <title lang="zh">晚间新闻</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118060000 +0800" stop="20261118062500 +0800">
+        <title lang="zh">红树林</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118062500 +0800" stop="20261118063000 +0800">
+        <title lang="zh">思想耀岭南</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118063000 +0800" stop="20261118070000 +0800">
+        <title lang="zh">闪亮的APEC之旅</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118070000 +0800" stop="20261118073000 +0800">
+        <title lang="zh">APEC在广东·特别报道</title>
+    </programme>
+    <programme channel="广东卫视" start="20261118073000 +0800" stop="20261118080000 +0800">
+        <title lang="zh">飞越广东</title>
     </programme>
     <channel id="北京卫视">
         <display-name lang="zh">北京卫视</display-name>
