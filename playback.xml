@@ -11877,8 +11877,65 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20261120080000 +0800" stop="20261121075900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20261120080000 +0800" stop="20261120135900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之嘻哈闯世界三</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120135900 +0800" stop="20261120160900 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄七</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120160900 +0800" stop="20261120163100 +0800">
+        <title lang="zh">小沙之欢声笑语</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120163100 +0800" stop="20261120171200 +0800">
+        <title lang="zh">海底小纵队第六季</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120171200 +0800" stop="20261120172500 +0800">
+        <title lang="zh">天涯共此诗</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120172500 +0800" stop="20261120190400 +0800">
+        <title lang="zh">海底小纵队第十季</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120190400 +0800" stop="20261120193000 +0800">
+        <title lang="zh">疯狂小糖</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120193000 +0800" stop="20261120221500 +0800">
+        <title lang="zh">爆笑虫子在中国(上)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120221500 +0800" stop="20261120235800 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者六</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261120235800 +0800" stop="20261121015600 +0800">
+        <title lang="zh">薇薇猫的日常</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121015600 +0800" stop="20261121030200 +0800">
+        <title lang="zh">爆笑虫子在中国(上)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121030200 +0800" stop="20261121033800 +0800">
+        <title lang="zh">超级飞侠二十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121033800 +0800" stop="20261121035000 +0800">
+        <title lang="zh">咖宝车神之星卫战队(上)</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121035000 +0800" stop="20261121040400 +0800">
+        <title lang="zh">喜羊羊与灰太狼之发明大作战一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121040400 +0800" stop="20261121040700 +0800">
+        <title lang="zh">2026蕃尼蕃尼之嘉有好朋友</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121040700 +0800" stop="20261121043300 +0800">
+        <title lang="zh">喜羊羊与灰太狼之发明大作战一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121043300 +0800" stop="20261121045900 +0800">
+        <title lang="zh">迪迪和科学爷爷第一季</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121045900 +0800" stop="20261121051000 +0800">
+        <title lang="zh">天涯共此诗</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121051000 +0800" stop="20261121051200 +0800">
+        <title lang="zh">嗨！小喇叭-国宝与经典特辑</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20261121051200 +0800" stop="20261121080000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之发明大作战一</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
